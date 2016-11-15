@@ -1,0 +1,9 @@
+# Directories #
+######################
+runs/*
+other/*
+
+# Files #
+######################
+.DS_Store
+vocabulary_dict.p
