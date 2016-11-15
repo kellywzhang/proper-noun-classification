@@ -1,0 +1,2862 @@
+Example: A-200 Shampoo Concentrate guess= drug gold= confidence=0.996734
+Example: Acet-2 guess= drug gold= confidence=0.996626
+Example: Actifed Cold & Sinus Caplets 26 guess= drug gold= confidence=0.984726
+Example: Actigall guess= drug gold= confidence=0.645132
+Example: Actisite guess= drug gold= confidence=0.816144
+Example: Activase guess= drug gold= confidence=0.750734
+Example: Adriamycin RDF guess= drug gold= confidence=0.996858
+Example: Advil guess= drug gold= confidence=0.817154
+Example: AeroBid-M guess= drug gold= confidence=0.998773
+Example: Aeroseb-HC guess= drug gold= confidence=0.996194
+Example: Ak-Taine guess= drug gold= confidence=0.96898
+Example: Akne-Mycin guess= drug gold= confidence=0.838132
+Example: Albert Docusate 44 guess= drug gold= confidence=0.978184
+Example: Albert Glyburide guess= person gold= confidence=0.115042
+Example: Alesse guess= place gold= confidence=0.390062
+Example: Alkets 18 guess= drug gold= confidence=0.917763
+Example: Allay guess= place gold= confidence=0.0694772
+Example: Allegra guess= place gold= confidence=0.0694315
+Example: Allerest Maximum Strength 15 guess= drug gold= confidence=0.998187
+Example: Alramucil Regular guess= drug gold= confidence=0.878261
+Example: Alti-Triazolam 18 guess= drug gold= confidence=0.998669
+Example: Aludrox guess= drug gold= confidence=0.971518
+Example: Amcort guess= drug gold= confidence=0.596748
+Example: Amgenal Cough guess= person gold= confidence=0.0941433
+Example: Amilon guess= drug gold= confidence=0.733905
+Example: AMMONIATED MERCURY guess= drug gold= confidence=0.999008
+Example: Anaprox 13 guess= drug gold= confidence=0.999191
+Example: Anbesol Regular Strength Liquid guess= drug gold= confidence=0.995908
+Example: Ancotil guess= drug gold= confidence=0.975105
+Example: Andronate 100 guess= drug gold= confidence=0.968874
+Example: Antacid Liquid guess= drug gold= confidence=0.940046
+Example: Antacid Liquid Double Strength guess= drug gold= confidence=0.996289
+Example: ANTIVENIN guess= drug gold= confidence=0.996683
+Example: APD guess= drug gold= confidence=0.94255
+Example: Aphrodyne guess= drug gold= confidence=0.920754
+Example: Aphthasol guess= drug gold= confidence=0.891776
+Example: Apo-Alpraz guess= drug gold= confidence=0.993942
+Example: Apo-Bisacodyl 26 guess= drug gold= confidence=0.998969
+Example: Apo-Cephalex 19 guess= drug gold= confidence=0.999696
+Example: Apo-Clonazepam guess= drug gold= confidence=0.990817
+Example: Apo-Dimenhydrinate guess= drug gold= confidence=0.986816
+Example: Apo-Dipyridamole SC guess= drug gold= confidence=0.932839
+Example: Apo-Gain guess= drug gold= confidence=0.994689
+Example: Apo-Indomethacin guess= drug gold= confidence=0.995376
+Example: Apo-Levocarb guess= drug gold= confidence=0.996675
+Example: Apo-Metformin guess= drug gold= confidence=0.980427
+Example: Apo-Terfenadine 15 guess= drug gold= confidence=0.998948
+Example: Apo-Thioridazine 11 guess= drug gold= confidence=0.998821
+Example: Aprodrine 28 guess= drug gold= confidence=0.996944
+Example: Aquasol A guess= drug gold= confidence=0.859712
+Example: Aristocort D 18 guess= drug gold= confidence=0.990472
+Example: Arthrisin guess= drug gold= confidence=0.790956
+Example: Arthritis Pain Ascriptin guess= drug gold= confidence=0.941178
+Example: Arthritis Strength Bufferin guess= drug gold= confidence=0.950309
+Example: Arthrotec 75 guess= drug gold= confidence=0.996504
+Example: Aspir-Low guess= drug gold= confidence=0.68878
+Example: Aspirin Plus Stomach Guard Extra Strength guess= drug gold= confidence=0.995762
+Example: Aspirin Regimen Bayer Regular Strength Caplets guess= drug gold= confidence=0.99312
+Example: Aspirtab guess= drug gold= confidence=0.901306
+Example: Astracaine 4% Forte guess= drug gold= confidence=0.997152
+Example: Atrohist Plus guess= drug gold= confidence=0.586541
+Example: Bain de Soleil All Day Sunfilter 31 guess= drug gold= confidence=0.99014
+Example: Bain de Soleil Long Lasting Sport Sunblock 31 guess= drug gold= confidence=0.996103
+Example: Bain de Soleil Mega Tan 26 guess= drug gold= confidence=0.882825
+Example: Bancap-HC guess= drug gold= confidence=0.997061
+Example: Banophen 10 guess= drug gold= confidence=0.992089
+Example: Barbita guess= place gold= confidence=0.124729
+Example: Barriere-HC guess= drug gold= confidence=0.996493
+Example: BCNU guess= drug gold= confidence=0.853102
+Example: Beben guess= place gold= confidence=0.0678382
+Example: Because guess= place gold= confidence=0.224422
+Example: Benadryl Allergy 10 guess= drug gold= confidence=0.988509
+Example: Benadryl Allergy/Cold 18 guess= drug gold= confidence=0.99813
+Example: Benylin 4 Flu 136 guess= drug gold= confidence=0.992783
+Example: Benzacot guess= drug gold= confidence=0.81692
+Example: Benzfetamine guess= drug gold= confidence=0.471782
+Example: Beta-HC guess= drug gold= confidence=0.999108
+Example: Betaloc Durules guess= drug gold= confidence=0.706238
+Example: Betnesol guess= place gold= confidence=0.373537
+Example: BIAVAX II guess= drug gold= confidence=0.900043
+Example: Bisacolax 26 guess= drug gold= confidence=0.996433
+Example: Blistex Medicated Lip Conditioner with Sunscreen 24 guess= drug gold= confidence=0.996816
+Example: Blocadren 14 guess= drug gold= confidence=0.993863
+Example: Bontril Slow-Release guess= drug gold= confidence=0.9149
+Example: Botox guess= drug gold= confidence=0.732844
+Example: Brethine guess= place gold= confidence=0.232924
+Example: Brevoxyl-4 Cleansing Lotion guess= drug gold= confidence=0.995799
+Example: Brevoxyl-4 Gel guess= drug gold= confidence=0.998636
+Example: Bromadrine PD guess= drug gold= confidence=0.998239
+Example: Bromfenex guess= drug gold= confidence=0.683296
+Example: Bromo-Seltzer guess= drug gold= confidence=0.733965
+Example: Bronalide guess= drug gold= confidence=0.84826
+Example: Broncomar GG guess= company gold= confidence=0.12269
+Example: Brotane DX Cough 22 guess= drug gold= confidence=0.98889
+Example: Bucet guess= place gold= confidence=0.219828
+Example: Bufferin Caplets guess= drug gold= confidence=0.966295
+Example: Buphenyl guess= drug gold= confidence=0.576835
+Example: Butibel guess= drug gold= confidence=0.501703
+Example: Cafertine guess= place gold= confidence=0.373973
+Example: Caffedrine Caplets guess= drug gold= confidence=0.927023
+Example: Calamox guess= drug gold= confidence=0.923577
+Example: Calciday 667 guess= drug gold= confidence=0.895362
+Example: Calglycine 18 guess= drug gold= confidence=0.997295
+Example: Calmine guess= drug gold= confidence=0.543975
+Example: Calmylin #1 guess= drug gold= confidence=0.572084
+Example: Calmylin Original with Codeine 12 guess= drug gold= confidence=0.998649
+Example: Camptosar guess= movie gold= confidence=0.293175
+Example: Canesten 3-Day Therapy guess= drug gold= confidence=0.81187
+Example: Catrix Lip Saver 41 guess= drug gold= confidence=0.993956
+Example: Caverject guess= place gold= confidence=0.0422569
+Example: Cee-500 guess= drug gold= confidence=0.995242
+Example: Ceftin 18 guess= drug gold= confidence=0.998181
+Example: Cefzil 13 guess= drug gold= confidence=0.997461
+Example: Celestoderm-V guess= drug gold= confidence=0.399452
+Example: Ceo-Two guess= drug gold= confidence=0.624655
+Example: Children's Formula Cough 109 guess= drug gold= confidence=0.994391
+Example: Chlor-Trimeton Allergy-D 12 Hour 15 guess= drug gold= confidence=0.999325
+Example: Chlor-Tripolon N.D. 21 guess= drug gold= confidence=0.999619
+Example: Chlorgest-HD 26 guess= drug gold= confidence=0.987288
+Example: Chloromag guess= place gold= confidence=0.371059
+Example: Chlortox 13 guess= drug gold= confidence=0.999423
+Example: Chooz 18 guess= drug gold= confidence=0.977099
+Example: Cidomycin guess= drug gold= confidence=0.941339
+Example: Cillium guess= place gold= confidence=0.293305
+Example: Citro-Mag guess= drug gold= confidence=0.860373
+Example: Citro-Mag 14 guess= drug gold= confidence=0.974424
+Example: Citrocarbonate guess= drug gold= confidence=0.513663
+Example: Clear by Design Medicated Cleansing Pads guess= drug gold= confidence=0.66976
+Example: Clearasil Double Textured Pads Regular Strength guess= drug gold= confidence=0.997067
+Example: Clearasil Maximum Strength Medicated Anti-Acne 10 Vanishing Cream guess= drug gold= confidence=0.997581
+Example: Clearasil Maximum Strength Medicated Anti-Acne 10 Vanishing Lotion guess= drug gold= confidence=0.991641
+Example: Cleocin T Topical Solution guess= drug gold= confidence=0.998191
+Example: Clinagen LA 40 guess= drug gold= confidence=0.997279
+Example: CMT guess= drug gold= confidence=0.952533
+Example: Co-codaprin guess= drug gold= confidence=0.998518
+Example: Co-Complex DM Caplets 124 guess= drug gold= confidence=0.999282
+Example: Codehist DH 32 guess= drug gold= confidence=0.991281
+Example: Codimal DM 46 guess= drug gold= confidence=0.998136
+Example: Cogentin guess= drug gold= confidence=0.473429
+Example: Cold & Cough Medicine TheraFlu Maximum Strength Non-Drowsy Formula Flu124 guess= drug gold= confidence=0.998902
+Example: Colestid guess= drug gold= confidence=0.570573
+Example: Colyte guess= drug gold= confidence=0.767534
+Example: Comtrex Allergy-Sinus Caplets 13 guess= drug gold= confidence=0.998344
+Example: Comtrex Daytime Caplets 124 guess= drug gold= confidence=0.99709
+Example: Concentrin 132 guess= drug gold= confidence=0.994131
+Example: Constulose 13 guess= drug gold= confidence=0.980579
+Example: Contac Cold/Flu Day Caplets 124 guess= drug gold= confidence=0.995507
+Example: Coppertone Sport Ultra Sweatproof 41 guess= drug gold= confidence=0.998091
+Example: Correctol 26 guess= drug gold= confidence=0.977676
+Example: Cort-Dome guess= drug gold= confidence=0.757703
+Example: Cortastat guess= movie gold= confidence=0.261489
+Example: Cortisol guess= drug gold= confidence=0.834701
+Example: Cortone Acetate guess= drug gold= confidence=0.74419
+Example: CoSudafed 120 guess= drug gold= confidence=0.982219
+Example: Cutar Water Dispersible Emollient Tar guess= company gold= confidence=0.485486
+Example: Cytovene guess= drug gold= confidence=0.937128
+Example: D-S-S 44 guess= drug gold= confidence=0.997527
+Example: D.O.S. Softgels 44 guess= drug gold= confidence=0.98291
+Example: Dalacin C Phosphate guess= drug gold= confidence=0.994745
+Example: Dalacin T Topical Solution guess= drug gold= confidence=0.997822
+Example: Dalmane guess= drug gold= confidence=0.746492
+Example: Danocrine guess= drug gold= confidence=0.912893
+Example: Dapacin Cold guess= drug gold= confidence=0.755512
+Example: Daraprim guess= drug gold= confidence=0.978511
+Example: DDAVP Nasal Spray guess= drug gold= confidence=0.982383
+Example: Deconhist guess= drug gold= confidence=0.442071
+Example: Demi-Regroton guess= drug gold= confidence=0.631557
+Example: Depacon guess= drug gold= confidence=0.918408
+Example: DermaZinc Cream guess= drug gold= confidence=0.976583
+Example: Dermoxyl 20 Gel guess= drug gold= confidence=0.997535
+Example: Desenex Antifungal Liquid guess= drug gold= confidence=0.995264
+Example: Desenex Antifungal Penetrating Foam guess= drug gold= confidence=0.988802
+Example: Desenex Powder guess= drug gold= confidence=0.563772
+Example: Desferal guess= drug gold= confidence=0.901544
+Example: Desquam-E 10 Gel guess= drug gold= confidence=0.999194
+Example: Desquam-X 5 Gel guess= drug gold= confidence=0.998594
+Example: Dexafed Cough 126 guess= drug gold= confidence=0.904021
+Example: Dexamethasone Intensol guess= drug gold= confidence=0.873243
+Example: DHS Tar Shampoo guess= drug gold= confidence=0.731754
+Example: Di-Sosul Forte 38 guess= drug gold= confidence=0.997806
+Example: DiabetiSource guess= movie gold= confidence=0.0431246
+Example: Dialose 44 guess= drug gold= confidence=0.974215
+Example: Dialose Plus 42 guess= drug gold= confidence=0.97214
+Example: Diarrest guess= drug gold= confidence=0.575697
+Example: Dilocaine guess= drug gold= confidence=0.927253
+Example: Dimetane-DC Cough 20 guess= drug gold= confidence=0.996374
+Example: Dimetapp Chewables guess= drug gold= confidence=0.578674
+Example: Dimetapp Cold & Fever Suspension guess= drug gold= confidence=0.852655
+Example: Dimetapp DM 21 guess= drug gold= confidence=0.995862
+Example: Diocto 44 guess= drug gold= confidence=0.982192
+Example: Dioeze 44 guess= drug gold= confidence=0.933113
+Example: Disobrom 19 guess= drug gold= confidence=0.99462
+Example: Doak Oil Forte Therapeutic Bath Treatment guess= drug gold= confidence=0.966008
+Example: Doak Oil Therapeutic Bath Treatment For All-Over Body Care guess= drug gold= confidence=0.9194
+Example: Dodd's Pills guess= movie gold= confidence=0.00953767
+Example: Dolagesic guess= drug gold= confidence=0.899089
+Example: Dolgesic guess= drug gold= confidence=0.843406
+Example: Dorcol Children's Cough 132 guess= drug gold= confidence=0.996341
+Example: Dormarex 2 10 guess= drug gold= confidence=0.995338
+Example: Dosaflex 35 guess= drug gold= confidence=0.997376
+Example: Dostinex guess= drug gold= confidence=0.897458
+Example: Dristan Long Lasting Nasal Mist guess= drug gold= confidence=0.899004
+Example: Drixoral Nasal Decongestant guess= drug gold= confidence=0.912034
+Example: DTIC-Dome guess= drug gold= confidence=0.98894
+Example: Duoplant Topical Solution guess= drug gold= confidence=0.992987
+Example: Duosol 44 guess= drug gold= confidence=0.997105
+Example: Dura-Vent 141 guess= drug gold= confidence=0.995122
+Example: Duralone-80 guess= drug gold= confidence=0.985574
+Example: Duration 12 Hour Nasal Spray guess= drug gold= confidence=0.99463
+Example: Dycill guess= drug gold= confidence=0.878306
+Example: E-400 I.U. in a Water Soluble Base guess= drug gold= confidence=0.881653
+Example: Easprin guess= drug gold= confidence=0.926624
+Example: Ecostatin Vaginal Ovules guess= drug gold= confidence=0.962339
+Example: Ectosone Scalp Lotion guess= drug gold= confidence=0.986404
+Example: Ed A-Hist 10 guess= drug gold= confidence=0.642305
+Example: ED-SPAZ guess= drug gold= confidence=0.98529
+Example: Effer-K guess= drug gold= confidence=0.992653
+Example: Eflone guess= drug gold= confidence=0.722979
+Example: Empirin with Codeine No.3 guess= drug gold= confidence=0.986501
+Example: Enduronyl Forte guess= drug gold= confidence=0.953879
+Example: Enfamil Human Milk Fortifier guess= drug gold= confidence=0.974361
+Example: Ensure Plus guess= person gold= confidence=0.2699
+Example: Ensure Plus HN guess= company gold= confidence=0.430703
+Example: Entex Liquid 140 guess= drug gold= confidence=0.994375
+Example: Entrophen 15 Maximum Strength Tablets guess= drug gold= confidence=0.997206
+Example: Epival guess= drug gold= confidence=0.901607
+Example: ERYC-250 guess= drug gold= confidence=0.997064
+Example: Ethyl aminobenzoate guess= movie gold= confidence=0.157657
+Example: Etrafon-F guess= drug gold= confidence=0.999341
+Example: Eurax Lotion guess= person gold= confidence=0.111532
+Example: Evac-U-Gen 33 guess= drug gold= confidence=0.995852
+Example: Ex-Lax Maximum Relief Formula 33 guess= drug gold= confidence=0.9994
+Example: Excedrin Migraine guess= drug gold= confidence=0.543282
+Example: Exgest LA 141 guess= drug gold= confidence=0.98111
+Example: EZE-DS guess= drug gold= confidence=0.998918
+Example: Famvir guess= movie gold= confidence=0.311376
+Example: Fansidar guess= movie gold= confidence=0.279909
+Example: Felbatol guess= drug gold= confidence=0.874885
+Example: Feldene 16 guess= drug gold= confidence=0.95612
+Example: Femcet guess= drug gold= confidence=0.561099
+Example: Ferospace guess= drug gold= confidence=0.47167
+Example: Fertinex guess= drug gold= confidence=0.92776
+Example: Fibercon Caplets guess= drug gold= confidence=0.938071
+Example: Flagyl guess= drug gold= confidence=0.740708
+Example: Fleet Laxative 26 guess= drug gold= confidence=0.730834
+Example: Flonase guess= drug gold= confidence=0.607755
+Example: Florone guess= drug gold= confidence=0.774358
+Example: Flovent guess= drug gold= confidence=0.612835
+Example: Fluocin 10 guess= drug gold= confidence=0.999369
+Example: FluShield guess= place gold= confidence=0.0533234
+Example: FML Liquifilm guess= drug gold= confidence=0.973478
+Example: Furamide guess= drug gold= confidence=0.850137
+Example: Gammar-P IV guess= drug gold= confidence=0.576021
+Example: Gas-X Extra Strength guess= drug gold= confidence=0.991856
+Example: Gee-Gee guess= drug gold= confidence=0.895547
+Example: Gen-Allerate guess= drug gold= confidence=0.90472
+Example: Gen-Clonazepam guess= drug gold= confidence=0.950615
+Example: Gen-Cromoglycate guess= drug gold= confidence=0.977916
+Example: Genatuss DM 109 guess= drug gold= confidence=0.99117
+Example: Genoptic Liquifilm guess= drug gold= confidence=0.974571
+Example: Genora 0.5/35 guess= drug gold= confidence=0.957695
+Example: Genpril Caplets guess= drug gold= confidence=0.97288
+Example: Gentle Laxative 26 guess= drug gold= confidence=0.822646
+Example: Glaucon guess= drug gold= confidence=0.425554
+Example: Glucotrol guess= drug gold= confidence=0.969196
+Example: Glycon guess= drug gold= confidence=0.635845
+Example: Glydeine Cough 106 guess= drug gold= confidence=0.901588
+Example: Gravol I/V guess= drug gold= confidence=0.798527
+Example: Guaifed 142 guess= drug gold= confidence=0.978391
+Example: Guaifenex PPA 75 141 guess= drug gold= confidence=0.996483
+Example: Gyne-Lotrimin guess= drug gold= confidence=0.951757
+Example: GyneCure Vaginal Ovules Tandempak guess= drug gold= confidence=0.971935
+Example: Gynol II Extra Strength Contraceptive Jelly guess= drug gold= confidence=0.732328
+Example: Halog-E 13 guess= drug gold= confidence=0.998967
+Example: Halotussin-DM 109 guess= drug gold= confidence=0.995834
+Example: Haltran guess= drug gold= confidence=0.613086
+Example: Hawaiian Tropic Land Sport 33 guess= drug gold= confidence=0.991283
+Example: Hawaiian Tropic Sport Sunblock 28 29 guess= drug gold= confidence=0.99399
+Example: Headache Tablet guess= person gold= confidence=0.0104773
+Example: Healthprin Adult Low Strength guess= drug gold= confidence=0.991091
+Example: Hemocyte guess= drug gold= confidence=0.893285
+Example: Hexadrol guess= drug gold= confidence=0.946649
+Example: Hi-Cor 1.0 guess= drug gold= confidence=0.982036
+Example: Hista-Vadrin 11 guess= drug gold= confidence=0.995602
+Example: Humate-P guess= drug gold= confidence=0.992388
+Example: Humatrope guess= drug gold= confidence=0.873918
+Example: Humulin R guess= drug gold= confidence=0.96972
+Example: Humulin-N guess= drug gold= confidence=0.988717
+Example: Hydergine LC guess= drug gold= confidence=0.955379
+Example: Hydro-chlor guess= drug gold= confidence=0.885499
+Example: Hydrocodone with APAP guess= drug gold= confidence=0.98097
+Example: Hydromox guess= drug gold= confidence=0.970477
+Example: Hydropres guess= drug gold= confidence=0.820914
+Example: Hyzine-50 12 guess= drug gold= confidence=0.998326
+Example: Ibu-200 guess= drug gold= confidence=0.991925
+Example: Idamycin guess= drug gold= confidence=0.958151
+Example: IGIV guess= drug gold= confidence=0.590073
+Example: Inapsine guess= drug gold= confidence=0.90143
+Example: Indocin SR guess= drug gold= confidence=0.998646
+Example: Introlite guess= drug gold= confidence=0.950958
+Example: Intron A guess= drug gold= confidence=0.499511
+Example: Ipol guess= drug gold= confidence=0.711168
+Example: Isobutyl guess= drug gold= confidence=0.865742
+Example: Isocaine guess= drug gold= confidence=0.950461
+Example: Isocaine 2% guess= drug gold= confidence=0.99852
+Example: Isocal guess= drug gold= confidence=0.973082
+Example: Isopap guess= drug gold= confidence=0.697579
+Example: K+ Care ET guess= company gold= confidence=0.365501
+Example: Kadian guess= place gold= confidence=0.239076
+Example: Kato guess= movie gold= confidence=0.0684864
+Example: Kefzol guess= drug gold= confidence=0.759352
+Example: Kenalog-10 guess= drug gold= confidence=0.994177
+Example: Key-Pred SP guess= drug gold= confidence=0.970905
+Example: Klean-Prep guess= place gold= confidence=0.430999
+Example: Klotrix guess= drug gold= confidence=0.955873
+Example: Kwelcof Liquid 112 guess= drug gold= confidence=0.993216
+Example: L-Caine guess= drug gold= confidence=0.980631
+Example: L-PAM guess= drug gold= confidence=0.995506
+Example: Lacril guess= drug gold= confidence=0.917595
+Example: Lacrisert guess= place gold= confidence=0.0474192
+Example: LAM guess= drug gold= confidence=0.870171
+Example: Lanophyllin guess= drug gold= confidence=0.593271
+Example: Lanoxin guess= drug gold= confidence=0.967193
+Example: Largactil Liquid guess= drug gold= confidence=0.955474
+Example: Levbid guess= drug gold= confidence=0.576548
+Example: Levsinex Timecaps guess= drug gold= confidence=0.88069
+Example: Lidoxide guess= drug gold= confidence=0.951339
+Example: Lioresal Intrathecal guess= drug gold= confidence=0.971003
+Example: Liquaemin guess= drug gold= confidence=0.924815
+Example: Liqui-Char guess= drug gold= confidence=0.900339
+Example: Liquid-Cal guess= drug gold= confidence=0.9897
+Example: Lithotabs guess= movie gold= confidence=0.270314
+Example: Lodine guess= drug gold= confidence=0.583565
+Example: Lorcet-HD guess= drug gold= confidence=0.995479
+Example: Lotrimin AF Cream guess= drug gold= confidence=0.991648
+Example: Lovenox guess= drug gold= confidence=0.881945
+Example: Lowsium Plus 24 guess= drug gold= confidence=0.894821
+Example: Lufyllin guess= drug gold= confidence=0.812666
+Example: Luminal guess= drug gold= confidence=0.766818
+Example: Lumitene guess= drug gold= confidence=0.571634
+Example: Lupron guess= drug gold= confidence=0.571732
+Example: Lyme disease vaccine guess= movie gold= confidence=0.0693522
+Example: Macrobid guess= drug gold= confidence=0.89867
+Example: Maltsupex guess= drug gold= confidence=0.828239
+Example: Marinol guess= drug gold= confidence=0.664863
+Example: Mavik 12 guess= drug gold= confidence=0.957147
+Example: Maxeran guess= drug gold= confidence=0.702973
+Example: Maximum Strength Gas Relief guess= drug gold= confidence=0.726421
+Example: Maximum Strength Mylanta Gas Relief guess= drug gold= confidence=0.959478
+Example: Maximum Strength SnapBack Stimulant Powders guess= drug gold= confidence=0.846305
+Example: Medrol guess= drug gold= confidence=0.741815
+Example: Megral guess= drug gold= confidence=0.665757
+Example: Menaval-20 guess= drug gold= confidence=0.996769
+Example: Meridia guess= movie gold= confidence=0.278287
+Example: Merrem I.V. guess= drug gold= confidence=0.569213
+Example: Meruvax II guess= drug gold= confidence=0.747954
+Example: Mestinon guess= place gold= confidence=0.160674
+Example: Methacort 80 guess= drug gold= confidence=0.857698
+Example: METHYPRYLON guess= drug gold= confidence=0.992992
+Example: Midahist DH 32 guess= drug gold= confidence=0.992718
+Example: Miltown guess= place gold= confidence=0.0703227
+Example: Minims Phenylephrine guess= person gold= confidence=0.279359
+Example: Minipress guess= movie gold= confidence=0.219238
+Example: Mithracin guess= drug gold= confidence=0.970121
+Example: Moban guess= place gold= confidence=0.268276
+Example: Modane Bulk guess= person gold= confidence=0.0352015
+Example: Modecate guess= drug gold= confidence=0.833127
+Example: Mogadon 13 guess= drug gold= confidence=0.99521
+Example: Monistat 3 guess= movie gold= confidence=0.171414
+Example: Monistat 3 Dual-Pak guess= drug gold= confidence=0.78582
+Example: Monopril guess= drug gold= confidence=0.989838
+Example: Myciguent guess= drug gold= confidence=0.511084
+Example: MyCort guess= drug gold= confidence=0.844568
+Example: Mydriacyl guess= drug gold= confidence=0.987597
+Example: Mygel II guess= person gold= confidence=0.281382
+Example: Mylanta Gas guess= movie gold= confidence=0.0386833
+Example: Mylanta Sugar Free Natural Fiber Supplement guess= drug gold= confidence=0.991061
+Example: Myolin guess= drug gold= confidence=0.943784
+Example: Myotrol guess= drug gold= confidence=0.970009
+Example: N-IPV guess= drug gold= confidence=0.979577
+Example: N.E.E. 1/50 guess= drug gold= confidence=0.983626
+Example: Nadostine guess= drug gold= confidence=0.822257
+Example: Naftin guess= drug gold= confidence=0.845335
+Example: Nalda-Relief Pediatric Drops 14 guess= drug gold= confidence=0.998168
+Example: Naldecon Pediatric Drops 14 guess= drug gold= confidence=0.997417
+Example: Nalex 142 guess= drug gold= confidence=0.996082
+Example: Nalfed-PD guess= drug gold= confidence=0.996574
+Example: Naprosyn-E 13 guess= drug gold= confidence=0.999459
+Example: Nasatab LA 142 guess= drug gold= confidence=0.999179
+Example: Necon 1/35 guess= drug gold= confidence=0.991427
+Example: Nelova 1/35E guess= drug gold= confidence=0.972736
+Example: Neo-Calglucon guess= drug gold= confidence=0.967575
+Example: Neo-Fer guess= drug gold= confidence=0.984042
+Example: Neo-Synephrine guess= drug gold= confidence=0.958101
+Example: Neo-Synephrine Nasal Jelly guess= person gold= confidence=0.0925806
+Example: Neoral guess= drug gold= confidence=0.911506
+Example: Neosporin Ophthalmic Ointment guess= drug gold= confidence=0.993667
+Example: Neotal guess= drug gold= confidence=0.867048
+Example: Nestrex guess= drug gold= confidence=0.917338
+Example: Neumega guess= place gold= confidence=0.0428027
+Example: Neuroforte-R guess= drug gold= confidence=0.997087
+Example: Neutrogena Deep Glow 32 guess= drug gold= confidence=0.985934
+Example: Nia-Bid guess= drug gold= confidence=0.976517
+Example: Niacels guess= movie gold= confidence=0.146245
+Example: Night-Time Effervescent Cold 17 guess= drug gold= confidence=0.997687
+Example: Nilstat guess= drug gold= confidence=0.448533
+Example: Nizoral Shampoo guess= drug gold= confidence=0.727725
+Example: Nolvadex guess= drug gold= confidence=0.972654
+Example: Norditropin guess= drug gold= confidence=0.983368
+Example: Norethin 1/50M guess= drug gold= confidence=0.994461
+Example: Norfranil guess= drug gold= confidence=0.978948
+Example: Norgesic Forte guess= drug gold= confidence=0.976148
+Example: Norinyl 1+50 guess= drug gold= confidence=0.954031
+Example: Norphadrine guess= drug gold= confidence=0.958109
+Example: Nostril Spray Pump Mild guess= drug gold= confidence=0.70055
+Example: Novahistex DH Expectorant 128 guess= drug gold= confidence=0.999228
+Example: Novahistine DM w/ Decongestant 121 guess= drug gold= confidence=0.991846
+Example: Novo-AZT guess= drug gold= confidence=0.999713
+Example: Novo-Digoxin guess= drug gold= confidence=0.997258
+Example: Novo-Dipiradol guess= drug gold= confidence=0.992959
+Example: Novo-Pirocam 16 guess= drug gold= confidence=0.999183
+Example: Novo-Tripramine guess= drug gold= confidence=0.995411
+Example: Novo-Veramil guess= drug gold= confidence=0.997083
+Example: Novolin ge 30/70 10 guess= drug gold= confidence=0.99427
+Example: Novolin ge 30/70 Penfill 10 guess= drug gold= confidence=0.999055
+Example: Novolin ge Lente guess= drug gold= confidence=0.644715
+Example: Novotriptyn guess= drug gold= confidence=0.799228
+Example: Novoxapam 14 guess= drug gold= confidence=0.998336
+Example: NPH Iletin II guess= drug gold= confidence=0.949325
+Example: Nu-Ampi guess= drug gold= confidence=0.917757
+Example: Nu-Cephalex 19 guess= drug gold= confidence=0.999694
+Example: Nu-Cimet guess= drug gold= confidence=0.981014
+Example: Nu-Diltiaz guess= drug gold= confidence=0.921929
+Example: Nu-Loraz 12 guess= drug gold= confidence=0.998442
+Example: Nu-Naprox 13 guess= drug gold= confidence=0.99974
+Example: Nu-Nifed guess= drug gold= confidence=0.967019
+Example: Nucochem Pediatric Expectorant 131 guess= drug gold= confidence=0.99614
+Example: Nupercainal Cream guess= drug gold= confidence=0.868558
+Example: Nupercainal Ointment guess= drug gold= confidence=0.634406
+Example: Nystop guess= place gold= confidence=0.401136
+Example: Ocu-Sul-30 guess= drug gold= confidence=0.99929
+Example: Ocu-Tropine guess= drug gold= confidence=0.996457
+Example: Ocusert Pilo-40 guess= drug gold= confidence=0.976635
+Example: Ocusporin guess= drug gold= confidence=0.972209
+Example: OFF! Skintastic For Kids guess= drug gold= confidence=0.963794
+Example: Ogen 1.25 guess= drug gold= confidence=0.883909
+Example: Ophtho-Dipivefrin guess= drug gold= confidence=0.990969
+Example: OptiPranolol guess= drug gold= confidence=0.991289
+Example: Orajel Maximum Strength guess= drug gold= confidence=0.920903
+Example: Oralone guess= drug gold= confidence=0.906936
+Example: Orange Flavor Metamucil Smooth Sugar-Free guess= drug gold= confidence=0.990743
+Example: Orbenin guess= drug gold= confidence=0.67122
+Example: Oreticyl guess= drug gold= confidence=0.956673
+Example: Orfro guess= place gold= confidence=0.126647
+Example: Ornade Expectorant 95 guess= drug gold= confidence=0.965144
+Example: Ornex No Drowsiness Caplets guess= drug gold= confidence=0.963975
+Example: Orudis-E guess= drug gold= confidence=0.997461
+Example: Os-Cal guess= drug gold= confidence=0.991455
+Example: Os-Cal 500 Chewable guess= drug gold= confidence=0.994047
+Example: Otic-Care guess= drug gold= confidence=0.961461
+Example: Otocidin guess= drug gold= confidence=0.979339
+Example: Otocort guess= drug gold= confidence=0.848279
+Example: Otrivin Measured-Dose Pump with Moisturizers guess= drug gold= confidence=0.769339
+Example: Otrivin Nasal Drops guess= drug gold= confidence=0.987644
+Example: Oxy Clean Extra Strength Medicated Pads guess= drug gold= confidence=0.941013
+Example: Oxy Night Watch Night Time Acne Medication Extra Strength Lotion guess= drug gold= confidence=0.985856
+Example: Oxycodone with APAP guess= drug gold= confidence=0.966974
+Example: OxyContin 12 guess= drug gold= confidence=0.999213
+Example: Oxyderm 20 Lotion guess= drug gold= confidence=0.968411
+Example: Palafer guess= drug gold= confidence=0.700497
+Example: Paludrine guess= drug gold= confidence=0.813605
+Example: Pavarine guess= drug gold= confidence=0.851344
+Example: Pediacof Cough 69 guess= drug gold= confidence=0.964298
+Example: Pedialyte Freezer Pops guess= drug gold= confidence=0.468835
+Example: Pedvaxhib guess= drug gold= confidence=0.934241
+Example: Penthrane guess= place gold= confidence=0.381364
+Example: Pepcid I.V. guess= drug gold= confidence=0.951371
+Example: Peptavlon guess= drug gold= confidence=0.756466
+Example: Pepto-Bismol guess= drug gold= confidence=0.916116
+Example: Peptol guess= drug gold= confidence=0.848133
+Example: Persantine guess= drug gold= confidence=0.642867
+Example: Pertussin CS Children's Strength guess= drug gold= confidence=0.993383
+Example: Phenazine 25 guess= drug gold= confidence=0.993443
+Example: Phentercot guess= movie gold= confidence=0.1182
+Example: Phillips' Chewable 26 guess= drug gold= confidence=0.837026
+Example: Phrenilin guess= drug gold= confidence=0.882632
+Example: Pilopine HS guess= drug gold= confidence=0.997526
+Example: Piloptic-3 guess= drug gold= confidence=0.996865
+Example: Piloptic-4 guess= drug gold= confidence=0.997041
+Example: PMS Benztropine guess= drug gold= confidence=0.983721
+Example: PMS-Acetaminophen with Codeine guess= drug gold= confidence=0.994212
+Example: PMS-ASA guess= drug gold= confidence=0.951211
+Example: PMS-Dimenhydrinate guess= drug gold= confidence=0.988409
+Example: PMS-Docusate Sodium 44 guess= drug gold= confidence=0.997987
+Example: PMS-Sennosides 36 guess= drug gold= confidence=0.995945
+Example: Pneumovax 23 guess= drug gold= confidence=0.995203
+Example: Poly D 23 guess= drug gold= confidence=0.954886
+Example: Poly-Histine-DM 21 guess= drug gold= confidence=0.999165
+Example: Polycitra Syrup guess= drug gold= confidence=0.575111
+Example: Polycitra-K guess= drug gold= confidence=0.998053
+Example: Polygam S/D guess= drug gold= confidence=0.996888
+Example: PPA guess= drug gold= confidence=0.506506
+Example: Pre-Attain guess= drug gold= confidence=0.981897
+Example: Pred Forte guess= movie gold= confidence=0.106535
+Example: Predair A guess= drug gold= confidence=0.698758
+Example: Predate S guess= drug gold= confidence=0.992128
+Example: Prednicot guess= drug gold= confidence=0.555001
+Example: Pregestimil guess= drug gold= confidence=0.820007
+Example: Prelu-2 guess= drug gold= confidence=0.998013
+Example: Premarin with Methyltestosterone guess= drug gold= confidence=0.958585
+Example: Pressyn guess= place gold= confidence=0.306874
+Example: PreSun Moisturizing 49 guess= drug gold= confidence=0.979982
+Example: PreSun Spray Mist 34 47 guess= drug gold= confidence=0.997952
+Example: Prevacid guess= drug gold= confidence=0.962503
+Example: PRIMAQUINE guess= drug gold= confidence=0.99663
+Example: Pro-Cal-Sof 44 guess= drug gold= confidence=0.999144
+Example: Pro-Med 50 guess= drug gold= confidence=0.99886
+Example: Procardia XL guess= drug gold= confidence=0.960517
+Example: Prodiem Plain guess= drug gold= confidence=0.938816
+Example: Prodrox guess= drug gold= confidence=0.98571
+Example: Profasi guess= movie gold= confidence=0.258665
+Example: Proloprim guess= drug gold= confidence=0.994992
+Example: Promacot guess= drug gold= confidence=0.819826
+Example: Prominicol Cough 77 guess= drug gold= confidence=0.97695
+Example: Prop-a-Hist 14 guess= drug gold= confidence=0.996726
+Example: Propa pH Medicated Cleansing Pads Maximum Strength guess= drug gold= confidence=0.995423
+Example: Propine guess= drug gold= confidence=0.95791
+Example: Proplex T guess= drug gold= confidence=0.987905
+Example: Prorex-50 guess= drug gold= confidence=0.998563
+Example: Provera Pak guess= movie gold= confidence=0.0561569
+Example: Pseudo-Car DM 23 guess= drug gold= confidence=0.998517
+Example: Pyri guess= movie gold= confidence=0.0870554
+Example: Quadramet guess= drug gold= confidence=0.686891
+Example: Quelidrine Cough 65 guess= drug gold= confidence=0.967227
+Example: Raxar guess= drug gold= confidence=0.662916
+Example: Regular Iletin II guess= person gold= confidence=0.260904
+Example: Regular Strength Tylenol Cough Medication with Decongestant124 guess= drug gold= confidence=0.996049
+Example: Reguloid Natural guess= drug gold= confidence=0.918384
+Example: Reguloid Natural Sugar Free guess= drug gold= confidence=0.993955
+Example: Relafen 12 guess= drug gold= confidence=0.995123
+Example: Rep-Pred 40 guess= drug gold= confidence=0.99864
+Example: Rep-Pred 80 guess= drug gold= confidence=0.947384
+Example: Replete with Fiber guess= drug gold= confidence=0.838792
+Example: Requip guess= drug gold= confidence=0.722369
+Example: Rescon-DM 33 guess= drug gold= confidence=0.998073
+Example: Rescon-ED 15 guess= drug gold= confidence=0.998877
+Example: Respaire-60 SR 142 guess= drug gold= confidence=0.999604
+Example: Resyl guess= drug gold= confidence=0.688941
+Example: Rhinocort Turbuhaler guess= drug gold= confidence=0.555116
+Example: Riopan 23 guess= drug gold= confidence=0.994756
+Example: Riopan Plus Extra Strength 24 guess= drug gold= confidence=0.998575
+Example: Rituxan guess= drug gold= confidence=0.768995
+Example: Robafen AC Cough 106 guess= drug gold= confidence=0.993995
+Example: Robalog guess= place gold= confidence=0.314204
+Example: Robinul guess= drug gold= confidence=0.726462
+Example: Robitussin Pediatric Cough & Cold 121 guess= drug gold= confidence=0.939394
+Example: Robitussin with Codeine 15 guess= drug gold= confidence=0.997171
+Example: Robitussin-DM 109 guess= drug gold= confidence=0.997255
+Example: Robitussin-PE 142 guess= drug gold= confidence=0.998998
+Example: Rogaine guess= drug gold= confidence=0.81481
+Example: Roniacol guess= drug gold= confidence=0.957249
+Example: Rowasa guess= place gold= confidence=0.0401372
+Example: Roxilox guess= drug gold= confidence=0.968558
+Example: RSV-IGIV guess= drug gold= confidence=0.951492
+Example: Ru-Tuss guess= drug gold= confidence=0.829476
+Example: Ru-Tuss 10 guess= drug gold= confidence=0.99531
+Example: Rulox No. 2 guess= drug gold= confidence=0.974196
+Example: Rulox Plus guess= drug gold= confidence=0.966564
+Example: Sal-Acid Plaster guess= drug gold= confidence=0.907714
+Example: Salagen guess= place gold= confidence=0.216623
+Example: Scot-Tussin Senior Clear 109 guess= drug gold= confidence=0.996749
+Example: Sebucare guess= drug gold= confidence=0.456898
+Example: Seconal guess= drug gold= confidence=0.87925
+Example: Sectral guess= drug gold= confidence=0.94754
+Example: Select 1/35 guess= drug gold= confidence=0.972622
+Example: Selsun Blue Extra Conditioning Formula guess= drug gold= confidence=0.700602
+Example: Senexon 35 guess= drug gold= confidence=0.990078
+Example: Senna-Gen 35 guess= drug gold= confidence=0.991528
+Example: SensoGARD Canker Sore Relief guess= drug gold= confidence=0.983272
+Example: Sensorcaine Forte guess= drug gold= confidence=0.94686
+Example: Ser-A-Gen guess= drug gold= confidence=0.976081
+Example: Shovite guess= drug gold= confidence=0.441198
+Example: Similac 20 guess= drug gold= confidence=0.991264
+Example: Sintrom guess= drug gold= confidence=0.526868
+Example: Sinus Allergy Triaminicin Cold guess= company gold= confidence=0.0205314
+Example: Sinutab No Drowsiness Extra Strength Caplets guess= drug gold= confidence=0.992981
+Example: Sinutrol 500 Caplets guess= drug gold= confidence=0.993024
+Example: Skelex guess= drug gold= confidence=0.497124
+Example: Sleep-Eze D 10 guess= drug gold= confidence=0.993696
+Example: Slow Fe guess= movie gold= confidence=0.430017
+Example: SMA Lo-Iron 24 guess= drug gold= confidence=0.996614
+Example: Sopamycetin Ophthalmic Ointment guess= drug gold= confidence=0.976439
+Example: Sorbitrate guess= drug gold= confidence=0.554094
+Example: Spasmophen guess= drug gold= confidence=0.449573
+Example: Spectro-Caine guess= drug gold= confidence=0.983798
+Example: Spectro-Chlor Ophthalmic Ointment guess= drug gold= confidence=0.989556
+Example: Spectro-Chlor Ophthalmic Solution guess= drug gold= confidence=0.997402
+Example: Spectrobid guess= drug gold= confidence=0.906345
+Example: Staphcillin guess= drug gold= confidence=0.698487
+Example: Statex Drops guess= drug gold= confidence=0.949171
+Example: Staticin guess= drug gold= confidence=0.927616
+Example: Statuss Green 39 guess= drug gold= confidence=0.935369
+Example: Stimate Nasal Spray guess= drug gold= confidence=0.823769
+Example: Storz-Dexa guess= drug gold= confidence=0.925497
+Example: Stri-Dex Regular Strength Pads guess= drug gold= confidence=0.988347
+Example: Stulex 44 guess= drug gold= confidence=0.993795
+Example: Sublimaze guess= place gold= confidence=0.199997
+Example: Sudafed Cold & Flu Gelcaps 136 guess= drug gold= confidence=0.982418
+Example: Sudafed Cough & Cold Extra Strength Caplets 124 guess= drug gold= confidence=0.995904
+Example: Sudal 120/600 142 guess= drug gold= confidence=0.994358
+Example: Sulfair 15 guess= drug gold= confidence=0.989717
+Example: Sulfolax 44 guess= drug gold= confidence=0.998199
+Example: Sundown Sunblock 38 guess= drug gold= confidence=0.992295
+Example: Sunkist guess= movie gold= confidence=0.0750325
+Example: Supeudol 12 guess= drug gold= confidence=0.99389
+Example: Suppressin DM Plus 126 guess= drug gold= confidence=0.994743
+Example: Suprefact guess= movie gold= confidence=0.172884
+Example: Sustacal Basic guess= drug gold= confidence=0.771708
+Example: Sustiva guess= movie gold= confidence=0.0361621
+Example: Syllact guess= drug gold= confidence=0.414737
+Example: Synthroid guess= drug gold= confidence=0.567704
+Example: Talwin-Nx 14 guess= drug gold= confidence=0.97127
+Example: Tarka guess= place gold= confidence=0.0124313
+Example: Tavist guess= movie gold= confidence=0.308514
+Example: Taxol guess= drug gold= confidence=0.9247
+Example: Tebrazid guess= drug gold= confidence=0.9027
+Example: Telachlor guess= drug gold= confidence=0.62002
+Example: Testred guess= place gold= confidence=0.407146
+Example: THA guess= drug gold= confidence=0.636733
+Example: Theo-24 guess= drug gold= confidence=0.986783
+Example: Theo-SR guess= drug gold= confidence=0.998514
+Example: Theo-Time guess= drug gold= confidence=0.989315
+Example: Theoclear-80 guess= drug gold= confidence=0.979278
+Example: Theocon guess= drug gold= confidence=0.890328
+Example: Thiopentone guess= movie gold= confidence=0.20442
+Example: Threamine DM 31 guess= drug gold= confidence=0.997733
+Example: Thyrar guess= drug gold= confidence=0.394032
+Example: TI - UVA - B Sunscreen 41 guess= movie gold= confidence=0.0832197
+Example: Tim-AK guess= drug gold= confidence=0.971967
+Example: Timolide guess= drug gold= confidence=0.898219
+Example: Tinactin Cream guess= drug gold= confidence=0.93957
+Example: Tinactin Jock Itch Cream guess= drug gold= confidence=0.957907
+Example: Titralac guess= drug gold= confidence=0.935895
+Example: Titralac 18 guess= drug gold= confidence=0.997482
+Example: Titralac Plus 21 guess= drug gold= confidence=0.985406
+Example: TMO guess= drug gold= confidence=0.766877
+Example: Tofranil-PM guess= drug gold= confidence=0.998477
+Example: Tonocard guess= drug gold= confidence=0.568669
+Example: Topicaine guess= drug gold= confidence=0.857636
+Example: Totacillin guess= drug gold= confidence=0.883634
+Example: Touro LA Caplets 142 guess= drug gold= confidence=0.991789
+Example: Trandate guess= drug gold= confidence=0.616506
+Example: Trans-Ver-Sal guess= drug gold= confidence=0.55572
+Example: Tranxene-SD guess= drug gold= confidence=0.99373
+Example: Travasorb HN guess= drug gold= confidence=0.995752
+Example: Trazon guess= drug gold= confidence=0.69061
+Example: Tri-Tannate Pediatric 16 guess= drug gold= confidence=0.997502
+Example: Trialodine guess= drug gold= confidence=0.949492
+Example: Triaminic-DM Cough Relief 118 guess= drug gold= confidence=0.998603
+Example: Triamonide 40 guess= drug gold= confidence=0.993203
+Example: Tribiotic guess= drug gold= confidence=0.960666
+Example: Tridesilon guess= drug gold= confidence=0.428608
+Example: Trilafon Concentrate guess= drug gold= confidence=0.926076
+Example: Triphasil guess= drug gold= confidence=0.964436
+Example: Triposed 28 guess= drug gold= confidence=0.984846
+Example: Tristatin II guess= drug gold= confidence=0.738201
+Example: Trocal guess= drug gold= confidence=0.959068
+Example: Tussafed 23 guess= drug gold= confidence=0.983895
+Example: Tussi-Organidin NR Liquid 106 guess= drug gold= confidence=0.998981
+Example: Tussogest 117 guess= drug gold= confidence=0.963883
+Example: Tylenol Cold and Flu No Drowsiness Powder 124 guess= drug gold= confidence=0.998337
+Example: Tylenol Cold Multi-Symptom 58 guess= drug gold= confidence=0.999712
+Example: Tylenol Sinus Medication Regular Strength Caplets guess= drug gold= confidence=0.994857
+Example: UAA guess= drug gold= confidence=0.725512
+Example: Ulobetasol guess= drug gold= confidence=0.832511
+Example: ULTRAbrom PD guess= drug gold= confidence=0.778151
+Example: Uni-Multihist D 23 guess= drug gold= confidence=0.9869
+Example: Univasc guess= drug gold= confidence=0.888846
+Example: Urex guess= drug gold= confidence=0.717193
+Example: Urimed guess= drug gold= confidence=0.371587
+Example: Uro-Ves guess= drug gold= confidence=0.943065
+Example: Urocit-K guess= drug gold= confidence=0.995509
+Example: Uvadex guess= drug gold= confidence=0.958763
+Example: Valertest No. 1 guess= drug gold= confidence=0.589026
+Example: Vancenase guess= place gold= confidence=0.209837
+Example: Vaseline Extra Defense for Hand and Body 41 guess= drug gold= confidence=0.993987
+Example: Vasocon Regular guess= drug gold= confidence=0.867185
+Example: Vasotec guess= drug gold= confidence=0.895077
+Example: Veetids 13 guess= drug gold= confidence=0.941166
+Example: Versel Lotion guess= person gold= confidence=0.0510154
+Example: Vicks Children's NyQuil Cold/Cough Relief 33 guess= drug gold= confidence=0.998816
+Example: Vicks DayQuil Sinus Pressure and Congestion Relief Caplets 141 guess= drug gold= confidence=0.997411
+Example: Vicks NyQuil Multi-Symptom Cold/Flu LiquiCaps 60 guess= drug gold= confidence=0.999412
+Example: Vicks Sinex 12-Hour Ultra Fine Mist for Sinus Relief guess= drug gold= confidence=0.988064
+Example: Vioform-Hydrocortisone Mild Cream guess= drug gold= confidence=0.967602
+Example: Vioform-Hydrocortisone Ointment guess= drug gold= confidence=0.777051
+Example: VIRACEPT guess= drug gold= confidence=0.997562
+Example: Virazole guess= drug gold= confidence=0.658417
+Example: Visken 11 guess= drug gold= confidence=0.816547
+Example: Vumon guess= place gold= confidence=0.280445
+Example: Wintrocin guess= drug gold= confidence=0.904456
+Example: Xerac BP 5 guess= drug gold= confidence=0.928243
+Example: Xylocaine-MPF guess= drug gold= confidence=0.998544
+Example: Yohimar guess= place gold= confidence=0.196989
+Example: Z-Plus guess= drug gold= confidence=0.885877
+Example: Zanosar guess= drug gold= confidence=0.526765
+Example: Zephrex-LA 142 guess= drug gold= confidence=0.997608
+Example: Zerit guess= drug gold= confidence=0.56251
+Example: Ziagen guess= drug gold= confidence=0.460386
+Example: Zincate guess= drug gold= confidence=0.778435
+Example: Zyflo guess= movie gold= confidence=0.114707
+Example: Zyrtec guess= drug gold= confidence=0.926768
+Example: Aarno Karimo guess= person gold= confidence=0.952109
+Example: Abdullah Ibn Sailam guess= person gold= confidence=0.933364
+Example: Abdullah ibn Masud guess= person gold= confidence=0.971889
+Example: Abraham Robinson guess= person gold= confidence=0.984635
+Example: Abu-d Dardaa guess= movie gold= confidence=0.34686
+Example: Adeodatus guess= movie gold= confidence=0.134112
+Example: Adriaan Vlacq guess= person gold= confidence=0.479968
+Example: Adrian I guess= person gold= confidence=0.837242
+Example: Alain Connes guess= person gold= confidence=0.71599
+Example: Alan Baker guess= person gold= confidence=0.966073
+Example: Alan L. Bean guess= person gold= confidence=0.986161
+Example: Alberta Hunter guess= person gold= confidence=0.919414
+Example: Albrecht Kossel guess= person gold= confidence=0.942326
+Example: Alessandro Volta guess= movie gold= confidence=0.356544
+Example: Alexander IV guess= person gold= confidence=0.886889
+Example: Alexander Weinstein guess= person gold= confidence=0.906157
+Example: Alexis M. Herman guess= person gold= confidence=0.993265
+Example: Alfred Hermann Fried guess= person gold= confidence=0.54075
+Example: Alfred Werner guess= person gold= confidence=0.936085
+Example: Alfred von Tirpitz guess= person gold= confidence=0.657555
+Example: Alice Hayes guess= person gold= confidence=0.80719
+Example: Althea Gibson guess= person gold= confidence=0.962408
+Example: Alvin "Red" Tyler guess= person gold= confidence=0.985665
+Example: Amelia Earhart guess= person gold= confidence=0.923691
+Example: Andrew Bonar Law guess= person gold= confidence=0.699837
+Example: Andrew Johnson guess= person gold= confidence=0.990484
+Example: Anne Heche guess= person gold= confidence=0.898551
+Example: Antoni Zygmund guess= person gold= confidence=0.562091
+Example: Apollo guess= place gold= confidence=0.0248048
+Example: Archer John Porter Martin guess= person gold= confidence=0.841254
+Example: Arthur Kornberg guess= person gold= confidence=0.98082
+Example: Arthur Lakes guess= person gold= confidence=0.941558
+Example: Athene guess= place gold= confidence=0.0201277
+Example: Atle Selberg guess= person gold= confidence=0.822988
+Example: August Blanche guess= person gold= confidence=0.823396
+Example: Barakah guess= place gold= confidence=0.0255173
+Example: Barbara Welther guess= person gold= confidence=0.986125
+Example: Baruj Benacerraf guess= person gold= confidence=0.986378
+Example: Ben Kingsley guess= person gold= confidence=0.636124
+Example: Benedict I guess= person gold= confidence=0.791352
+Example: Benjamin Banneker guess= person gold= confidence=0.877664
+Example: Benjamin Waterhouse Hawkins guess= person gold= confidence=0.657912
+Example: Benoit Mandelbrot guess= person gold= confidence=0.820186
+Example: Bernt Holmboe guess= person gold= confidence=0.669493
+Example: Betty Williams guess= person gold= confidence=0.793382
+Example: Bill Pullman guess= person gold= confidence=0.851692
+Example: Bill Wilson guess= person gold= confidence=0.900322
+Example: Billy Graham guess= person gold= confidence=0.717578
+Example: Billy Hamilton guess= person gold= confidence=0.866365
+Example: Blaise Pascal guess= person gold= confidence=0.547006
+Example: Blessed Innocent XI guess= movie gold= confidence=0.326793
+Example: Bob Dylan guess= person gold= confidence=0.645955
+Example: Bob Gibson guess= person gold= confidence=0.772908
+Example: Bob Haggart guess= person gold= confidence=0.609986
+Example: Boniface II guess= person gold= confidence=0.632764
+Example: Bonnie J. Dunbar guess= person gold= confidence=0.991452
+Example: Boris Delone guess= person gold= confidence=0.856728
+Example: Branwell Brontë guess= person gold= confidence=0.766999
+Example: Bruce Willis guess= person gold= confidence=0.884693
+Example: Bud Freeman guess= person gold= confidence=0.44062
+Example: Buffon guess= place gold= confidence=0.00644018
+Example: C de la Vallée Poussin guess= movie gold= confidence=0.124144
+Example: C. Mathewson guess= person gold= confidence=0.980728
+Example: Cal Ripken, Jr. guess= movie gold= confidence=0.133618
+Example: Caleb Carr guess= person gold= confidence=0.860866
+Example: Campanus of Novara guess= movie gold= confidence=0.377639
+Example: Candice Bergen guess= person gold= confidence=0.937746
+Example: Carl Ferdinand Cori guess= person gold= confidence=0.846634
+Example: Carl Gustaf Verner Von Heidenstam guess= person gold= confidence=0.422218
+Example: Caroline Chisholm guess= person gold= confidence=0.631881
+Example: Carroll J. Guillory guess= person gold= confidence=0.986268
+Example: Catfish Hunter guess= person gold= confidence=0.738958
+Example: Celestine II guess= person gold= confidence=0.634862
+Example: Celestine IV guess= person gold= confidence=0.750569
+Example: Charles Brianchon guess= person gold= confidence=0.995587
+Example: Charles Delaunay guess= person gold= confidence=0.969772
+Example: Charles Dodgson guess= person gold= confidence=0.986849
+Example: Charles E. Brady, Jr. guess= person gold= confidence=0.972386
+Example: Charles Jagger guess= person gold= confidence=0.982878
+Example: Charles Louis Alphonse Laveran guess= person gold= confidence=0.704825
+Example: Charles Pears guess= person gold= confidence=0.846681
+Example: Charles Reyneau guess= person gold= confidence=0.993708
+Example: Charlie Chaplin guess= person gold= confidence=0.910411
+Example: Charlotte Scott guess= drug gold= confidence=0.074564
+Example: Cher guess= place gold= confidence=0.0691995
+Example: Chester W. Nimitz guess= person gold= confidence=0.992826
+Example: Chevy Chase guess= person gold= confidence=0.861036
+Example: Christina Ricci guess= person gold= confidence=0.87184
+Example: Christopher Clavius guess= movie gold= confidence=0.447121
+Example: Christopher Marlowe guess= person gold= confidence=0.733774
+Example: Claude Debussy guess= person gold= confidence=0.843139
+Example: Claude Dechales guess= person gold= confidence=0.826355
+Example: Clement III guess= person gold= confidence=0.830254
+Example: Cleopatra VII guess= person gold= confidence=0.66068
+Example: Clouet guess= place gold= confidence=0.0122014
+Example: Colonel Mary A. Hallaren guess= person gold= confidence=0.976767
+Example: Conon guess= place gold= confidence=0.0204812
+Example: D'alembert guess= place gold= confidence=0.0218735
+Example: Daniel M. Tani guess= person gold= confidence=0.990219
+Example: David Bomberg guess= person gold= confidence=0.883001
+Example: David H. Hubel guess= person gold= confidence=0.969992
+Example: David Lloyd George guess= person gold= confidence=0.825538
+Example: David R. Williams guess= person gold= confidence=0.96675
+Example: David Spade guess= movie gold= confidence=0.193519
+Example: Deepak Chopra guess= person gold= confidence=0.604037
+Example: Democritus of Abdera guess= movie gold= confidence=0.448835
+Example: Dianne Feinstein guess= person gold= confidence=0.84253
+Example: Dickinson W. Richards guess= person gold= confidence=0.981748
+Example: Dimitri Egorov guess= person gold= confidence=0.927506
+Example: Dirk Bouts guess= person gold= confidence=0.59446
+Example: Don Carlos Buell guess= person gold= confidence=0.896546
+Example: Dr. Dean Ornish guess= person gold= confidence=0.960732
+Example: Earl of Aberdeen guess= person gold= confidence=0.923575
+Example: Eddie Arcaro guess= person gold= confidence=0.851638
+Example: Eddie Plank guess= person gold= confidence=0.836403
+Example: Edmund Kirby Smith guess= person gold= confidence=0.871054
+Example: Edouard Manet guess= person gold= confidence=0.714812
+Example: Edward Drinker Cope guess= person gold= confidence=0.639638
+Example: Edward I guess= person gold= confidence=0.939046
+Example: Edward III guess= person gold= confidence=0.966322
+Example: Edward Ory guess= person gold= confidence=0.515852
+Example: Edward V guess= person gold= confidence=0.930274
+Example: Edwin G. Krebs guess= person gold= confidence=0.991186
+Example: Elias Canetti guess= person gold= confidence=0.978578
+Example: Elie Wiesel guess= person gold= confidence=0.941658
+Example: Elisabeth Kuber Ross guess= person gold= confidence=0.877742
+Example: Elizabeth Virginia Wallace Truman guess= company gold= confidence=0.387995
+Example: Ellen S. Baker guess= person gold= confidence=0.99595
+Example: Elton John guess= person gold= confidence=0.808046
+Example: Emmy Noether guess= person gold= confidence=0.857961
+Example: Empedocles guess= drug gold= confidence=0.0525491
+Example: Eric F. Wieschaus guess= person gold= confidence=0.979426
+Example: Eric Heiden guess= person gold= confidence=0.949591
+Example: Erich Hecke guess= person gold= confidence=0.967753
+Example: Erik Zeeman guess= person gold= confidence=0.949896
+Example: Erland Bring guess= person gold= confidence=0.954692
+Example: Ernest Miller Hemingway guess= person gold= confidence=0.89291
+Example: Ernie Lombardi guess= person gold= confidence=0.99537
+Example: Erwin Freundlich guess= person gold= confidence=0.969701
+Example: Estee Lauder guess= person gold= confidence=0.707754
+Example: Etienne Pascal guess= person gold= confidence=0.383766
+Example: F. E. Sillanpää guess= person gold= confidence=0.984771
+Example: Florence Sabin guess= person gold= confidence=0.506197
+Example: Francesco Cantelli guess= person gold= confidence=0.955161
+Example: Francis Galton guess= person gold= confidence=0.896111
+Example: Francois Tisserand guess= movie gold= confidence=0.207599
+Example: Frank McCourt guess= person gold= confidence=0.672506
+Example: Fred W. Haise guess= person gold= confidence=0.978949
+Example: Frederick Soddy guess= movie gold= confidence=0.312834
+Example: Friedrich Schottky guess= person gold= confidence=0.9141
+Example: Frédéric Bazille guess= person gold= confidence=0.977048
+Example: G F Bernhard Riemann guess= movie gold= confidence=0.12968
+Example: G N Watson guess= movie gold= confidence=0.0688542
+Example: G de Roberval Personne guess= movie gold= confidence=0.133887
+Example: G. David Low guess= person gold= confidence=0.851301
+Example: Gabriel Koenigs guess= person gold= confidence=0.918074
+Example: Gabriela Mistral guess= person gold= confidence=0.941993
+Example: Galahad guess= place gold= confidence=0.0239668
+Example: Genevieve M. Knight guess= person gold= confidence=0.984363
+Example: Georg Scheffers guess= person gold= confidence=0.930358
+Example: George Atwood guess= person gold= confidence=0.842598
+Example: George Bernard Shaw guess= person gold= confidence=0.953325
+Example: George Canning guess= person gold= confidence=0.933289
+Example: George Darwin guess= person gold= confidence=0.982538
+Example: George Foster guess= person gold= confidence=0.920064
+Example: George Washington guess= person gold= confidence=0.982652
+Example: Georges Comte de Buffon guess= person gold= confidence=0.951337
+Example: Georgii Pfeiffer guess= person gold= confidence=0.929323
+Example: Georgii Polozii guess= person gold= confidence=0.979206
+Example: Gerhard Domagk guess= person gold= confidence=0.984773
+Example: Gerhard Gentzen guess= person gold= confidence=0.995086
+Example: Germinal Dandelin guess= person gold= confidence=0.764914
+Example: Gertrude B. Elion Perlman guess= person gold= confidence=0.963494
+Example: Gertrude Rainey guess= person gold= confidence=0.718817
+Example: Giovanni Saccheri guess= person gold= confidence=0.977473
+Example: Giovanni Vacca guess= person gold= confidence=0.827246
+Example: Giulio Natta guess= person gold= confidence=0.705677
+Example: Giuseppe Bruno guess= person gold= confidence=0.837417
+Example: Giuseppe Veronese guess= person gold= confidence=0.90556
+Example: Goerg Henrik Von Wright guess= person gold= confidence=0.897406
+Example: Gorlois guess= place gold= confidence=0.0854957
+Example: Gregory IX guess= person gold= confidence=0.827762
+Example: Gregory VI guess= person gold= confidence=0.881795
+Example: Gregory VIII guess= person gold= confidence=0.966432
+Example: Gustav Hertz guess= person gold= confidence=0.92261
+Example: Gustav Stresemann guess= person gold= confidence=0.695303
+Example: Hank Greenberg guess= person gold= confidence=0.96496
+Example: Hank Williams guess= person gold= confidence=0.95546
+Example: Hans Baldung Grien guess= person gold= confidence=0.852863
+Example: Hans Heilbronn guess= person gold= confidence=0.986999
+Example: Hans Reichenbach guess= person gold= confidence=0.972524
+Example: Hassan II guess= person gold= confidence=0.877692
+Example: Heather Locklear guess= person gold= confidence=0.977453
+Example: Henri Lebesgue guess= person gold= confidence=0.976779
+Example: Henry Baker guess= person gold= confidence=0.960514
+Example: Herakles guess= place gold= confidence=0.0629584
+Example: Hercules guess= place gold= confidence=0.0662195
+Example: Hermann Kober guess= person gold= confidence=0.892498
+Example: Honore Dutrey guess= person gold= confidence=0.72953
+Example: Honorius I guess= person gold= confidence=0.852318
+Example: Horace Smith-Dorrien guess= person gold= confidence=0.72113
+Example: Howard Martin Temin guess= person gold= confidence=0.897056
+Example: Howard Stern guess= person gold= confidence=0.766029
+Example: Hugh Duffy guess= movie gold= confidence=0.153368
+Example: Iivo Härkönen guess= person gold= confidence=0.951459
+Example: Innocent II guess= person gold= confidence=0.454944
+Example: Iréneé-Jules Bienaymé guess= person gold= confidence=0.989368
+Example: Isaac Newton guess= drug gold= confidence=0.25918
+Example: Isacc Asimov guess= person gold= confidence=0.674593
+Example: Issai Schur guess= person gold= confidence=0.739831
+Example: Iurii Linnik guess= person gold= confidence=0.874804
+Example: J. L. Runeberg guess= person gold= confidence=0.994197
+Example: Jacob Cooper guess= person gold= confidence=0.878444
+Example: Jacob Nielsen guess= person gold= confidence=0.976851
+Example: James H. Curry guess= person gold= confidence=0.995109
+Example: James K. Polk guess= person gold= confidence=0.990963
+Example: James M. Kelly guess= person gold= confidence=0.995438
+Example: James Spader guess= person gold= confidence=0.97114
+Example: James Sylvester guess= person gold= confidence=0.984132
+Example: Jan van Eyck guess= person gold= confidence=0.915378
+Example: Jean Argand guess= person gold= confidence=0.961175
+Example: Jean Duhamel guess= person gold= confidence=0.992613
+Example: Jean Richer guess= person gold= confidence=0.995257
+Example: Jean-Loup Chrétien guess= person gold= confidence=0.934471
+Example: Jennifer Lopez guess= person gold= confidence=0.991691
+Example: Jesse Douglas guess= person gold= confidence=0.966763
+Example: Jesse Owens guess= person gold= confidence=0.959355
+Example: Jim Bottomley guess= person gold= confidence=0.967816
+Example: Jim Carey guess= person gold= confidence=0.951852
+Example: Jimmy Smits guess= person gold= confidence=0.672836
+Example: Joan Cusack guess= person gold= confidence=0.95581
+Example: Joan Rivers guess= person gold= confidence=0.953268
+Example: Joe Mcginnity guess= person gold= confidence=0.768012
+Example: Joe Medwick guess= person gold= confidence=0.937351
+Example: Johann Bernoulli guess= person gold= confidence=0.998237
+Example: Johann Deisenhofer guess= person gold= confidence=0.996666
+Example: Johannes Vilhelm Jensen guess= person gold= confidence=0.993986
+Example: John Bernoulli guess= person gold= confidence=0.997159
+Example: John Brown Gordon guess= person gold= confidence=0.990947
+Example: John Burkill guess= person gold= confidence=0.990665
+Example: John Clarkson guess= person gold= confidence=0.997031
+Example: John Dewey guess= person gold= confidence=0.975322
+Example: John L. Phillips guess= person gold= confidence=0.984744
+Example: John Leech guess= person gold= confidence=0.967722
+Example: John Leland guess= person gold= confidence=0.984059
+Example: John Lincoln guess= person gold= confidence=0.99145
+Example: John M. Chivington guess= person gold= confidence=0.995801
+Example: John Mccausland guess= person gold= confidence=0.990978
+Example: John Slidell guess= person gold= confidence=0.992609
+Example: John Tukey guess= person gold= confidence=0.960084
+Example: John Whittaker guess= person gold= confidence=0.988933
+Example: John Wilson guess= person gold= confidence=0.991519
+Example: John Wishart guess= person gold= confidence=0.987869
+Example: John XXI guess= person gold= confidence=0.997014
+Example: John of Holywood guess= person gold= confidence=0.923983
+Example: Johnny Bench guess= person gold= confidence=0.982542
+Example: Joris Hoefnagel guess= person gold= confidence=0.992088
+Example: Josef Goebbels guess= person gold= confidence=0.928206
+Example: Joseph Doob guess= person gold= confidence=0.96486
+Example: Joseph Joffre guess= person gold= confidence=0.983908
+Example: Joseph Saurin guess= person gold= confidence=0.986733
+Example: Joseph of Arimathea guess= person gold= confidence=0.594059
+Example: Josif Shtokalo guess= person gold= confidence=0.889291
+Example: Julia Bowman Robinson guess= person gold= confidence=0.992377
+Example: Julio Rey Pastor guess= person gold= confidence=0.839076
+Example: Justice Kennedy guess= person gold= confidence=0.969057
+Example: Justice Rehnquist guess= person gold= confidence=0.973243
+Example: Jörn Donner guess= person gold= confidence=0.986285
+Example: K C Sreedharan Pillai guess= movie gold= confidence=0.314827
+Example: K. Alexander Müller guess= person gold= confidence=0.976354
+Example: Karl Rahner guess= person gold= confidence=0.973309
+Example: Kate Kirby guess= person gold= confidence=0.682895
+Example: Kate Winslet guess= person gold= confidence=0.848149
+Example: Katharine Hepburn guess= person gold= confidence=0.84996
+Example: Kathryn Flanagan guess= person gold= confidence=0.943544
+Example: Keith Stewartson guess= person gold= confidence=0.92476
+Example: Kevin Costner guess= person gold= confidence=0.814474
+Example: Kevin P. Chilton guess= person gold= confidence=0.958226
+Example: King Kelly guess= person gold= confidence=0.448704
+Example: Knut Hamsun guess= person gold= confidence=0.906269
+Example: Konrad Knopp guess= person gold= confidence=0.47722
+Example: Konrad Zuse guess= person gold= confidence=0.467902
+Example: Kristie Hendrickson guess= person gold= confidence=0.975893
+Example: Ladislaus Bortkiewicz guess= person gold= confidence=0.97301
+Example: Lambert Quetelet guess= person gold= confidence=0.91203
+Example: Larry King guess= person gold= confidence=0.882419
+Example: Lars Olof Nathan Söderblom guess= person gold= confidence=0.81884
+Example: Lawrence Taylor guess= person gold= confidence=0.948188
+Example: Lee Remick guess= movie gold= confidence=0.145251
+Example: Lena Horne guess= person gold= confidence=0.840479
+Example: Leo VI guess= person gold= confidence=0.791154
+Example: Leon M. Lederman Lederman guess= person gold= confidence=0.992156
+Example: Leonard Wood guess= movie gold= confidence=0.25853
+Example: Leonhard Euler guess= person gold= confidence=0.931196
+Example: Leonid Vitaliyevich Kantorovich guess= drug gold= confidence=0.263478
+Example: Lewis Strauss guess= person gold= confidence=0.706412
+Example: Linus Pauling guess= person gold= confidence=0.860337
+Example: Lord Boyd Orr of Brechin guess= movie gold= confidence=0.312797
+Example: Louis Arbogast guess= person gold= confidence=0.828062
+Example: Louis Riel guess= person gold= confidence=0.599782
+Example: Louis Vierne guess= person gold= confidence=0.808387
+Example: Lucy Lawless guess= person gold= confidence=0.641323
+Example: Ludwig Quidde guess= movie gold= confidence=0.282086
+Example: Luigi Grandi guess= person gold= confidence=0.899071
+Example: Luis Aparicio guess= movie gold= confidence=0.399114
+Example: László Kalmár guess= person gold= confidence=0.83335
+Example: Léon Victor Auguste Bourgeois guess= movie gold= confidence=0.131981
+Example: Marcel Grossmann guess= person gold= confidence=0.686057
+Example: Margaret Burbridge guess= person gold= confidence=0.81274
+Example: Margaret Mead guess= movie gold= confidence=0.153761
+Example: Margaret Sanger guess= person gold= confidence=0.778977
+Example: Maria da Lourdes Pintasilgo guess= person gold= confidence=0.469282
+Example: Marie Guillaumat guess= person gold= confidence=0.964723
+Example: Marilyn Horne guess= person gold= confidence=0.82157
+Example: Marilyn Whittemore guess= person gold= confidence=0.838467
+Example: Mario Andretti guess= person gold= confidence=0.89958
+Example: Mark L. Polansky guess= person gold= confidence=0.994718
+Example: Martin Lawrence guess= person gold= confidence=0.837905
+Example: Marton Taiga guess= movie gold= confidence=0.345698
+Example: Mary Somerville guess= person gold= confidence=0.803672
+Example: Mary Todd Lincoln guess= person gold= confidence=0.805181
+Example: Matthew B. Ridgway guess= person gold= confidence=0.975474
+Example: Mauri Sariola guess= person gold= confidence=0.880597
+Example: Melchior Broederlam guess= person gold= confidence=0.772644
+Example: Melvin Calvin guess= person gold= confidence=0.84445
+Example: Mia Farrow guess= person gold= confidence=0.716564
+Example: Michael A. Baker guess= person gold= confidence=0.989744
+Example: Michael Faraday guess= person gold= confidence=0.692328
+Example: Michael J. Bloomfield guess= person gold= confidence=0.986085
+Example: Michael J. McCulley guess= person gold= confidence=0.975265
+Example: Michael P. Anderson guess= person gold= confidence=0.981281
+Example: Michel Rolle guess= person gold= confidence=0.896033
+Example: Mickey Mantle guess= movie gold= confidence=0.333882
+Example: Miguel Angel Asturias guess= movie gold= confidence=0.211043
+Example: Millard Fillmore guess= person gold= confidence=0.928809
+Example: Miller Huggins guess= person gold= confidence=0.724351
+Example: Mohamed Anwar El Sadat guess= person gold= confidence=0.866454
+Example: Monte Irvin guess= movie gold= confidence=0.14813
+Example: Mordred guess= place gold= confidence=0.00885208
+Example: Moritz Pasch guess= person gold= confidence=0.663384
+Example: Musab ibn Umayr guess= person gold= confidence=0.92435
+Example: Napoleon Bonaparte Buford guess= drug gold= confidence=0.0101725
+Example: Nasir Khwaja guess= person gold= confidence=0.946045
+Example: Nathan Jacobson guess= person gold= confidence=0.983623
+Example: Ned Kelly guess= place gold= confidence=0.168574
+Example: Nellie Bly guess= person gold= confidence=0.347172
+Example: Nick Green guess= person gold= confidence=0.721129
+Example: Nicolaus Copernicus guess= movie gold= confidence=0.296249
+Example: Nicolaus Fuss guess= movie gold= confidence=0.153991
+Example: Niels Henrik Abels guess= person gold= confidence=0.709761
+Example: Nikolay Nikolaevich Semenov guess= person gold= confidence=0.676916
+Example: Norman E. Thagard guess= person gold= confidence=0.960442
+Example: Norman H. Schwarzkopf guess= person gold= confidence=0.865126
+Example: Olavi Paavolainen guess= person gold= confidence=0.782648
+Example: Oleksandr Sharkovsky guess= person gold= confidence=0.745004
+Example: Olga Cordero guess= person gold= confidence=0.542895
+Example: Oliver O. Howard guess= person gold= confidence=0.981756
+Example: Omar Khayyam guess= person gold= confidence=0.835201
+Example: Oronce Fine guess= movie gold= confidence=0.174966
+Example: Osborne Reynolds guess= person gold= confidence=0.378526
+Example: Otto Graham guess= movie gold= confidence=0.296871
+Example: Otto Manninen guess= person gold= confidence=0.604755
+Example: Otto Szász guess= person gold= confidence=0.567152
+Example: Pamela A. Melroy guess= person gold= confidence=0.988348
+Example: Paolo Ruffini guess= person gold= confidence=0.913078
+Example: Paschal II guess= person gold= confidence=0.781165
+Example: Patricia Cornwell guess= person gold= confidence=0.81956
+Example: Patricia Ryan Nixon guess= person gold= confidence=0.410373
+Example: Paul Barbarin guess= person gold= confidence=0.971362
+Example: Paul Cézanne guess= person gold= confidence=0.755834
+Example: Paul II guess= person gold= confidence=0.805119
+Example: Paul Newman guess= person gold= confidence=0.917991
+Example: Paul Signac guess= person gold= confidence=0.822998
+Example: Pauline Frederick guess= person gold= confidence=0.533485
+Example: Penny Okamoto guess= person gold= confidence=0.733376
+Example: Peter J. K. Wisoff guess= person gold= confidence=0.9938
+Example: Petrus Josephus Wilhelmus Debye guess= person gold= confidence=0.709972
+Example: Phidias guess= movie gold= confidence=0.0836685
+Example: Pierre Gassendi guess= person gold= confidence=0.982613
+Example: Pierre Hérigone guess= person gold= confidence=0.971308
+Example: Pierre Léon Boutroux guess= person gold= confidence=0.98226
+Example: Pierre Wantzel guess= person gold= confidence=0.979622
+Example: Pierre de Maupertuis guess= person gold= confidence=0.628294
+Example: Piers Bohl guess= person gold= confidence=0.913483
+Example: Piers J. Sellers guess= person gold= confidence=0.994863
+Example: Pius XII guess= person gold= confidence=0.968212
+Example: Plotinus guess= movie gold= confidence=0.0951387
+Example: Prince Rupprecht guess= person gold= confidence=0.56399
+Example: Proclus Diadochus guess= person gold= confidence=0.741338
+Example: Ptolemy guess= place gold= confidence=0.0164578
+Example: Rachel Robinson guess= person gold= confidence=0.986887
+Example: Ralph Waldo Emerson guess= person gold= confidence=0.991288
+Example: Ramlah bint Abi Sufyan guess= person gold= confidence=0.938657
+Example: Ray Kroc guess= person gold= confidence=0.905495
+Example: Ray Schalk guess= person gold= confidence=0.831921
+Example: René Thom guess= person gold= confidence=0.935616
+Example: René de Sluze guess= person gold= confidence=0.883395
+Example: Richard C. Holbrooke guess= person gold= confidence=0.993324
+Example: Richard I guess= person gold= confidence=0.967609
+Example: Richard M. Linnehan guess= person gold= confidence=0.996924
+Example: Richard R. Ernst guess= person gold= confidence=0.996538
+Example: Richard W. Riley guess= person gold= confidence=0.992594
+Example: Richard Yates guess= person gold= confidence=0.898168
+Example: Robert Bárány guess= person gold= confidence=0.651976
+Example: Robert Coffin guess= person gold= confidence=0.791094
+Example: Robert D. Cabana guess= person gold= confidence=0.972986
+Example: Robert Duvall guess= person gold= confidence=0.864023
+Example: Robert O'Hara Burke guess= person gold= confidence=0.929088
+Example: Robert Pilatus guess= person gold= confidence=0.700971
+Example: Robert Recorde guess= person gold= confidence=0.849558
+Example: Roger Bresnahan guess= person gold= confidence=0.976038
+Example: Rogers Hornsby guess= person gold= confidence=0.861026
+Example: Rolf M. Zinkernagel guess= person gold= confidence=0.990007
+Example: Ronald E. McNair guess= person gold= confidence=0.969833
+Example: Roussou, guess= person gold= confidence=0.533807
+Example: Roy Rogers guess= movie gold= confidence=0.45227
+Example: Rumaysa bint Milhan guess= movie gold= confidence=0.277473
+Example: Ruth Moufang guess= person gold= confidence=0.493343
+Example: Sam Walton guess= person gold= confidence=0.815859
+Example: Samuil Shatunovsky guess= person gold= confidence=0.736703
+Example: Schack August Steenberg Krogh Krogh guess= drug gold= confidence=0.0479908
+Example: Sergius IV guess= person gold= confidence=0.929794
+Example: Severo Ochoa guess= person gold= confidence=0.923429
+Example: Sharon Christa McAuliffe guess= person gold= confidence=0.888686
+Example: Sidney Bechet guess= person gold= confidence=0.94685
+Example: Simon Lhuilier guess= person gold= confidence=0.896288
+Example: Simone Martini guess= person gold= confidence=0.900252
+Example: Sir Alexander Fleming guess= person gold= confidence=0.404149
+Example: Sir Arthur Harden guess= person gold= confidence=0.978787
+Example: Sir Christopher Wren guess= person gold= confidence=0.591919
+Example: Sir Hans Adolf Krebs guess= person gold= confidence=0.758388
+Example: Sir Henry Hallett Dale guess= person gold= confidence=0.753029
+Example: Sir James Jeans guess= person gold= confidence=0.826025
+Example: Sir John Warcup Cornforth guess= person gold= confidence=0.754584
+Example: Sir Ronald Ross guess= person gold= confidence=0.917281
+Example: Solomon Lefschetz guess= person gold= confidence=0.595386
+Example: St. Celestine I guess= person gold= confidence=0.941878
+Example: St. Hyginus guess= person gold= confidence=0.850884
+Example: St. Martin I guess= person gold= confidence=0.990276
+Example: St. Thomas Aquinas guess= person gold= confidence=0.514604
+Example: St. Zosimus guess= person gold= confidence=0.803558
+Example: Stanislaw M. Ulam guess= person gold= confidence=0.957469
+Example: Stanislaw Mazur guess= person gold= confidence=0.811542
+Example: Stanley Kubrick guess= person gold= confidence=0.78954
+Example: Steve Buscemi guess= person gold= confidence=0.900513
+Example: Stieg Trenter guess= movie gold= confidence=0.217895
+Example: Susumu Tonegaw guess= movie gold= confidence=0.32095
+Example: Tartaglia guess= movie gold= confidence=0.0486828
+Example: Thabit ibn Qays guess= person gold= confidence=0.924794
+Example: Thales guess= place gold= confidence=0.0578198
+Example: Thales of Miletus guess= movie gold= confidence=0.255101
+Example: Thanatos guess= movie gold= confidence=0.09006
+Example: Theodor Reye guess= movie gold= confidence=0.304534
+Example: Theodosius of Bithynia guess= person gold= confidence=0.747615
+Example: Thomas Carey guess= person gold= confidence=0.873874
+Example: Thomas Digges guess= person gold= confidence=0.670576
+Example: Thomas Edward Lawrence guess= person gold= confidence=0.946132
+Example: Thomas Heatherington guess= person gold= confidence=0.964293
+Example: Thomas Ward Custer guess= person gold= confidence=0.976402
+Example: Tobey Maguire guess= movie gold= confidence=0.372568
+Example: Tojo Hideki guess= person gold= confidence=0.931156
+Example: Tom Hanks guess= person gold= confidence=0.499656
+Example: Tommaso Boggio guess= movie gold= confidence=0.453086
+Example: Tristan & Isolde guess= movie gold= confidence=0.00763338
+Example: Tutankhamen guess= place gold= confidence=0.0335568
+Example: Ulysses Simpson Grant guess= drug gold= confidence=0.0069115
+Example: Vaughan Jones guess= person gold= confidence=0.762608
+Example: Vigdis Finnbogadottir guess= person gold= confidence=0.474025
+Example: Vilhelm Bjerknes guess= person gold= confidence=0.970651
+Example: Viscount Goderich guess= person gold= confidence=0.53659
+Example: Wendy O.williams guess= person gold= confidence=0.944259
+Example: Wild Bill Hickok guess= person gold= confidence=0.960802
+Example: Wilhelm Wirtinger guess= person gold= confidence=0.987722
+Example: William Buckland guess= person gold= confidence=0.981701
+Example: William Burnside guess= person gold= confidence=0.959875
+Example: William Butler Yeats guess= person gold= confidence=0.908436
+Example: William Clifford guess= person gold= confidence=0.978244
+Example: William D. Phillips guess= person gold= confidence=0.908608
+Example: William Gladstone guess= person gold= confidence=0.966754
+Example: William Hamilton guess= person gold= confidence=0.975786
+Example: William Howard Taft guess= person gold= confidence=0.94858
+Example: William Rankine guess= person gold= confidence=0.939325
+Example: William Rothenstein guess= person gold= confidence=0.963944
+Example: William Tecumseh Sherman guess= person gold= confidence=0.898136
+Example: William Whiston guess= person gold= confidence=0.983995
+Example: William Winstanley guess= person gold= confidence=0.97473
+Example: Willis Carrier guess= person gold= confidence=0.982268
+Example: Yaroslav Lopatynsky guess= person gold= confidence=0.876832
+Example: Yates Frank guess= person gold= confidence=0.590231
+Example: Yudell Luke guess= person gold= confidence=0.61581
+Example: Yulian-Karl Sokhotsky guess= person gold= confidence=0.823835
+Example: Zacharie Astruc guess= person gold= confidence=0.698372
+Example: ibn Sina guess= movie gold= confidence=0.337038
+Example: Aberdare guess= place gold= confidence=0.543002
+Example: Aberdyfi guess= movie gold= confidence=0.363727
+Example: Ahlen guess= place gold= confidence=0.743949
+Example: Algajola guess= movie gold= confidence=0.370035
+Example: Allogny guess= place gold= confidence=0.789164
+Example: Alphen guess= place gold= confidence=0.674598
+Example: Altnaharra guess= place gold= confidence=0.601063
+Example: Ambonnay guess= place gold= confidence=0.801245
+Example: Arbois guess= drug gold= confidence=0.236765
+Example: Arcadia guess= drug gold= confidence=0.151367
+Example: Arkansas guess= movie gold= confidence=0.311548
+Example: Armthorpe guess= drug gold= confidence=0.0593416
+Example: Arnhem guess= place gold= confidence=0.889979
+Example: Ashwell guess= place gold= confidence=0.950107
+Example: Auvillar guess= place gold= confidence=0.315041
+Example: Baarn guess= place gold= confidence=0.796532
+Example: Bad Bentheim guess= person gold= confidence=0.208963
+Example: Baden-Wuerttemberg guess= place gold= confidence=0.943883
+Example: Bagshot guess= place gold= confidence=0.880348
+Example: Ballymena guess= place gold= confidence=0.688332
+Example: Balsall Common guess= person gold= confidence=0.0188089
+Example: Bangor (Wales) guess= place gold= confidence=0.965507
+Example: Barjac guess= place gold= confidence=0.648306
+Example: Barking and Dagenham guess= movie gold= confidence=0.00408553
+Example: Barmouth guess= place gold= confidence=0.915453
+Example: Barnard Castle guess= person gold= confidence=0.0336113
+Example: Barrack Heights guess= person gold= confidence=0.0106454
+Example: Baud guess= place gold= confidence=0.532306
+Example: Beers guess= place gold= confidence=0.548148
+Example: Belfield guess= place gold= confidence=0.846965
+Example: Bellangry guess= place gold= confidence=0.928968
+Example: Berrima guess= place gold= confidence=0.727109
+Example: Betws-y-Coed guess= place gold= confidence=0.887904
+Example: Bexhill-on-Sea guess= place gold= confidence=0.957345
+Example: Biberach guess= place gold= confidence=0.882933
+Example: Bibury guess= place gold= confidence=0.793164
+Example: Bierton guess= place gold= confidence=0.691991
+Example: Billericay guess= place gold= confidence=0.762399
+Example: Bishopton guess= place gold= confidence=0.6198
+Example: Blackburn (Lancs.) guess= place gold= confidence=0.97861
+Example: Blackwater guess= movie gold= confidence=0.468018
+Example: Bollington guess= place gold= confidence=0.925476
+Example: Bondi Junction guess= person gold= confidence=0.00977533
+Example: Bopfingen guess= place gold= confidence=0.762225
+Example: Borley guess= place gold= confidence=0.903534
+Example: Bosnia and Herzegovina guess= movie gold= confidence=0.0176274
+Example: Bournemouth guess= place gold= confidence=0.948945
+Example: Bradford guess= place gold= confidence=0.66208
+Example: Branston (Leicestershire) guess= place gold= confidence=0.995187
+Example: Bridgwater guess= place gold= confidence=0.656275
+Example: Brighouse guess= place gold= confidence=0.769661
+Example: Brixham guess= place gold= confidence=0.767286
+Example: Bude guess= place gold= confidence=0.518189
+Example: Budleigh Salterton guess= person gold= confidence=0.0155699
+Example: Bulgaria guess= place gold= confidence=0.519661
+Example: Bungwahl guess= place gold= confidence=0.928397
+Example: Bunnik guess= place gold= confidence=0.755246
+Example: Burgh Heath guess= place gold= confidence=0.614019
+Example: Burgundy guess= place gold= confidence=0.94702
+Example: Bury St. Edmunds guess= person gold= confidence=0.00471973
+Example: Busby guess= place gold= confidence=0.783113
+Example: Butzbach guess= place gold= confidence=0.878339
+Example: Cambodia guess= place gold= confidence=0.608136
+Example: Camperdown guess= place gold= confidence=0.858507
+Example: Canvey Island guess= movie gold= confidence=0.227712
+Example: Carnoux-en-Provence guess= place gold= confidence=0.942052
+Example: Castlederg guess= place gold= confidence=0.92792
+Example: Castleford guess= place gold= confidence=0.937336
+Example: Ceres guess= place gold= confidence=0.406229
+Example: Cestas guess= movie gold= confidence=0.324642
+Example: Challacombe guess= place gold= confidence=0.647728
+Example: Charlwood guess= place gold= confidence=0.934795
+Example: Chatsworth guess= place gold= confidence=0.93957
+Example: Checkendon guess= place gold= confidence=0.74217
+Example: Cheltenham guess= place gold= confidence=0.85776
+Example: Chesham guess= place gold= confidence=0.87246
+Example: Chessington guess= place gold= confidence=0.918047
+Example: Chilton (Durham) guess= place gold= confidence=0.984192
+Example: Chipping guess= place gold= confidence=0.605374
+Example: Chorley guess= place gold= confidence=0.893148
+Example: Chorleywood guess= place gold= confidence=0.895278
+Example: Churchdown guess= place gold= confidence=0.929216
+Example: Clare guess= place gold= confidence=0.581845
+Example: Claye-Souilly guess= place gold= confidence=0.80724
+Example: Cleckheaton guess= place gold= confidence=0.65888
+Example: Cogolin guess= drug gold= confidence=0.02892
+Example: Colmar guess= drug gold= confidence=0.332093
+Example: Colorado guess= movie gold= confidence=0.248
+Example: Condom guess= place gold= confidence=0.713256
+Example: Contamines-Montjoie guess= place gold= confidence=0.850721
+Example: Cookham guess= place gold= confidence=0.86917
+Example: Coolongolook guess= place gold= confidence=0.718769
+Example: Cooranbong guess= place gold= confidence=0.767826
+Example: Corris guess= place gold= confidence=0.378828
+Example: Corte guess= drug gold= confidence=0.337784
+Example: Courbevoie guess= place gold= confidence=0.887474
+Example: Coverack guess= movie gold= confidence=0.416422
+Example: Craigavon guess= drug gold= confidence=0.272681
+Example: Crawley guess= place gold= confidence=0.936988
+Example: Crediton guess= place gold= confidence=0.465681
+Example: Crillon le Brave guess= movie gold= confidence=0.1082
+Example: Crowhurst guess= place gold= confidence=0.915631
+Example: Crowthorne guess= place gold= confidence=0.749368
+Example: Cudal guess= drug gold= confidence=0.120576
+Example: Deal guess= drug gold= confidence=0.260104
+Example: Denby Dale guess= movie gold= confidence=0.0821427
+Example: Derry guess= place gold= confidence=0.727529
+Example: Dewsbury guess= place gold= confidence=0.935494
+Example: Diss guess= movie gold= confidence=0.14983
+Example: Dodewaard guess= place gold= confidence=0.582797
+Example: Dorking guess= place gold= confidence=0.724946
+Example: Downpatrick guess= movie gold= confidence=0.408361
+Example: Driebergen guess= place gold= confidence=0.815534
+Example: Dromore guess= drug gold= confidence=0.264977
+Example: Dulverton guess= place gold= confidence=0.623117
+Example: Dunblane guess= place gold= confidence=0.683575
+Example: Dunchurch guess= place gold= confidence=0.916857
+Example: Dunoon guess= place gold= confidence=0.476191
+Example: Dunstable guess= place gold= confidence=0.789901
+Example: Dural guess= drug gold= confidence=0.174729
+Example: Durham guess= place gold= confidence=0.778027
+Example: Durrington guess= place gold= confidence=0.890786
+Example: Edgeworth guess= place gold= confidence=0.88673
+Example: Ediger guess= place gold= confidence=0.387831
+Example: Eisenberg guess= place gold= confidence=0.923987
+Example: Elanora Heights guess= person gold= confidence=0.00779927
+Example: Enspijk guess= place gold= confidence=0.719669
+Example: Epping guess= place gold= confidence=0.442438
+Example: Erkrath guess= place gold= confidence=0.833201
+Example: Eversley guess= place gold= confidence=0.925456
+Example: Evesham guess= place gold= confidence=0.71028
+Example: Exeter guess= drug gold= confidence=0.147703
+Example: Eyemouth guess= place gold= confidence=0.625453
+Example: Fajardo guess= movie gold= confidence=0.315277
+Example: Faversham guess= place gold= confidence=0.86344
+Example: Faygate guess= drug gold= confidence=0.072514
+Example: Five Dock guess= movie gold= confidence=0.0220771
+Example: Flaxton guess= drug gold= confidence=0.310208
+Example: Florence Court guess= person gold= confidence=0.0287325
+Example: Forbes guess= place gold= confidence=0.47562
+Example: Fources guess= movie gold= confidence=0.270807
+Example: Freising guess= place gold= confidence=0.51718
+Example: Friesthorpe guess= drug gold= confidence=0.0836708
+Example: Fritzlar guess= drug gold= confidence=0.102997
+Example: Garsington guess= place gold= confidence=0.944761
+Example: Gartocharn guess= place gold= confidence=0.797168
+Example: Gateshead guess= place gold= confidence=0.716036
+Example: Gesté guess= movie gold= confidence=0.259551
+Example: Giethoorn guess= place gold= confidence=0.523452
+Example: Girraween guess= place gold= confidence=0.898582
+Example: Gissing guess= place gold= confidence=0.717352
+Example: Glengormley guess= place gold= confidence=0.932946
+Example: Glenorie guess= drug gold= confidence=0.17027
+Example: Goffs Oak guess= movie gold= confidence=0.142413
+Example: Gosford guess= place gold= confidence=0.685481
+Example: Gosforth (Cumbria) guess= place gold= confidence=0.990895
+Example: Grange-over-Sands guess= place gold= confidence=0.860026
+Example: Grans guess= place gold= confidence=0.506301
+Example: Great Bookham guess= person gold= confidence=0.0667046
+Example: Green Point guess= movie gold= confidence=0.105909
+Example: Gross-Gerau guess= drug gold= confidence=0.34401
+Example: Gunning guess= place gold= confidence=0.747277
+Example: Haaren guess= place gold= confidence=0.661483
+Example: Haberfield guess= place gold= confidence=0.887864
+Example: Haguenau guess= place gold= confidence=0.578478
+Example: Halfweg guess= place gold= confidence=0.917224
+Example: Handforth guess= place gold= confidence=0.873026
+Example: Hannoversch Münden guess= person gold= confidence=0.322057
+Example: Harlingen guess= place gold= confidence=0.930723
+Example: Harwich guess= place gold= confidence=0.930669
+Example: Havant guess= place gold= confidence=0.493575
+Example: Hawaii guess= movie gold= confidence=0.167524
+Example: Hawarden guess= place gold= confidence=0.912913
+Example: Hawick guess= place gold= confidence=0.619317
+Example: Haybes guess= place gold= confidence=0.497616
+Example: Heathfield (Devon) guess= place gold= confidence=0.98443
+Example: Hechingen guess= place gold= confidence=0.862488
+Example: Heddon-on-the-Wall guess= place gold= confidence=0.975101
+Example: Heidelberg guess= place gold= confidence=0.91837
+Example: Heidenheim guess= place gold= confidence=0.716213
+Example: Helston guess= place gold= confidence=0.77666
+Example: Hemyock guess= place gold= confidence=0.54826
+Example: Hexham guess= place gold= confidence=0.701176
+Example: High Halstow guess= person gold= confidence=0.146388
+Example: Hilcote guess= drug gold= confidence=0.152437
+Example: Hof guess= movie gold= confidence=0.306925
+Example: Hoo St. Werburgh guess= person gold= confidence=0.00685158
+Example: Horncastle guess= place gold= confidence=0.767934
+Example: Hornsby guess= place gold= confidence=0.955853
+Example: Houilles guess= place gold= confidence=0.727021
+Example: Huntly guess= place gold= confidence=0.839698
+Example: Husborne Crawley guess= person gold= confidence=0.0602903
+Example: India guess= place gold= confidence=0.61645
+Example: Irchester guess= place gold= confidence=0.69446
+Example: Issigeac guess= drug gold= confidence=0.13562
+Example: Ivanovo guess= movie gold= confidence=0.288455
+Example: Jarrow guess= place gold= confidence=0.432985
+Example: John o' Groats guess= movie gold= confidence=0.0403099
+Example: Joyeuse guess= movie gold= confidence=0.297774
+Example: Julianadorp aan Zee guess= movie gold= confidence=0.0335961
+Example: Keighley guess= place gold= confidence=0.937791
+Example: Kineton guess= place gold= confidence=0.747497
+Example: King's Lynn guess= movie gold= confidence=0.0407176
+Example: Kingsford guess= place gold= confidence=0.941024
+Example: Kingsteignton guess= place gold= confidence=0.806699
+Example: Kinnersley guess= place gold= confidence=0.97717
+Example: Kintore guess= place gold= confidence=0.772823
+Example: Kirknewton guess= place gold= confidence=0.94682
+Example: Knightswood guess= place gold= confidence=0.911783
+Example: Krefeld guess= place gold= confidence=0.86161
+Example: La Grave guess= movie gold= confidence=0.125546
+Example: La Trinité-sur-Mer guess= movie gold= confidence=0.137711
+Example: Labège guess= place gold= confidence=0.915985
+Example: Lahr guess= place gold= confidence=0.64595
+Example: Lancaster guess= place gold= confidence=0.508704
+Example: Lapworth guess= place gold= confidence=0.849424
+Example: Larkhall guess= place gold= confidence=0.950131
+Example: Lealholm guess= place gold= confidence=0.851326
+Example: Lelystad guess= place gold= confidence=0.654983
+Example: Lemmer guess= place gold= confidence=0.572266
+Example: Les Sables-d'Olonne guess= place gold= confidence=0.728532
+Example: Les Saisies guess= movie gold= confidence=0.073588
+Example: Libya guess= place gold= confidence=0.463605
+Example: Liechtenstein guess= place gold= confidence=0.512076
+Example: Limpsfield guess= place gold= confidence=0.822173
+Example: Linlithgow guess= place gold= confidence=0.863998
+Example: Little Haywood guess= person gold= confidence=0.259545
+Example: Llanfyllin guess= drug gold= confidence=0.445332
+Example: Llangollen guess= place gold= confidence=0.824142
+Example: Llanrug guess= place gold= confidence=0.859654
+Example: Lochearnhead guess= place gold= confidence=0.874303
+Example: Lochem guess= place gold= confidence=0.812545
+Example: Lohfelden guess= place gold= confidence=0.84127
+Example: Lorraine guess= drug gold= confidence=0.145045
+Example: Lowdham guess= place gold= confidence=0.918662
+Example: Lydd guess= place gold= confidence=0.588358
+Example: Lyon guess= place gold= confidence=0.587871
+Example: Lytham St. Anne's guess= person gold= confidence=0.00273353
+Example: Madingley guess= place gold= confidence=0.917967
+Example: Malawi guess= movie gold= confidence=0.281959
+Example: Mali guess= movie gold= confidence=0.302443
+Example: Mandelieu la Napoule guess= movie gold= confidence=0.0664337
+Example: Manly guess= place gold= confidence=0.769784
+Example: Marazion guess= drug gold= confidence=0.287289
+Example: Market Drayton guess= person gold= confidence=0.0513446
+Example: Marl guess= place gold= confidence=0.518278
+Example: Marlenheim guess= place gold= confidence=0.865989
+Example: Melrose guess= place gold= confidence=0.456159
+Example: Menerbes guess= place gold= confidence=0.774228
+Example: Mettlach guess= place gold= confidence=0.828037
+Example: Mijoux guess= drug gold= confidence=0.198556
+Example: Milton of Campsie guess= movie gold= confidence=0.0228791
+Example: Monschau guess= place gold= confidence=0.789606
+Example: Montmorency guess= movie gold= confidence=0.393211
+Example: Montrouge guess= place gold= confidence=0.802865
+Example: Moretonhampstead guess= movie gold= confidence=0.346032
+Example: Morley guess= place gold= confidence=0.875242
+Example: Mortdale guess= place gold= confidence=0.708189
+Example: Mount Vincent guess= person gold= confidence=0.0674104
+Example: Mousehole guess= place gold= confidence=0.899409
+Example: Muir of Ord guess= movie gold= confidence=0.0242545
+Example: Murmansk guess= place gold= confidence=0.64523
+Example: Myanmar guess= drug gold= confidence=0.209008
+Example: Münster guess= place gold= confidence=0.852637
+Example: Najac guess= place gold= confidence=0.480989
+Example: Nancy guess= place gold= confidence=0.715462
+Example: Naphill guess= drug gold= confidence=0.444833
+Example: Narberth guess= place gold= confidence=0.915475
+Example: Narromine guess= drug gold= confidence=0.0456281
+Example: New Haw guess= movie gold= confidence=0.182131
+Example: New Milton guess= place gold= confidence=0.591976
+Example: Newbridge on Wye guess= movie gold= confidence=0.0608599
+Example: Newport-on-Tay guess= place gold= confidence=0.946502
+Example: Niebüll guess= place gold= confidence=0.806362
+Example: Nord-Pas-de-Calais guess= place gold= confidence=0.550919
+Example: North Baddesley guess= place gold= confidence=0.893275
+Example: North Carolina guess= person gold= confidence=0.165697
+Example: Novgorod guess= drug gold= confidence=0.132571
+Example: Nowra guess= place gold= confidence=0.813612
+Example: Nyngan guess= place gold= confidence=0.630605
+Example: Nyons guess= place gold= confidence=0.379368
+Example: Oadby guess= place gold= confidence=0.622621
+Example: Obernai guess= movie gold= confidence=0.373839
+Example: Old Warden guess= place gold= confidence=0.38828
+Example: Oldbury guess= place gold= confidence=0.807296
+Example: Omsk guess= movie gold= confidence=0.394684
+Example: Orpington guess= place gold= confidence=0.709594
+Example: Oundle guess= place gold= confidence=0.725247
+Example: Papendrecht guess= place gold= confidence=0.707015
+Example: Paris guess= movie gold= confidence=0.248975
+Example: Paterson guess= place gold= confidence=0.689374
+Example: Pattensen guess= place gold= confidence=0.848228
+Example: Peebles guess= movie gold= confidence=0.42786
+Example: Pembrey guess= place gold= confidence=0.8713
+Example: Penarth guess= place gold= confidence=0.611394
+Example: Pendle Hill guess= person gold= confidence=0.197373
+Example: Penzance guess= movie gold= confidence=0.12506
+Example: Perm guess= place gold= confidence=0.442297
+Example: Pewsey guess= place gold= confidence=0.854714
+Example: Picton guess= place gold= confidence=0.377447
+Example: Pleasure Point guess= movie gold= confidence=0.0508594
+Example: Poitiers guess= movie gold= confidence=0.166258
+Example: Ponce guess= movie gold= confidence=0.323985
+Example: Pontefract guess= movie gold= confidence=0.249109
+Example: Port Kembla guess= person gold= confidence=0.124525
+Example: Portglenone guess= place gold= confidence=0.797347
+Example: Porthcawl guess= place gold= confidence=0.501565
+Example: Potsdam guess= place gold= confidence=0.553901
+Example: Prescot guess= drug gold= confidence=0.271363
+Example: Puddletown guess= place gold= confidence=0.751433
+Example: Purmerend guess= place gold= confidence=0.685699
+Example: Quirindi guess= movie gold= confidence=0.203891
+Example: Rainham (Greater London) guess= place gold= confidence=0.880446
+Example: Ratingen guess= place gold= confidence=0.796739
+Example: Redfern guess= place gold= confidence=0.704812
+Example: Reigate guess= drug gold= confidence=0.128956
+Example: Reims guess= movie gold= confidence=0.337161
+Example: Remseck guess= place gold= confidence=0.579584
+Example: Rennes-le-Château guess= place gold= confidence=0.954875
+Example: Reston guess= place gold= confidence=0.623133
+Example: Reutlingen guess= place gold= confidence=0.889166
+Example: Revesby guess= place gold= confidence=0.856743
+Example: Reynoldston guess= place gold= confidence=0.867851
+Example: Rhode Island guess= person gold= confidence=0.117213
+Example: Rhyl guess= place gold= confidence=0.576292
+Example: Riesa guess= movie gold= confidence=0.304307
+Example: Rio Blanco guess= person gold= confidence=0.012673
+Example: Rio Piedras guess= person gold= confidence=0.00616265
+Example: Riverside Park guess= person gold= confidence=0.0464916
+Example: Rochdale guess= place gold= confidence=0.599688
+Example: Rooty Hill guess= movie gold= confidence=0.212615
+Example: Rosmalen guess= drug gold= confidence=0.382993
+Example: Rothenburg ob der Tauber guess= movie gold= confidence=0.0648138
+Example: Rotherwick guess= place gold= confidence=0.810474
+Example: Rylstone guess= drug gold= confidence=0.411696
+Example: Saint Vincent and The Grenadines guess= movie gold= confidence=0.00579499
+Example: Saint-Denis guess= place gold= confidence=0.76568
+Example: Saint-Gilles-Croix-de-Vie guess= place gold= confidence=0.946111
+Example: Saint-Maur-des-Fossés guess= place gold= confidence=0.923328
+Example: Saint-Porchaire guess= place gold= confidence=0.964241
+Example: Salzhemmendorf guess= place gold= confidence=0.850508
+Example: Samara guess= movie gold= confidence=0.419594
+Example: Sao Tome and Principe guess= movie gold= confidence=0.00177068
+Example: Sausset-Les-Pins guess= place gold= confidence=0.897977
+Example: Schleswig-Holstein guess= place gold= confidence=0.844829
+Example: Schrobenhausen guess= place gold= confidence=0.879524
+Example: Schwelm guess= place gold= confidence=0.884346
+Example: Schönaich guess= place gold= confidence=0.739415
+Example: Scone guess= movie gold= confidence=0.369085
+Example: Seaham guess= place gold= confidence=0.593617
+Example: Sens guess= movie gold= confidence=0.265419
+Example: Seychelles guess= place gold= confidence=0.588176
+Example: Shipston on Stour guess= person gold= confidence=0.0321024
+Example: Skipton guess= place gold= confidence=0.517473
+Example: Sockbridge guess= place gold= confidence=0.715084
+Example: Solomon Islands guess= movie gold= confidence=0.0483237
+Example: South Stoke guess= person gold= confidence=0.167516
+Example: Southwark guess= place gold= confidence=0.88303
+Example: Spean Bridge guess= person gold= confidence=0.14405
+Example: Spennymoor guess= movie gold= confidence=0.390016
+Example: Sprang-Capelle guess= place gold= confidence=0.884819
+Example: St. Andrews guess= person gold= confidence=0.193705
+Example: Stadskanaal guess= drug gold= confidence=0.248595
+Example: Staunton guess= place gold= confidence=0.790338
+Example: Staveley guess= place gold= confidence=0.725331
+Example: Stolberg guess= place gold= confidence=0.810123
+Example: Strabane guess= drug gold= confidence=0.0622513
+Example: Strasbourg guess= place gold= confidence=0.886203
+Example: Strijen guess= place gold= confidence=0.600221
+Example: Suhl guess= place gold= confidence=0.408914
+Example: Sutton-on-Hull guess= place gold= confidence=0.964795
+Example: Swaffham Bulbeck guess= person gold= confidence=0.198005
+Example: Sézanne guess= place gold= confidence=0.683622
+Example: Tadcaster guess= movie gold= confidence=0.292667
+Example: Taiwan guess= place gold= confidence=0.678798
+Example: Talbot Green guess= person gold= confidence=0.209206
+Example: Terrigal guess= drug gold= confidence=0.112623
+Example: Thornton (Lancashire) guess= place gold= confidence=0.989014
+Example: Tiverton guess= place gold= confidence=0.533481
+Example: Todmorden guess= place gold= confidence=0.688391
+Example: Tollesbury guess= place gold= confidence=0.949214
+Example: Tomsk guess= place gold= confidence=0.503314
+Example: Toowoon Bay guess= movie gold= confidence=0.252618
+Example: Travemünde guess= movie gold= confidence=0.463881
+Example: Trinidad and Tobago guess= movie gold= confidence=0.0199957
+Example: Turrella guess= place gold= confidence=0.907859
+Example: Tuvalu guess= place gold= confidence=0.493887
+Example: Twente guess= place gold= confidence=0.758182
+Example: Uithoorn guess= drug gold= confidence=0.364599
+Example: Upminster guess= movie gold= confidence=0.278645
+Example: Upper Bucklebury guess= movie gold= confidence=0.010852
+Example: Usk guess= movie gold= confidence=0.410757
+Example: Val-Thorens guess= drug gold= confidence=0.215906
+Example: Valence guess= place gold= confidence=0.418079
+Example: Vallery guess= place gold= confidence=0.881882
+Example: Vauvert guess= place gold= confidence=0.515613
+Example: Ventabren guess= place gold= confidence=0.729171
+Example: Vietnam guess= drug gold= confidence=0.261898
+Example: Villeneuve guess= place gold= confidence=0.888069
+Example: Vouziers guess= movie gold= confidence=0.182786
+Example: Wadhurst guess= place gold= confidence=0.838035
+Example: Walcha guess= place gold= confidence=0.785327
+Example: Waldbronn guess= place gold= confidence=0.852903
+Example: Wallasey guess= place gold= confidence=0.891155
+Example: Waltham Abbey guess= person gold= confidence=0.209059
+Example: Waltham Cross guess= person gold= confidence=0.0244667
+Example: Waratah guess= place gold= confidence=0.790371
+Example: Warlingham guess= place gold= confidence=0.946698
+Example: Warminster guess= place gold= confidence=0.889153
+Example: Warners Bay guess= person gold= confidence=0.39082
+Example: Weesp guess= place gold= confidence=0.69637
+Example: Weiden guess= place gold= confidence=0.749985
+Example: Wellington guess= place gold= confidence=0.912609
+Example: Welshpool guess= place gold= confidence=0.531703
+Example: Wentworth guess= place gold= confidence=0.941269
+Example: West Wickham guess= place gold= confidence=0.392318
+Example: Westerham guess= place gold= confidence=0.928223
+Example: Westhumble guess= place gold= confidence=0.920384
+Example: Westward Ho! guess= movie gold= confidence=0.0118694
+Example: Weybridge guess= place gold= confidence=0.867885
+Example: Whitby guess= place gold= confidence=0.743786
+Example: Whitchurch (Hamp.) guess= place gold= confidence=0.977274
+Example: Whittington guess= place gold= confidence=0.854364
+Example: Wickford guess= place gold= confidence=0.77124
+Example: Wilcannia guess= place gold= confidence=0.531263
+Example: Willingham guess= place gold= confidence=0.939782
+Example: Winchelsea guess= place gold= confidence=0.869694
+Example: Wisbech guess= place gold= confidence=0.908428
+Example: Wittstock guess= place gold= confidence=0.619511
+Example: Wollombi guess= place gold= confidence=0.518762
+Example: Wooburn Green guess= person gold= confidence=0.221372
+Example: Woodchester guess= place gold= confidence=0.66014
+Example: Wormley guess= place gold= confidence=0.943362
+Example: Wrightington Bar guess= movie gold= confidence=0.189496
+Example: Yemen guess= place gold= confidence=0.777239
+Example: Zeeland guess= drug gold= confidence=0.212654
+Example: Zhukovsky guess= place gold= confidence=0.661015
+Example: 'N Sync: 'Ntimate Holiday Special guess= movie gold= confidence=0.99885
+Example: 'N Sync: Live From Madison Square Garden guess= movie gold= confidence=0.997266
+Example: 0.12h guess= movie gold= confidence=0.878763
+Example: 007 Racing guess= movie gold= confidence=0.918847
+Example: 101 Rent Boys guess= movie gold= confidence=0.996931
+Example: 11th & Congress guess= movie gold= confidence=0.994484
+Example: 1900 USA guess= movie gold= confidence=0.956532
+Example: 2000 + 1 stigmes guess= movie gold= confidence=0.998449
+Example: 24fps guess= movie gold= confidence=0.926452
+Example: 3 Strikes guess= movie gold= confidence=0.972058
+Example: 3-D Safari guess= movie gold= confidence=0.642984
+Example: 405 guess= drug gold= confidence=0.295372
+Example: 41 Shots guess= movie gold= confidence=0.945026
+Example: 50CC guess= drug gold= confidence=0.00265151
+Example: 9-Ball guess= drug gold= confidence=0.252278
+Example: A Festa de Margarette guess= movie gold= confidence=0.986015
+Example: A Hora Marcada guess= movie gold= confidence=0.91426
+Example: A Killing Frost guess= movie gold= confidence=0.741406
+Example: A Question of Faith guess= movie gold= confidence=0.883197
+Example: A Visit from the Sergeant Major with Unintended Consequences guess= movie gold= confidence=0.970307
+Example: AFI's 100 Years, 100 Laughs: America's Funniest Movies guess= movie gold= confidence=0.998595
+Example: Accidental Detective guess= movie gold= confidence=0.621767
+Example: Achter gesloten ogen guess= movie gold= confidence=0.990501
+Example: Acts of Worship guess= movie gold= confidence=0.411951
+Example: Adventures in Wild California guess= person gold= confidence=0.163176
+Example: Aeon - Countdown im All guess= movie gold= confidence=0.868434
+Example: Aerines siopes guess= movie gold= confidence=0.966413
+Example: After the Reconciliation guess= movie gold= confidence=0.976492
+Example: Aisha guess= place gold= confidence=0.349868
+Example: Aitanic guess= drug gold= confidence=0.0523462
+Example: Ajax: De film guess= movie gold= confidence=0.998453
+Example: Alice guess= movie gold= confidence=0.438793
+Example: All You Can Eat Pharmacy guess= movie gold= confidence=0.500826
+Example: Almost Blue guess= drug gold= confidence=0.241715
+Example: Amazon guess= drug gold= confidence=0.0617151
+Example: Amigos X siempre guess= movie gold= confidence=0.909516
+Example: Amor, curiosidad, Prozac y dudas guess= movie gold= confidence=0.998783
+Example: Amélia guess= movie gold= confidence=0.479716
+Example: An American Tail: The Treasure of Manhattan Island guess= movie gold= confidence=0.972194
+Example: An Extremely Goofy Movie guess= movie gold= confidence=0.556115
+Example: An Intimate Friendship guess= company gold= confidence=0.225622
+Example: An Unkindness of Ravens guess= movie gold= confidence=0.935582
+Example: Anak guess= place gold= confidence=0.34466
+Example: Anatomy of Disgust guess= movie gold= confidence=0.784569
+Example: Andel Exit guess= person gold= confidence=0.246294
+Example: Andrew Dice Clay: Banned for Life guess= movie gold= confidence=0.998967
+Example: Angels! guess= movie gold= confidence=0.939968
+Example: Animated Corpse guess= company gold= confidence=0.237301
+Example: Anna guess= place gold= confidence=0.334391
+Example: Anna en Corse guess= movie gold= confidence=0.925344
+Example: Anne 3 guess= movie gold= confidence=0.766533
+Example: Apartment Hunting guess= movie gold= confidence=0.753656
+Example: Army Men: World War guess= movie gold= confidence=0.995366
+Example: Arrest & Trial guess= movie gold= confidence=0.811204
+Example: Arvokkaasti guess= movie gold= confidence=0.698453
+Example: As Terças da Bailarina Gorda guess= movie gold= confidence=0.96802
+Example: Asociación Argentina de actores guess= movie gold= confidence=0.887655
+Example: Ass Lovers guess= movie gold= confidence=0.669483
+Example: At Any Cost guess= company gold= confidence=0.435606
+Example: At the Height of Summer guess= movie gold= confidence=0.999319
+Example: Através da Janela guess= person gold= confidence=0.133181
+Example: Attack of the Killer Hog guess= movie gold= confidence=0.99169
+Example: Attention Shoppers guess= movie gold= confidence=0.607179
+Example: Autsch, du Fröhliche guess= movie gold= confidence=0.815557
+Example: Autumn in New York guess= movie gold= confidence=0.464422
+Example: Avalanche Run guess= movie gold= confidence=0.553638
+Example: Aviature guess= drug gold= confidence=0.343498
+Example: BWP2 guess= drug gold= confidence=0.219458
+Example: Babs guess= movie gold= confidence=0.544449
+Example: Baby Blues guess= person gold= confidence=0.348746
+Example: Backyard Dogs guess= movie gold= confidence=0.833434
+Example: Bad Actors guess= movie gold= confidence=0.773633
+Example: Bad Boy - Rennen am Äquator guess= movie gold= confidence=0.999111
+Example: Banditskij Peterburg guess= person gold= confidence=0.250389
+Example: Banjo-Tooie guess= drug gold= confidence=0.0828265
+Example: Banqueroute guess= place gold= confidence=0.248737
+Example: Barking Dogs Never Bite guess= movie gold= confidence=0.559861
+Example: Barnard Girls guess= person gold= confidence=0.124004
+Example: Battery Park guess= movie gold= confidence=0.480497
+Example: BattleBots guess= place gold= confidence=0.383733
+Example: Battlefield Earth: A Saga for the Year 3000 guess= movie gold= confidence=0.999745
+Example: Bavandar guess= place gold= confidence=0.303805
+Example: Be Cool guess= movie gold= confidence=0.743137
+Example: Beastie Boys: Video Anthology guess= movie gold= confidence=0.996393
+Example: Bedazzled guess= drug gold= confidence=0.161397
+Example: Behind Closed Doors: The Dark Legacy of the Johns Committee guess= movie gold= confidence=0.999035
+Example: Behind the Scenes: Road to El Dorado guess= movie gold= confidence=0.999234
+Example: Believe guess= place gold= confidence=0.229018
+Example: Bella Block - Schuld und Liebe guess= movie gold= confidence=0.816527
+Example: Best guess= place gold= confidence=0.387176
+Example: Bette guess= place gold= confidence=0.304952
+Example: Better Than Sex guess= movie gold= confidence=0.611957
+Example: Beyond the Ocean guess= movie gold= confidence=0.905048
+Example: Bhai Thakur guess= person gold= confidence=0.0440497
+Example: Billet-doux guess= place gold= confidence=0.0591811
+Example: Bio-Cops guess= drug gold= confidence=0.048196
+Example: Bla, bla, bla guess= movie gold= confidence=0.995345
+Example: Black Cocksmokers guess= person gold= confidence=0.461304
+Example: Black Panty Chronicals 9 guess= movie gold= confidence=0.575626
+Example: Black Widow guess= movie gold= confidence=0.494373
+Example: Blister guess= place gold= confidence=0.182923
+Example: Blondine sucht Millionär fürs Leben guess= movie gold= confidence=0.940209
+Example: Blood guess= place gold= confidence=0.222167
+Example: Blue August guess= movie gold= confidence=0.683842
+Example: Blue End guess= movie gold= confidence=0.71371
+Example: Blues mrtvého muze guess= movie gold= confidence=0.997199
+Example: Bombshell guess= place gold= confidence=0.020443
+Example: Bone guess= place gold= confidence=0.258603
+Example: Bonhoeffer - Die letzte Stufe guess= movie gold= confidence=0.99444
+Example: Booty Talk 20: Super Fine Sistas! guess= movie gold= confidence=0.99949
+Example: Boris guess= place gold= confidence=0.391004
+Example: Boris e Jeremias guess= movie gold= confidence=0.990879
+Example: Born to Be King guess= movie gold= confidence=0.796634
+Example: Brat 2 guess= movie gold= confidence=0.742872
+Example: Brokeback Mountain guess= person gold= confidence=0.430235
+Example: Bronx-Barbès guess= place gold= confidence=0.0394212
+Example: Brothers guess= place gold= confidence=0.17569
+Example: Brottsvåg guess= movie gold= confidence=0.623714
+Example: Burnside guess= place gold= confidence=0.078808
+Example: Buttman's Anal Divas guess= movie gold= confidence=0.832427
+Example: Buttwoman vs. Buttwoman guess= person gold= confidence=0.0712152
+Example: Buñuel en Hollywood guess= movie gold= confidence=0.943073
+Example: By Player guess= movie gold= confidence=0.807254
+Example: Bzz guess= place gold= confidence=0.307716
+Example: Cabecita guess= movie gold= confidence=0.442299
+Example: Cabin Fever guess= person gold= confidence=0.178414
+Example: Camera Obscura guess= person gold= confidence=0.165674
+Example: Campos sagrados guess= movie gold= confidence=0.951765
+Example: Canada: A People's History guess= movie gold= confidence=0.998757
+Example: Cantamos contigo guess= movie gold= confidence=0.84258
+Example: Capitanes de abril guess= movie gold= confidence=0.628854
+Example: Caracas amor a muerte guess= movie gold= confidence=0.997914
+Example: Caribbean Undercover guess= person gold= confidence=0.222083
+Example: Carnage Road guess= movie gold= confidence=0.528387
+Example: Cashier Wants to Go to the Seaside guess= movie gold= confidence=0.994166
+Example: Castaway 2000 guess= movie gold= confidence=0.979993
+Example: Catastrophe guess= place gold= confidence=0.258833
+Example: Cathedral Rock guess= movie gold= confidence=0.582089
+Example: Cecilia guess= drug gold= confidence=0.20823
+Example: Chameleon 3: Dark Angel guess= movie gold= confidence=0.997344
+Example: Charge! guess= movie gold= confidence=0.952887
+Example: Chasing the Big Ones 3 guess= movie gold= confidence=0.998122
+Example: Cherry Hills guess= person gold= confidence=0.0610483
+Example: Chez moi guess= movie gold= confidence=0.889305
+Example: Chi chung sze loi liu guess= movie gold= confidence=0.997492
+Example: Chillin' with Jake Steed's Freaks Whoes & Flows 21 guess= movie gold= confidence=0.944409
+Example: Chuck guess= place gold= confidence=0.348646
+Example: Cinderella guess= place gold= confidence=0.0602606
+Example: Citizen James guess= person gold= confidence=0.411257
+Example: Ciudad de M guess= movie gold= confidence=0.574777
+Example: Cizinci v case guess= movie gold= confidence=0.992152
+Example: Class of Nuke 'Em High IV guess= movie gold= confidence=0.922804
+Example: Clerks: The Animated Series guess= movie gold= confidence=0.999289
+Example: Clothesline Patch guess= movie gold= confidence=0.453379
+Example: Cocozza's Way guess= movie gold= confidence=0.96037
+Example: Code Unknown: Incomplete Tales of Several Journeys guess= movie gold= confidence=0.998814
+Example: Conamara guess= movie gold= confidence=0.496099
+Example: Condenado à Liberdade guess= movie gold= confidence=0.979515
+Example: Confessions of a Head Hunter guess= movie gold= confidence=0.968292
+Example: Cool Women guess= person gold= confidence=0.37219
+Example: Couch Taters guess= person gold= confidence=0.362524
+Example: Could Be Worse! guess= movie gold= confidence=0.932539
+Example: Counting Days guess= movie gold= confidence=0.926017
+Example: Cremains guess= movie gold= confidence=0.482976
+Example: Criminal Instincts guess= drug gold= confidence=0.0451223
+Example: Curiosity & the Cat guess= movie gold= confidence=0.960714
+Example: Cursed guess= place gold= confidence=0.1539
+Example: Curtain Call guess= drug gold= confidence=0.0520118
+Example: CyberCrime guess= drug gold= confidence=0.0580039
+Example: César guess= place gold= confidence=0.345065
+Example: D-dag - Instruktørene guess= movie gold= confidence=0.988548
+Example: D.C. guess= company gold= confidence=0.266389
+Example: Da Hip Hop Witch guess= movie gold= confidence=0.983519
+Example: Dada Sahib guess= person gold= confidence=0.130556
+Example: Dakhtaran-e Khorshid guess= person gold= confidence=0.120922
+Example: Daleko od okna guess= movie gold= confidence=0.960042
+Example: Dalheim guess= place gold= confidence=0.212576
+Example: Dalziel and Pascoe: Above the Law guess= movie gold= confidence=0.999473
+Example: Dalziel and Pascoe: Cunning Old Fox guess= movie gold= confidence=0.996788
+Example: Dancing at the Blue Iguana guess= movie gold= confidence=0.997961
+Example: Danny and Max guess= movie gold= confidence=0.94583
+Example: Daria in Is It Fall Yet? guess= movie gold= confidence=0.992009
+Example: Dark Knight guess= person gold= confidence=0.0995079
+Example: Das Herz eines Priesters guess= movie gold= confidence=0.991443
+Example: Das Rote Quadrat guess= movie gold= confidence=0.715514
+Example: Das Schlosshotel guess= person gold= confidence=0.40294
+Example: Daughters of the Sun guess= movie gold= confidence=0.992319
+Example: Day After Day guess= movie gold= confidence=0.950115
+Example: Daybreak guess= place gold= confidence=0.242495
+Example: Dayereh guess= place gold= confidence=0.144971
+Example: De Geheime dienst guess= movie gold= confidence=0.996674
+Example: De Stilte... guess= movie gold= confidence=0.970456
+Example: De Ware Lodewijk - de ontknoping guess= movie gold= confidence=0.997086
+Example: De la bouche des enfants guess= movie gold= confidence=0.99931
+Example: Dead by Monday guess= movie gold= confidence=0.727869
+Example: Dear America: A Line in the Sand guess= movie gold= confidence=0.998062
+Example: Dear America: When Will This Cruel War Be Over? guess= movie gold= confidence=0.999157
+Example: Death of a Salesman guess= movie gold= confidence=0.972715
+Example: Death of a Saleswoman guess= movie gold= confidence=0.95446
+Example: Deep in the Woods guess= movie gold= confidence=0.996712
+Example: Delta Force: Land Warrior guess= movie gold= confidence=0.998147
+Example: Delusional guess= drug gold= confidence=0.0451422
+Example: Demasiado amor guess= movie gold= confidence=0.978007
+Example: Denton Meets Ian Thorpe guess= company gold= confidence=0.116908
+Example: Der Boxprinz guess= person gold= confidence=0.278832
+Example: Der Kleine Lord - Retter in der Not guess= movie gold= confidence=0.998884
+Example: Der König tanzt guess= movie gold= confidence=0.986513
+Example: Der Millionär und die Stripperin guess= movie gold= confidence=0.983525
+Example: Det Nya landet guess= movie gold= confidence=0.971965
+Example: Detector guess= drug gold= confidence=0.32149
+Example: Deus Jr. guess= movie gold= confidence=0.594195
+Example: Dhai Akshar Prem Ke guess= movie gold= confidence=0.916678
+Example: Diary of Lust guess= movie gold= confidence=0.713683
+Example: Die Biester guess= movie gold= confidence=0.628337
+Example: Die Blutgräfin guess= movie gold= confidence=0.912767
+Example: Die Einsamkeit der Krokodile guess= movie gold= confidence=0.959815
+Example: Die Insel der Vergessenen guess= movie gold= confidence=0.929993
+Example: Die Nacht der Engel guess= movie gold= confidence=0.952907
+Example: Die Spur meiner Tochter guess= movie gold= confidence=0.978848
+Example: Die Zehn Gebote der Kreativität guess= movie gold= confidence=0.797726
+Example: Dinner for Two guess= movie gold= confidence=0.936246
+Example: Distinctii militare românesti guess= movie gold= confidence=0.969182
+Example: Divertimento guess= movie gold= confidence=0.767967
+Example: Divided We Fall guess= person gold= confidence=0.310018
+Example: Dixie Chicks On the Fly guess= movie gold= confidence=0.471531
+Example: Diástole y sístole guess= movie gold= confidence=0.999328
+Example: Djomeh guess= place gold= confidence=0.220709
+Example: Dog Food guess= movie gold= confidence=0.889147
+Example: Dogme # 16 - Bad Actors guess= movie gold= confidence=0.995961
+Example: Dogme 4 guess= drug gold= confidence=0.447609
+Example: Dogwatch guess= place gold= confidence=0.117147
+Example: Dogwoman: Dead Dog Walking guess= movie gold= confidence=0.994313
+Example: Dolé guess= movie gold= confidence=0.493993
+Example: Don't Kill guess= movie gold= confidence=0.805791
+Example: Donald Duck Goin' Quackers guess= movie gold= confidence=0.597097
+Example: Donna Leon - Vendetta guess= movie gold= confidence=0.731578
+Example: Down From the Mountain guess= movie gold= confidence=0.983137
+Example: Down to You guess= movie gold= confidence=0.953627
+Example: Downpour guess= place gold= confidence=0.131082
+Example: Dr Lucille - Un rêve pour la vie guess= movie gold= confidence=0.999579
+Example: Dr. T & the Women guess= movie gold= confidence=0.992693
+Example: Dragon Ball Z: The Movie - The World's Strongest guess= movie gold= confidence=0.998858
+Example: Dragonriders of Pern guess= person gold= confidence=0.34765
+Example: Drainiac! guess= movie gold= confidence=0.982445
+Example: Drawn from Life guess= movie gold= confidence=0.855916
+Example: Driver 2 guess= drug gold= confidence=0.490688
+Example: Dubbel-åttan guess= movie gold= confidence=0.863954
+Example: Dum guess= movie gold= confidence=0.41138
+Example: Dá-me Luz guess= movie gold= confidence=0.684605
+Example: ECW: Anarchy Rulz guess= movie gold= confidence=0.996696
+Example: East of West guess= movie gold= confidence=0.819536
+Example: Eerie Valley Appointment guess= company gold= confidence=0.0956752
+Example: Ein Apartment zum Verlieben guess= movie gold= confidence=0.621128
+Example: Ein Lasterhaftes Pärchen guess= person gold= confidence=0.0622713
+Example: Ein Mensch wie Dieter - Golzower guess= movie gold= confidence=0.970596
+Example: Ein Palast und seine Republik guess= movie gold= confidence=0.882792
+Example: El Astillero guess= movie gold= confidence=0.783206
+Example: El Beso que me diste guess= movie gold= confidence=0.999031
+Example: El Irrigador guess= movie gold= confidence=0.933305
+Example: Elisas univers guess= movie gold= confidence=0.991399
+Example: Elixir, édition spéciale guess= movie gold= confidence=0.998072
+Example: Ellas, inocentes o culpables guess= movie gold= confidence=0.998902
+Example: Enas ki enas guess= movie gold= confidence=0.998898
+Example: Enfoirés en 2000 guess= movie gold= confidence=0.998304
+Example: Enter guess= place gold= confidence=0.320172
+Example: Entertainment Life guess= movie gold= confidence=0.805426
+Example: Entscheidung seines Lebens guess= movie gold= confidence=0.959489
+Example: Epicentre guess= movie gold= confidence=0.456721
+Example: Epoch guess= place gold= confidence=0.225776
+Example: Es geht nicht immer nur um Sex guess= movie gold= confidence=0.999576
+Example: Escaflowne guess= place gold= confidence=0.219899
+Example: Eugenie Sandler P.I. guess= company gold= confidence=0.0525138
+Example: Euro Angels 25: Budapest Booty Fest guess= movie gold= confidence=0.995008
+Example: Eva & Adam - fyra födelsedagar och ett fiasko guess= movie gold= confidence=0.998404
+Example: Extremism Breaks My Balls guess= movie gold= confidence=0.391942
+Example: FDS guess= drug gold= confidence=0.0162185
+Example: Faites comme si je n'étais pas là guess= movie gold= confidence=0.989141
+Example: Fallout Tactics: Brotherhood of Steel guess= movie gold= confidence=0.994196
+Example: Family Pack guess= movie gold= confidence=0.78883
+Example: Fatboy Slim and Macy Gray: Demons guess= movie gold= confidence=0.997274
+Example: Façade guess= movie gold= confidence=0.777408
+Example: Felix and Lola guess= movie gold= confidence=0.883028
+Example: Ferien in der Heimat guess= movie gold= confidence=0.738803
+Example: Fermé pour rénovations guess= movie gold= confidence=0.988106
+Example: Fetish Fanatics #14: Girls Who Were Porn's 1st Superstars guess= movie gold= confidence=0.99866
+Example: Feu: L'énergie guess= movie gold= confidence=0.998452
+Example: Fifteen Minutes guess= movie gold= confidence=0.615401
+Example: Finarû tirminaetôru guess= movie gold= confidence=0.992373
+Example: Fire-Eater guess= drug gold= confidence=0.0802922
+Example: Fish guess= movie gold= confidence=0.520876
+Example: Fisimatenten guess= movie gold= confidence=0.831396
+Example: Fist Power guess= movie gold= confidence=0.843717
+Example: Flamenco Shoe guess= movie gold= confidence=0.675669
+Example: Flicker guess= movie gold= confidence=0.498867
+Example: Flight of the Reindeer guess= movie gold= confidence=0.994783
+Example: Forensic Files guess= drug gold= confidence=0.261329
+Example: Forever Yours guess= person gold= confidence=0.47433
+Example: Forgive and Forget guess= movie gold= confidence=0.840547
+Example: Fort Boyard - Az Eröd guess= movie gold= confidence=0.911865
+Example: Forty Years On Coronation Street guess= drug gold= confidence=0.0811587
+Example: Frank Herbert's Dune guess= movie gold= confidence=0.929301
+Example: Frankie Goes to Hollywood: Hard On guess= movie gold= confidence=0.965864
+Example: Freddie Mercury, the Untold Story guess= movie gold= confidence=0.970193
+Example: Free Fall guess= movie gold= confidence=0.829981
+Example: Friendly Persuasion: Iranian Cinema After the Revolution guess= movie gold= confidence=0.996823
+Example: From the Big Bang to Tuesday Morning guess= movie gold= confidence=0.9897
+Example: From the Top of the Key guess= movie gold= confidence=0.998836
+Example: Fuera de foco guess= movie gold= confidence=0.965061
+Example: G. guess= company gold= confidence=0.0416624
+Example: Gaja Gamini guess= person gold= confidence=0.0409831
+Example: Gajes del oficio guess= movie gold= confidence=0.65358
+Example: Gang Bang Angels 7 guess= movie gold= confidence=0.967469
+Example: Garimpeiros guess= movie gold= confidence=0.500235
+Example: Gauntlet Legends guess= person gold= confidence=0.197373
+Example: Gegenseitiges Beobachten: Handy guess= movie gold= confidence=0.989627
+Example: George Benson: Absolutely Live guess= movie gold= confidence=0.991821
+Example: Georgian Grapes guess= movie gold= confidence=0.4631
+Example: Gerry Humphreys: The Loved One guess= movie gold= confidence=0.998622
+Example: Gespräch im Gebirg guess= movie gold= confidence=0.543613
+Example: Ghosthunter guess= place gold= confidence=0.166478
+Example: Gilligan's Island: The E! True Hollywood Story guess= movie gold= confidence=0.992249
+Example: Ginostra guess= place gold= confidence=0.343454
+Example: Giravolte guess= drug gold= confidence=0.0911836
+Example: Girls! Girls! Girls! guess= movie gold= confidence=0.995062
+Example: Global Domination guess= movie gold= confidence=0.403574
+Example: Glow guess= movie gold= confidence=0.464289
+Example: God's Army guess= movie gold= confidence=0.873603
+Example: Godzilla Vs. Megaguirus: The G Annihilation Strategy guess= movie gold= confidence=0.994688
+Example: Gongdong gyeongbi guyeok jsa guess= movie gold= confidence=0.995754
+Example: Goodbye & Hello guess= movie gold= confidence=0.727431
+Example: Granturismo guess= movie gold= confidence=0.577358
+Example: Great Idea guess= movie gold= confidence=0.642888
+Example: Grind Session guess= person gold= confidence=0.219561
+Example: Grosse Freiheit - Kleine Freiheit guess= movie gold= confidence=0.996451
+Example: Großstadtträume guess= movie gold= confidence=0.996918
+Example: Haboleshet Hokeret guess= person gold= confidence=0.13932
+Example: Half-Life: Counter-Strike guess= movie gold= confidence=0.994228
+Example: Halfway There guess= movie gold= confidence=0.452142
+Example: Happy Birthday guess= person gold= confidence=0.201263
+Example: Happy Man guess= movie gold= confidence=0.740318
+Example: Hard Boiled Egg guess= person gold= confidence=0.0795893
+Example: Harem of Madame Osmane guess= movie gold= confidence=0.64773
+Example: Harikomi guess= movie gold= confidence=0.594044
+Example: Hassel - Förgörarna guess= movie gold= confidence=0.911178
+Example: Head Cheerleader Dead Cheerleader guess= person gold= confidence=0.334565
+Example: Heimatgeschichten - O Tannenbaum guess= movie gold= confidence=0.975489
+Example: Helicopter guess= drug gold= confidence=0.21335
+Example: Here on Earth guess= movie gold= confidence=0.538059
+Example: Highway Melody guess= person gold= confidence=0.24549
+Example: Hij & Julia guess= movie gold= confidence=0.836342
+Example: Hindsight guess= place gold= confidence=0.189649
+Example: Hitler Meets Christ guess= person gold= confidence=0.341389
+Example: Home Sweet Home guess= movie gold= confidence=0.880578
+Example: Home VDO guess= drug gold= confidence=0.255259
+Example: Hopkins guess= movie gold= confidence=0.548215
+Example: Hot Latin Pussy Adventures 7 guess= movie gold= confidence=0.76535
+Example: Hot Legs guess= movie gold= confidence=0.68706
+Example: Hotaru guess= place gold= confidence=0.372095
+Example: Hotellet guess= place gold= confidence=0.133812
+Example: House of Luk guess= movie gold= confidence=0.845901
+Example: Humbert guess= place gold= confidence=0.0947128
+Example: Hånden på hjertet guess= movie gold= confidence=0.998852
+Example: Höllische Nachbarn - Chaos im Hotel guess= movie gold= confidence=0.996241
+Example: I Know I'll See Your Face Again guess= movie gold= confidence=0.97625
+Example: I Prefer the Sound of the Sea guess= movie gold= confidence=0.99879
+Example: I Spike guess= movie gold= confidence=0.936245
+Example: IIFA Awards guess= drug gold= confidence=0.258263
+Example: Ich kaufe mir einen Mann guess= movie gold= confidence=0.998044
+Example: Il Cielo cade guess= movie gold= confidence=0.950326
+Example: Il Fratello minore guess= movie gold= confidence=0.983292
+Example: In Appartment Buildings People Are Crazy About Music guess= company gold= confidence=0.0244149
+Example: In Flagrante guess= movie gold= confidence=0.612009
+Example: In goede aarde: Yesterday guess= movie gold= confidence=0.998945
+Example: In the Wings guess= movie gold= confidence=0.995131
+Example: Indifference guess= movie gold= confidence=0.751734
+Example: Indépendance Cha Cha guess= company gold= confidence=0.208626
+Example: Initiations 2 guess= movie gold= confidence=0.952251
+Example: Innocents guess= movie gold= confidence=0.552816
+Example: Inséparables guess= movie gold= confidence=0.602119
+Example: Intimate Portrait: Janis Joplin guess= movie gold= confidence=0.996274
+Example: Intimate Portrait: Madeline Kahn guess= movie gold= confidence=0.995888
+Example: Inventario balcanico guess= movie gold= confidence=0.710201
+Example: Isaac Asimov's Nightfall guess= movie gold= confidence=0.724238
+Example: Jaaaaam guess= movie gold= confidence=0.490457
+Example: Jarrett & Labonte Stock Car Racing guess= drug gold= confidence=0.0913427
+Example: Je werk of je leven: Hoe lang moet jij nog? guess= movie gold= confidence=0.999925
+Example: Jersey Guy guess= person gold= confidence=0.157288
+Example: John Henry guess= person gold= confidence=0.0125298
+Example: John and Yoko's Year of Peace guess= movie gold= confidence=0.992231
+Example: Joining the Dots guess= movie gold= confidence=0.997514
+Example: Jojo la frite guess= movie gold= confidence=0.944096
+Example: Joyeux Noël, Rachid guess= person gold= confidence=0.0660218
+Example: Julien l'apprenti guess= person gold= confidence=0.305305
+Example: Jungle guess= place gold= confidence=0.173524
+Example: Junk n da Trunk guess= person gold= confidence=0.346528
+Example: Just an Ordinary Day guess= movie gold= confidence=0.957226
+Example: Justice in Wonderland guess= movie gold= confidence=0.712648
+Example: Kahin Pyaar Na Ho Jaaye guess= person gold= confidence=0.0954653
+Example: Kaliber Deluxe guess= person gold= confidence=0.151158
+Example: Kamen Rider Kuuga guess= person gold= confidence=0.102371
+Example: Kids Say the Funniest Things guess= movie gold= confidence=0.956803
+Example: Kingdom of Poet O guess= company gold= confidence=0.0513029
+Example: Kippour guess= drug gold= confidence=0.191873
+Example: Kiri Maori guess= person gold= confidence=0.0568126
+Example: Kleistoi dromoi guess= movie gold= confidence=0.585775
+Example: Komédiások guess= movie gold= confidence=0.794507
+Example: Krajinka guess= place gold= confidence=0.406115
+Example: Kunwara guess= place gold= confidence=0.120744
+Example: Kurosufaiâ guess= place gold= confidence=0.299491
+Example: Kurukshetra guess= place gold= confidence=0.0946756
+Example: L'Amour, l'argent, l'amour guess= movie gold= confidence=0.998218
+Example: L'Attrape-rêves guess= place gold= confidence=0.289101
+Example: La Confusion des genres guess= movie gold= confidence=0.98545
+Example: La Fausse suivante guess= movie gold= confidence=0.987344
+Example: La Laïque guess= movie gold= confidence=0.741907
+Example: La Moderna poesia guess= movie gold= confidence=0.954717
+Example: La Pomme, la figue et l'amande guess= movie gold= confidence=0.999674
+Example: La Precisione del caso guess= movie gold= confidence=0.980586
+Example: La Proc guess= movie gold= confidence=0.587673
+Example: La Revancha guess= person gold= confidence=0.376287
+Example: La Traviata à Paris guess= movie gold= confidence=0.997772
+Example: La Vache et le président guess= movie gold= confidence=0.999062
+Example: La Villa guess= movie gold= confidence=0.479246
+Example: La bloc oamenii mor dupa muzica guess= movie gold= confidence=0.995825
+Example: Lafanmi Selavi guess= person gold= confidence=0.0560369
+Example: Lao tou guess= movie gold= confidence=0.969094
+Example: Last Ball guess= place gold= confidence=0.251874
+Example: Last Wedding guess= person gold= confidence=0.243362
+Example: Latin Heat Inn Exile guess= drug gold= confidence=0.188748
+Example: Laughter in the Dark guess= movie gold= confidence=0.992372
+Example: Lawrence Melm guess= person gold= confidence=0.2433
+Example: Le Cercle de Babel guess= movie gold= confidence=0.69425
+Example: Le Chapeau guess= movie gold= confidence=0.677062
+Example: Le Chien vert guess= movie gold= confidence=0.990646
+Example: Le Giraffe guess= movie gold= confidence=0.709126
+Example: Le Glandeur guess= movie gold= confidence=0.402179
+Example: Le Harem de Mme Osmane guess= movie gold= confidence=0.994313
+Example: Le Larbin guess= place gold= confidence=0.285296
+Example: Le Pont du trieur guess= movie gold= confidence=0.995054
+Example: Le Secret guess= movie gold= confidence=0.872145
+Example: Le Vélo de Ghislain Lambert guess= movie gold= confidence=0.921184
+Example: Leg Up guess= movie gold= confidence=0.838105
+Example: Legacy of a Kidnapping: Lindbergh and the Triumph of the Tabloids guess= movie gold= confidence=0.99861
+Example: Les Autres filles guess= movie gold= confidence=0.994947
+Example: Les Belles histoires des Pays-d'en-Haut guess= movie gold= confidence=0.994913
+Example: Les Portes de la gloire guess= movie gold= confidence=0.996795
+Example: Les Soeurs Lumière guess= place gold= confidence=0.437399
+Example: Les Yeux fermés guess= movie gold= confidence=0.97843
+Example: Lewd Conduct 9 guess= movie gold= confidence=0.937172
+Example: Leyendas de fuego guess= movie gold= confidence=0.912885
+Example: Leçons de ténèbres guess= movie gold= confidence=0.876138
+Example: Lian zhan chongsheng guess= movie gold= confidence=0.786831
+Example: LiebesLuder guess= place gold= confidence=0.0957942
+Example: Lies... In Love guess= person gold= confidence=0.213684
+Example: Life Force guess= movie gold= confidence=0.706426
+Example: Life with Big Cats guess= movie gold= confidence=0.755319
+Example: Lights, Camera, War! guess= movie gold= confidence=0.99819
+Example: Ligne 208 guess= movie gold= confidence=0.611819
+Example: Lily and the Secret Planting guess= movie gold= confidence=0.994846
+Example: Lion of Oz guess= movie gold= confidence=0.795936
+Example: Live Free or Die guess= movie gold= confidence=0.994992
+Example: Lomalla guess= place gold= confidence=0.214544
+Example: Love Inventory guess= movie gold= confidence=0.683785
+Example: Love at First Sight guess= movie gold= confidence=0.989982
+Example: Luciano's Face Up Ass Down guess= movie gold= confidence=0.835988
+Example: Lucky 13 guess= drug gold= confidence=0.179792
+Example: Luftpiraten - 113 Passagiere in Todesangst guess= movie gold= confidence=0.968963
+Example: Luna salvaje guess= movie gold= confidence=0.861724
+Example: Luz guess= place gold= confidence=0.349232
+Example: Lázaro de Tormes guess= person gold= confidence=0.206854
+Example: M. zkt. vr. guess= movie gold= confidence=0.66817
+Example: Mabrouk Again guess= person gold= confidence=0.323905
+Example: Maestrale guess= place gold= confidence=0.188021
+Example: Mamotte agetai guess= movie gold= confidence=0.911552
+Example: Marco guess= movie gold= confidence=0.52284
+Example: Margaret: The Last Real Princess guess= movie gold= confidence=0.998278
+Example: Marriage Acts guess= movie gold= confidence=0.636505
+Example: Marriage Prep guess= drug gold= confidence=0.321545
+Example: Marrying Out guess= movie gold= confidence=0.948725
+Example: Masked Rider Kuuga guess= person gold= confidence=0.310338
+Example: Mayhem guess= place gold= confidence=0.124427
+Example: Me Jane guess= movie gold= confidence=0.867633
+Example: Mega Man X5 guess= movie gold= confidence=0.841519
+Example: Mein Leben gehört mir guess= movie gold= confidence=0.989764
+Example: Men of Honor guess= movie gold= confidence=0.723688
+Example: Menunggu pelangi guess= movie gold= confidence=0.806384
+Example: Meseautó guess= movie gold= confidence=0.710468
+Example: Mexico City guess= movie gold= confidence=0.481526
+Example: Mi amigo guess= movie gold= confidence=0.974897
+Example: Milch und Honig aus Rotfront guess= movie gold= confidence=0.994
+Example: Militia guess= movie gold= confidence=0.399588
+Example: Millevaches guess= place gold= confidence=0.387496
+Example: Miss Rumphius guess= movie gold= confidence=0.490253
+Example: Missing Pieces guess= movie gold= confidence=0.943905
+Example: Mission Improbable guess= drug gold= confidence=0.129514
+Example: Mission: Impossible II guess= movie gold= confidence=0.98905
+Example: Misstoestanden guess= place gold= confidence=0.315827
+Example: Mom's Got a Date with a Vampire guess= movie gold= confidence=0.998614
+Example: Monica guess= movie gold= confidence=0.511414
+Example: Moosh guess= place gold= confidence=0.167502
+Example: Moral Court guess= person gold= confidence=0.388725
+Example: Mord im Swingerclub guess= person gold= confidence=0.267271
+Example: More Best Of Dirty Debutantes 13: Lovin' Spoonfuls guess= movie gold= confidence=0.992888
+Example: Most Promising Young Actress guess= company gold= confidence=0.28203
+Example: Motorcycle guess= drug gold= confidence=0.357725
+Example: Mounted by the Gods guess= movie gold= confidence=0.990436
+Example: Mr. Hughes guess= person gold= confidence=0.059101
+Example: Mr. Wong guess= person gold= confidence=0.164637
+Example: Mudo mundo guess= movie gold= confidence=0.972061
+Example: My African Diary guess= movie gold= confidence=0.941665
+Example: My Generation guess= movie gold= confidence=0.875081
+Example: My Only Saving Grace guess= movie gold= confidence=0.861688
+Example: Mysterious Object at Noon guess= movie gold= confidence=0.727795
+Example: Necro Files 2 guess= movie gold= confidence=0.911748
+Example: Neil Young: Silver and Gold guess= movie gold= confidence=0.998184
+Example: Nessundorma guess= place gold= confidence=0.247002
+Example: Neujahrskonzert der Wiener Philharmoniker 2000 guess= movie gold= confidence=0.959256
+Example: New World Order: Somewhere in Africa guess= movie gold= confidence=0.998422
+Example: Next Friday guess= movie gold= confidence=0.557323
+Example: Nightwalker: Midnight Detective guess= movie gold= confidence=0.999417
+Example: Nihon kuroshakai guess= movie gold= confidence=0.813342
+Example: Nikita Blues guess= person gold= confidence=0.432606
+Example: Nine Queens guess= person gold= confidence=0.350982
+Example: Ningen no kuzu guess= movie gold= confidence=0.985705
+Example: Nitwit Predelick guess= movie gold= confidence=0.404263
+Example: No Place to Go guess= movie gold= confidence=0.963449
+Example: Noites guess= movie gold= confidence=0.447241
+Example: North Pole # 19 guess= movie gold= confidence=0.988059
+Example: Nova: Lost on Everest guess= movie gold= confidence=0.999245
+Example: Now or Never guess= movie gold= confidence=0.963953
+Example: Numero Bruno guess= person gold= confidence=0.0942799
+Example: Nutty Professor II: The Klumps guess= movie gold= confidence=0.997092
+Example: Når mørket er forbi guess= movie gold= confidence=0.999528
+Example: O Delfim guess= movie gold= confidence=0.68947
+Example: O Fantasma guess= movie gold= confidence=0.774109
+Example: O Fato guess= movie gold= confidence=0.905522
+Example: O Sonho de Rose - 10 Anos Depois guess= movie gold= confidence=0.998719
+Example: Obra maestra guess= movie gold= confidence=0.963776
+Example: Occidente guess= drug gold= confidence=0.370466
+Example: Oliver i Olivera guess= movie gold= confidence=0.967571
+Example: Olé! guess= movie gold= confidence=0.956512
+Example: On Grandma guess= movie gold= confidence=0.625299
+Example: On the Road guess= movie gold= confidence=0.990957
+Example: Only Living Boy in NY guess= drug gold= confidence=0.0676894
+Example: Open Return guess= person gold= confidence=0.228632
+Example: Open Wide and Say Ahh! 6 guess= movie gold= confidence=0.995515
+Example: Opening the Tombs of the Golden Mummies: Live guess= movie gold= confidence=0.998667
+Example: Ordeals of Love on the Great Lakes guess= movie gold= confidence=0.993497
+Example: Orgelkonspiratörerna guess= movie gold= confidence=0.834362
+Example: Orientations: Chris Doyle - Stirred But Not Shaken guess= movie gold= confidence=0.997991
+Example: Os Acrobatas da Pedra Rolada guess= movie gold= confidence=0.87226
+Example: Os Três Zuretas guess= movie gold= confidence=0.971468
+Example: Osobennosti natsionalnoj okhoty v zimnij period guess= movie gold= confidence=0.901634
+Example: Other Girls guess= person gold= confidence=0.360089
+Example: Our Journey guess= person gold= confidence=0.116153
+Example: Our Song guess= movie gold= confidence=0.563172
+Example: Our Years guess= person gold= confidence=0.412762
+Example: Ouvrières du monde guess= movie gold= confidence=0.921925
+Example: Pajama Party guess= person gold= confidence=0.300066
+Example: Palavra e Utopia guess= movie gold= confidence=0.988015
+Example: Pandaemonium guess= movie gold= confidence=0.60272
+Example: Pansion za kucheta guess= movie gold= confidence=0.992438
+Example: Passage du milieu guess= movie gold= confidence=0.947874
+Example: Peepers guess= movie gold= confidence=0.585435
+Example: Peroxide Passion guess= movie gold= confidence=0.466298
+Example: Persian Series #6 guess= movie gold= confidence=0.987974
+Example: Persian Series #7 guess= movie gold= confidence=0.986016
+Example: Pesärikko guess= movie gold= confidence=0.805261
+Example: Petite chérie guess= movie gold= confidence=0.751415
+Example: Pettson och Findus - Kattonauten guess= drug gold= confidence=0.28084
+Example: Phones guess= movie gold= confidence=0.431972
+Example: Pieni pyhiinvaellus guess= movie gold= confidence=0.94298
+Example: Plain Love III guess= person gold= confidence=0.0906198
+Example: Plaits guess= movie gold= confidence=0.523575
+Example: Plastic Castles guess= drug gold= confidence=0.15875
+Example: Plugged In guess= person gold= confidence=0.286934
+Example: Pokémon: The Movie 2000 guess= movie gold= confidence=0.999614
+Example: Pokémon: Vol. 18: Water Blast guess= movie gold= confidence=0.998987
+Example: Polizeiruf 110 - Bruderliebe guess= movie gold= confidence=0.948443
+Example: Polizeiruf 110 - La Paloma guess= movie gold= confidence=0.914884
+Example: Pop Beat Killers guess= movie gold= confidence=0.845032
+Example: Poppuguruupu Koroshiya guess= person gold= confidence=0.262055
+Example: Posledná vecera guess= movie gold= confidence=0.87086
+Example: Postcards From Paradise Park guess= movie gold= confidence=0.444617
+Example: Prison Life guess= movie gold= confidence=0.498482
+Example: Prison of the Dead guess= movie gold= confidence=0.992756
+Example: Private Vignettes #1 guess= movie gold= confidence=0.941507
+Example: Pro Skater 2 guess= movie gold= confidence=0.988377
+Example: Proof of Life guess= movie gold= confidence=0.59927
+Example: Protagonisti, i diritti del '900 guess= movie gold= confidence=0.999727
+Example: Public Canings guess= movie gold= confidence=0.584308
+Example: Putting It Together guess= movie gold= confidence=0.927898
+Example: Páratlan guess= place gold= confidence=0.352056
+Example: Quand j'étais petit guess= movie gold= confidence=0.991766
+Example: Queens for a Night guess= movie gold= confidence=0.994128
+Example: Quotation Marks guess= movie gold= confidence=0.619147
+Example: RLH guess= drug gold= confidence=0.0467555
+Example: RPG Maker guess= person gold= confidence=0.280532
+Example: Race for the Poles guess= movie gold= confidence=0.996837
+Example: Rancid Aluminium guess= movie gold= confidence=0.40227
+Example: Raped by an Angel 5: The Final Judgement guess= movie gold= confidence=0.999249
+Example: Rat guess= movie gold= confidence=0.418651
+Example: Rat uzivo guess= movie gold= confidence=0.987345
+Example: Real Rakeovers guess= person gold= confidence=0.184937
+Example: Real Things guess= person gold= confidence=0.322331
+Example: Rebus: The Hanging Garden guess= movie gold= confidence=0.998028
+Example: Rejseholdet guess= place gold= confidence=0.108031
+Example: Ren jian si yue tian guess= movie gold= confidence=0.997654
+Example: Requiem for a Dream guess= movie gold= confidence=0.995023
+Example: Restless guess= place gold= confidence=0.363663
+Example: Ridge Racer 5 guess= movie gold= confidence=0.950799
+Example: Ristningar guess= place gold= confidence=0.274278
+Example: Rituals and Resolutions guess= movie gold= confidence=0.786822
+Example: Roadblocks guess= movie gold= confidence=0.516815
+Example: Robert's Rescue guess= movie gold= confidence=0.781454
+Example: Rocco: Animal Trainer 3 guess= movie gold= confidence=0.998086
+Example: Rock Story guess= person gold= confidence=0.438665
+Example: Rock, Paper, Scissors guess= movie gold= confidence=0.980267
+Example: Rocks at Whiskey Trench guess= movie gold= confidence=0.939907
+Example: Rocky Horror 25: Anniversary Special guess= movie gold= confidence=0.996883
+Example: Romeo and Juliet guess= movie gold= confidence=0.917992
+Example: Rosamunde Pilcher - Die Rose von Kerrymore guess= movie gold= confidence=0.968538
+Example: Rosamunde Pilcher - Zeit der Erkenntnis guess= movie gold= confidence=0.940144
+Example: Rosamunde Pilcher - Zerrissene Herzen guess= movie gold= confidence=0.843827
+Example: Running From Shadows guess= movie gold= confidence=0.795803
+Example: Rupert Steckil: Genesis of a Filmmaker guess= movie gold= confidence=0.999248
+Example: Russia's Wonder Children guess= person gold= confidence=0.281304
+Example: Russische Hochzeit guess= person gold= confidence=0.195082
+Example: Russo guess= movie gold= confidence=0.499705
+Example: S Club 7: Artistic Differences guess= movie gold= confidence=0.998859
+Example: Sabor a ti guess= movie gold= confidence=0.995471
+Example: Sam the Man guess= movie gold= confidence=0.993115
+Example: San tau chi saidoi guess= movie gold= confidence=0.990904
+Example: Sandra et les siens guess= movie gold= confidence=0.998748
+Example: Santana: Supernatural Live guess= movie gold= confidence=0.998366
+Example: Satan's School for Girls guess= movie gold= confidence=0.588626
+Example: Savage Garden: Superstars and Cannonballs: Live and on Tour in Australia guess= movie gold= confidence=0.998943
+Example: Say You Love Satan guess= movie gold= confidence=0.717344
+Example: Sciography guess= movie gold= confidence=0.711225
+Example: Scrappers guess= movie gold= confidence=0.66573
+Example: Sehnsucht nach Jack guess= movie gold= confidence=0.671111
+Example: Sei forte, Maestro guess= movie gold= confidence=0.992085
+Example: Selvsvings Bånd på livet - livet på bånd guess= movie gold= confidence=0.995567
+Example: Seom guess= movie gold= confidence=0.389492
+Example: Serenades guess= place gold= confidence=0.444328
+Example: Seule avec la guerre guess= movie gold= confidence=0.987763
+Example: Seuls, ensemble guess= movie gold= confidence=0.993544
+Example: Seven Hours to Burn guess= person gold= confidence=0.2982
+Example: Seven Little Monsters guess= company gold= confidence=0.199099
+Example: Sex and the Matrix guess= movie gold= confidence=0.991679
+Example: Shadow of the Blair Witch guess= movie gold= confidence=0.981339
+Example: Shadow of the Vampire guess= movie gold= confidence=0.981497
+Example: Sham guess= place gold= confidence=0.442058
+Example: Shanghai Noon guess= person gold= confidence=0.149773
+Example: Sharing the Secret guess= movie gold= confidence=0.996439
+Example: Sheep guess= place gold= confidence=0.34656
+Example: Shikari guess= movie gold= confidence=0.688372
+Example: Si fa presto a dire amore... guess= movie gold= confidence=0.990821
+Example: Sideways guess= movie gold= confidence=0.525585
+Example: Sidney Poitier, One Bright Light guess= company gold= confidence=0.429448
+Example: Siempre te amaré guess= movie gold= confidence=0.975308
+Example: Sin's Kitchen guess= movie gold= confidence=0.865884
+Example: Siostry guess= place gold= confidence=0.314816
+Example: Skeletons in the Closet guess= movie gold= confidence=0.956429
+Example: Smoke & Mirrors: The Art and Science of Stunts guess= movie gold= confidence=0.998218
+Example: Snapped guess= place gold= confidence=0.307824
+Example: Solange es Männer gibt guess= movie gold= confidence=0.997097
+Example: Song of the Sea Otter guess= movie gold= confidence=0.996639
+Example: Sonntags guess= place gold= confidence=0.35137
+Example: South guess= place gold= confidence=0.238155
+Example: South Tunnel guess= person gold= confidence=0.264738
+Example: Spec Ops: Stealth Patrol guess= movie gold= confidence=0.997435
+Example: Spinning Gasing guess= movie gold= confidence=0.874939
+Example: Spoof! guess= movie gold= confidence=0.869308
+Example: Spoof! An Insider's Guide to Short Film Success guess= movie gold= confidence=0.751295
+Example: Spotlight on George Takei guess= movie gold= confidence=0.511196
+Example: Star Wars: Episode I - Jedi Power Battles guess= movie gold= confidence=0.998765
+Example: Starforce guess= drug gold= confidence=0.351037
+Example: Stars Sing The Beatles guess= movie gold= confidence=0.773605
+Example: Steps to the Stars guess= movie gold= confidence=0.998381
+Example: Sting: The Brand New Day Tour - Live from the Universal Amphitheatre guess= movie gold= confidence=0.998789
+Example: Stjärnfall guess= place gold= confidence=0.0487286
+Example: Stopar guess= drug gold= confidence=0.183101
+Example: Stranger with a Camera guess= movie gold= confidence=0.897785
+Example: Strangers to Themselves guess= movie gold= confidence=0.959995
+Example: Strawberry Flavour guess= person gold= confidence=0.353217
+Example: Street Love guess= movie gold= confidence=0.48395
+Example: Suckerpunch guess= place gold= confidence=0.414513
+Example: Supaas torabaraazu guess= movie gold= confidence=0.878808
+Example: Superstar Female Serial Killer guess= person gold= confidence=0.142212
+Example: Survival of the Fattest guess= movie gold= confidence=0.987437
+Example: Surviving Abyssinia guess= movie gold= confidence=0.901575
+Example: Suzhou he guess= movie gold= confidence=0.770124
+Example: Sweet guess= place gold= confidence=0.358164
+Example: Sync guess= drug gold= confidence=0.159337
+Example: T'en as? guess= movie gold= confidence=0.999341
+Example: T.R.A.X. guess= movie gold= confidence=0.600355
+Example: Taivas tiellä guess= movie gold= confidence=0.904862
+Example: Take It to the Limit guess= movie gold= confidence=0.998252
+Example: Take My Life... Please guess= movie gold= confidence=0.538828
+Example: Tales of an Island guess= movie gold= confidence=0.88919
+Example: Tatort - Chaos guess= movie gold= confidence=0.849935
+Example: Tatort - Mord am Fluss guess= movie gold= confidence=0.996101
+Example: Tatort - Tod vor Scharhörn guess= movie gold= confidence=0.9674
+Example: Team Spirit guess= movie gold= confidence=0.55979
+Example: Teens Get Real guess= movie gold= confidence=0.605635
+Example: Teletubbies: Nursery Rhymes guess= movie gold= confidence=0.999164
+Example: Tempting Fate guess= movie gold= confidence=0.954521
+Example: Tenshi no rakuen guess= movie gold= confidence=0.971818
+Example: Terra Sonâmbula guess= person gold= confidence=0.21952
+Example: Terry Eichler: Beyond Duc My guess= movie gold= confidence=0.969536
+Example: That's Life guess= movie gold= confidence=0.988064
+Example: The American Astronaut guess= movie gold= confidence=0.983899
+Example: The Announcement guess= movie gold= confidence=0.974741
+Example: The Barber guess= movie gold= confidence=0.753312
+Example: The Black Meteor guess= movie gold= confidence=0.990587
+Example: The Bread, My Sweet guess= movie gold= confidence=0.997651
+Example: The Calling guess= movie gold= confidence=0.681413
+Example: The Cave guess= movie gold= confidence=0.951148
+Example: The Child guess= movie gold= confidence=0.773084
+Example: The Child and the Soldier guess= movie gold= confidence=0.998758
+Example: The Chippendales Murder guess= movie gold= confidence=0.996273
+Example: The Cindy Margolis Show guess= movie gold= confidence=0.965479
+Example: The City of Strangers guess= movie gold= confidence=0.992534
+Example: The Closer You Get guess= movie gold= confidence=0.977319
+Example: The Comedian guess= movie gold= confidence=0.895119
+Example: The Corrs: Unplugged guess= movie gold= confidence=0.99797
+Example: The Courage to Love guess= movie gold= confidence=0.996051
+Example: The Dark Years guess= movie gold= confidence=0.990864
+Example: The Dave Saint Show guess= movie gold= confidence=0.996174
+Example: The Distinct Smell of Red guess= movie gold= confidence=0.991835
+Example: The Djinn guess= movie gold= confidence=0.893475
+Example: The Etiquette Man guess= movie gold= confidence=0.996175
+Example: The Exhibited guess= movie gold= confidence=0.957002
+Example: The Film Biker guess= movie gold= confidence=0.986437
+Example: The Flunky guess= movie gold= confidence=0.932797
+Example: The Flux of Images guess= movie gold= confidence=0.99346
+Example: The Future of War guess= movie gold= confidence=0.998133
+Example: The Gang guess= movie gold= confidence=0.953639
+Example: The Gas Station guess= movie gold= confidence=0.985088
+Example: The Genocide Factor guess= movie gold= confidence=0.959972
+Example: The Gods of Times Square guess= movie gold= confidence=0.997838
+Example: The Heart's Root guess= movie gold= confidence=0.998572
+Example: The Hiking Viking guess= movie gold= confidence=0.990544
+Example: The Hollywood Sign guess= movie gold= confidence=0.928097
+Example: The Horror of... guess= movie gold= confidence=0.980941
+Example: The Innocent guess= movie gold= confidence=0.974018
+Example: The John Report with Bob guess= movie gold= confidence=0.996301
+Example: The Journey of Jared Price guess= movie gold= confidence=0.985777
+Example: The King's Guard guess= movie gold= confidence=0.997744
+Example: The Last Buckaroo guess= movie gold= confidence=0.994568
+Example: The Last Musketeer guess= movie gold= confidence=0.997004
+Example: The Leatherwoman guess= movie gold= confidence=0.803614
+Example: The Making of Lef guess= movie gold= confidence=0.998287
+Example: The Moving of Sophia Myles guess= movie gold= confidence=0.996141
+Example: The Mystery of Spoon River guess= movie gold= confidence=0.998512
+Example: The Mystery of the Romanovs guess= movie gold= confidence=0.999136
+Example: The Near Future guess= movie gold= confidence=0.996105
+Example: The Old Spaghetti Factory guess= movie gold= confidence=0.975124
+Example: The Opponent guess= movie gold= confidence=0.948721
+Example: The Opportunists guess= movie gold= confidence=0.964363
+Example: The Optimists guess= movie gold= confidence=0.986072
+Example: The Passage guess= movie gold= confidence=0.945729
+Example: The Pretenders guess= movie gold= confidence=0.984608
+Example: The Real Flying Tigers guess= movie gold= confidence=0.896641
+Example: The Runaway guess= movie gold= confidence=0.912693
+Example: The Secret guess= movie gold= confidence=0.973985
+Example: The Sopornos guess= movie gold= confidence=0.959531
+Example: The Strange Case of Señor Computer guess= movie gold= confidence=0.841644
+Example: The Substitute: Failure Is Not an Option guess= movie gold= confidence=0.998648
+Example: The Summer Intern guess= movie gold= confidence=0.989543
+Example: The Summer of the Kavalcutes guess= movie gold= confidence=0.997001
+Example: The Tao of Steve guess= movie gold= confidence=0.998071
+Example: The Tattoo guess= movie gold= confidence=0.986629
+Example: The Theory of Everything guess= movie gold= confidence=0.991761
+Example: The Van Boys guess= movie gold= confidence=0.954661
+Example: The Visit guess= movie gold= confidence=0.962949
+Example: The War Behind the Wire guess= movie gold= confidence=0.998389
+Example: The War Next Door guess= movie gold= confidence=0.997049
+Example: The Way of the Birds guess= movie gold= confidence=0.99871
+Example: The Weight of Water guess= movie gold= confidence=0.996921
+Example: The Wog Boy guess= movie gold= confidence=0.989538
+Example: There's Something About Jack 11 guess= movie gold= confidence=0.797249
+Example: They Will Laugh guess= person gold= confidence=0.0645363
+Example: Things You Can Tell Just by Looking at Her guess= movie gold= confidence=0.716275
+Example: This Is How the World Ends guess= movie gold= confidence=0.998346
+Example: Thomas the Falconer guess= movie gold= confidence=0.966747
+Example: Thomson of Arnhem Land guess= person gold= confidence=0.227613
+Example: Tight-Ass Lowriders guess= person gold= confidence=0.195846
+Example: Time Gentlemen, Please guess= movie gold= confidence=0.867599
+Example: Time of our Lives guess= movie gold= confidence=0.980666
+Example: Time to Live guess= movie gold= confidence=0.989229
+Example: Titkos szeretök guess= movie gold= confidence=0.962584
+Example: Tmavomoudrý svet guess= movie gold= confidence=0.933526
+Example: To the End of the Road guess= movie gold= confidence=0.999313
+Example: Together guess= place gold= confidence=0.271595
+Example: Tokyo Raiders guess= movie gold= confidence=0.656407
+Example: Tom Clancy's Rainbow Six guess= movie gold= confidence=0.508181
+Example: Tom Sawyer guess= person gold= confidence=0.424255
+Example: Top Tens guess= movie gold= confidence=0.886675
+Example: Torab al-ghoraba guess= movie gold= confidence=0.587764
+Example: Tout est calme guess= movie gold= confidence=0.997767
+Example: Transcension guess= place gold= confidence=0.187662
+Example: Travel Daze guess= movie gold= confidence=0.519873
+Example: Traveling Miles: Cassandra Wilson guess= movie gold= confidence=0.997487
+Example: Tre anni guess= movie gold= confidence=0.988143
+Example: Trial by Fire guess= movie gold= confidence=0.945541
+Example: Tribute to Alfred Lepetit guess= movie gold= confidence=0.86249
+Example: Trixie guess= drug gold= confidence=0.109087
+Example: True Hollywood Stories: Billionaire Boys Club guess= movie gold= confidence=0.974141
+Example: Trzy szalone zera guess= movie gold= confidence=0.9912
+Example: Turbulence guess= place gold= confidence=0.409442
+Example: Twice the Fun guess= movie gold= confidence=0.995269
+Example: Ultimate Fighting Championship guess= drug gold= confidence=0.113869
+Example: Um Dia na Vida guess= movie gold= confidence=0.977377
+Example: Un Anno in campagna guess= movie gold= confidence=0.984016
+Example: Un Colpo al cuore guess= movie gold= confidence=0.922396
+Example: Un enfant, un secret guess= movie gold= confidence=0.9989
+Example: Un possible amour guess= movie gold= confidence=0.988051
+Example: Unauthorized Brady Bunch: The Final Days guess= movie gold= confidence=0.999146
+Example: Une jeune fille à la fenêtre guess= movie gold= confidence=0.999327
+Example: Une mère en colère guess= movie gold= confidence=0.995165
+Example: Unreal Ads guess= movie gold= confidence=0.755256
+Example: Urmel 2: Faule Tricks auf hoher See guess= movie gold= confidence=0.999253
+Example: Uttara guess= movie gold= confidence=0.429244
+Example: VH-1 to One: The Corrs guess= movie gold= confidence=0.994032
+Example: VH1 Divas 2000: A Tribute to Diana Ross guess= movie gold= confidence=0.998375
+Example: Vamos Chile guess= drug gold= confidence=0.184335
+Example: Vampires of Sorority Row Part II guess= company gold= confidence=0.0076597
+Example: Vanishing Point guess= movie gold= confidence=0.813591
+Example: Vendetta guess= place gold= confidence=0.341024
+Example: Vent de colère guess= person gold= confidence=0.21813
+Example: Verboden te zuchten guess= movie gold= confidence=0.877648
+Example: Victor guess= drug gold= confidence=0.259822
+Example: Vies guess= movie gold= confidence=0.520727
+Example: Viimeiset mitalit guess= movie gold= confidence=0.970435
+Example: Viktor guess= movie gold= confidence=0.427883
+Example: Violence On Violence guess= person gold= confidence=0.301296
+Example: Virtuoso guess= movie gold= confidence=0.497609
+Example: Vogelforscher guess= place gold= confidence=0.188089
+Example: WWF No Mercy guess= movie gold= confidence=0.911367
+Example: Waking Mele guess= movie gold= confidence=0.805547
+Example: Wang ming zhi tao guess= movie gold= confidence=0.999077
+Example: Wanna See Me Pee? guess= movie gold= confidence=0.970237
+Example: Warpath guess= place gold= confidence=0.124989
+Example: Washed Up guess= movie gold= confidence=0.678765
+Example: Welcome to New York guess= movie gold= confidence=0.785806
+Example: What About Me: The Rise of the Nihilist Spasm Band guess= movie gold= confidence=0.99715
+Example: What Makes a Family guess= movie gold= confidence=0.991786
+Example: Where the Money Is guess= movie gold= confidence=0.990494
+Example: White Lightning guess= movie gold= confidence=0.729068
+Example: Wilder Days guess= person gold= confidence=0.0761576
+Example: Wilder Kaiser - Das Duell guess= movie gold= confidence=0.668802
+Example: Window guess= place gold= confidence=0.320833
+Example: Winds of Passion guess= movie gold= confidence=0.609276
+Example: With Closed Eyes guess= movie gold= confidence=0.777457
+Example: Wonder Boys guess= person gold= confidence=0.211488
+Example: Wonderland ...It Ain't guess= movie gold= confidence=0.713458
+Example: Word of Honor guess= movie gold= confidence=0.72116
+Example: Xi yang jing guess= movie gold= confidence=0.997586
+Example: Xian's Finest guess= movie gold= confidence=0.986091
+Example: Y decirte alguna estupidez, por ejemplo, te quiero guess= movie gold= confidence=0.99904
+Example: Yes, Dear guess= movie gold= confidence=0.982082
+Example: Yi jian zhong qing guess= movie gold= confidence=0.994332
+Example: Yo soy así guess= movie gold= confidence=0.996771
+Example: Yocavil guess= drug gold= confidence=0.0187418
+Example: You Made It guess= movie gold= confidence=0.65648
+Example: You'll Do guess= movie gold= confidence=0.96924
+Example: Yung wong jik chin guess= movie gold= confidence=0.981452
+Example: Zebralla guess= place gold= confidence=0.166189
+Example: Zir-e poost-e shahr guess= movie gold= confidence=0.848353
+Example: Zwei vom Blitz getroffen guess= movie gold= confidence=0.920292
+Example: ¡Ja me maaten..! guess= movie gold= confidence=0.999099
+Example: À ma soeur! guess= movie gold= confidence=0.999729
+Example: Épouse-moi guess= movie gold= confidence=0.631338
+Example: ìÁÎÄÙÛ ÓÅÒÅÂÒÉÓÔÙÊ guess= movie gold= confidence=0.999422
+Example: AEGON N.V. guess= company gold= confidence=0.679534
+Example: ALZA Corporation guess= company gold= confidence=0.991112
+Example: AMPCO Pittsburgh Corporation guess= company gold= confidence=0.839676
+Example: AON Corporation guess= company gold= confidence=0.988172
+Example: Abbey National Plc. guess= company gold= confidence=0.999669
+Example: Abercrombie & Fitch guess= movie gold= confidence=0.00653504
+Example: Agnico-Eagle Mines Limited guess= movie gold= confidence=0.350626
+Example: Airgas On-line guess= drug gold= confidence=0.00513509
+Example: Ak Steel Holding Corp guess= company gold= confidence=0.998473
+Example: Alberto Culver Co. guess= company gold= confidence=0.998538
+Example: Amcol International Corporation guess= company gold= confidence=0.910118
+Example: American Finl Cap Tr I guess= company gold= confidence=0.999376
+Example: American Home Prods Corp guess= company gold= confidence=0.997449
+Example: American Municipal Term Trust Inc. guess= company gold= confidence=0.999993
+Example: American Retirement Corp. guess= company gold= confidence=0.999827
+Example: Archstone Cmntys Tr guess= company gold= confidence=0.966813
+Example: Arden Realty Inc. guess= company gold= confidence=0.999615
+Example: Asia Pacific Wire & Cable guess= movie gold= confidence=0.0137826
+Example: Associated Estates Realty Corporation guess= company gold= confidence=0.984269
+Example: Atwood Oceanics Inc. guess= company gold= confidence=0.999845
+Example: BKF Capital Group, Inc. guess= company gold= confidence=0.999995
+Example: BRADY CORP guess= company gold= confidence=0.778495
+Example: BRT Realty Trust. guess= company gold= confidence=0.99957
+Example: Bairnco Corporation guess= company gold= confidence=0.986699
+Example: Bally Total Fitness Holding Corp. guess= company gold= confidence=0.999827
+Example: Battle Mountain Gold Co. guess= company gold= confidence=0.999369
+Example: Battle Mtn Gold Co guess= company gold= confidence=0.99598
+Example: Bay View Capital I guess= company gold= confidence=0.991284
+Example: Beckman Coulter Inc guess= company gold= confidence=0.999132
+Example: Belz Richard guess= person gold= confidence=0.00399777
+Example: Berkshire Hathaway Inc guess= company gold= confidence=0.980231
+Example: Best Buy Co. guess= company gold= confidence=0.998506
+Example: Best Foods guess= movie gold= confidence=0.00672343
+Example: Blount International Inc. guess= company gold= confidence=0.999972
+Example: Blue Square-Israel Ltd guess= company gold= confidence=0.934545
+Example: Blyth Industries Inc. guess= company gold= confidence=0.999901
+Example: Bny Cap Ii guess= company gold= confidence=0.984282
+Example: Boulder Total Return Fund Incorporated guess= company gold= confidence=0.999858
+Example: Boyd Gaming Corp guess= company gold= confidence=0.99593
+Example: Brandywine Realty Trust guess= company gold= confidence=0.983371
+Example: Bristol Myers Squibb Co guess= company gold= confidence=0.96501
+Example: British Energy Plc guess= company gold= confidence=0.993233
+Example: British Steel Plc guess= company gold= confidence=0.970661
+Example: Brush Wellman Inc guess= company gold= confidence=0.521672
+Example: CB Richard Ellis Services Inc. guess= company gold= confidence=0.999897
+Example: CNA Surety Corporation guess= company gold= confidence=0.994904
+Example: CVS Corporation guess= company gold= confidence=0.997189
+Example: Cabletron Systems Inc. guess= company gold= confidence=0.999933
+Example: Cablevision Sys Corp guess= company gold= confidence=0.99913
+Example: Canon, Inc. guess= company gold= confidence=0.997963
+Example: Capital Re LLC guess= drug gold= confidence=0.319537
+Example: Capital Trust Inc. guess= company gold= confidence=0.999899
+Example: Caterpillar Inc. guess= company gold= confidence=0.998519
+Example: Cbl & Associates Properties Inc. guess= company gold= confidence=0.999988
+Example: Centex Corporation guess= company gold= confidence=0.980631
+Example: Ceridian Corporation guess= company gold= confidence=0.995518
+Example: Chelsea Property Group, Inc. guess= company gold= confidence=0.999993
+Example: Chris Craft Industries Inc. guess= company gold= confidence=0.999992
+Example: Cigna Investment Securities, Inc. guess= company gold= confidence=0.999992
+Example: Circuit City Stores Inc. guess= company gold= confidence=0.999917
+Example: Coastalcast Corporation guess= company gold= confidence=0.998441
+Example: Colonial Investment Grade Municipal Trust guess= company gold= confidence=0.772713
+Example: Colonial Properties Trust guess= company gold= confidence=0.996264
+Example: Columbus Southern Power Co. guess= company gold= confidence=0.999697
+Example: Comed Financing guess= drug gold= confidence=0.0513222
+Example: Comfort Systems USA Inc. guess= company gold= confidence=0.999918
+Example: CompX International Inc. guess= company gold= confidence=0.999619
+Example: Computer Task Group, Incorporated guess= company gold= confidence=0.999777
+Example: Consolidated Edison Inc. guess= company gold= confidence=0.99929
+Example: Cooper Cameron Corporation. guess= company gold= confidence=0.999981
+Example: Copene-Petroquímica do Nordeste guess= movie gold= confidence=0.0521445
+Example: Cornell Companies Inc. guess= company gold= confidence=0.999987
+Example: Cornerstone Propane Partnership L.P. guess= company gold= confidence=0.999808
+Example: Correctional Properties Trust. guess= company gold= confidence=0.999819
+Example: Cox Communication Inc. guess= company gold= confidence=0.99991
+Example: Crane Co. guess= company gold= confidence=0.985804
+Example: CryoLife, Inc. guess= company gold= confidence=0.999962
+Example: DTE Energy Co. guess= company gold= confidence=0.999562
+Example: Dal Tile International Inc. guess= company gold= confidence=0.999937
+Example: Dan River Inc. guess= company gold= confidence=0.999266
+Example: Delaware Group Dividend & Income Fund, Inc. guess= company gold= confidence=0.999992
+Example: Detroit Edison guess= person gold= confidence=0.00523779
+Example: Developers Diversified Realty Corporation. guess= company gold= confidence=0.999694
+Example: Devry, Inc. guess= company gold= confidence=0.992963
+Example: Dillards Cap Tr I guess= company gold= confidence=0.999171
+Example: Distribución y Servicio (D&S) guess= company gold= confidence=0.919181
+Example: Dollar Thrifty Automotive Group Inc. guess= company gold= confidence=0.999993
+Example: Downey Financial Corporation. guess= company gold= confidence=0.999985
+Example: Dril-Quip, Inc. guess= company gold= confidence=0.998059
+Example: Dyerburg Corporation. guess= company gold= confidence=0.999959
+Example: EIX Trust guess= company gold= confidence=0.981249
+Example: Edison International. guess= company gold= confidence=0.925788
+Example: Ek Chor China Motorcycle Co. guess= company gold= confidence=0.999335
+Example: El Paso Energy Partners L P guess= company gold= confidence=0.999862
+Example: Elsevier N V guess= company gold= confidence=0.722396
+Example: Energen Corporation guess= company gold= confidence=0.990621
+Example: Enesco Group Inc. guess= company gold= confidence=0.999895
+Example: Engelhard Corporation guess= company gold= confidence=0.99351
+Example: Enron Corporation guess= company gold= confidence=0.974072
+Example: Entergy Gulf Sts Inc guess= company gold= confidence=0.999622
+Example: Enterprises Products Partners L.P guess= company gold= confidence=0.997976
+Example: Eog Resources Incorporated guess= company gold= confidence=0.999843
+Example: Equitable Res Cap Tr I guess= company gold= confidence=0.999803
+Example: Equities Office Properties Trust guess= company gold= confidence=0.997502
+Example: Espirito Santo Finl Grp S A guess= company gold= confidence=0.99995
+Example: Espirito Santo Overseas Limited guess= company gold= confidence=0.90863
+Example: FDX Corporation. guess= company gold= confidence=0.999975
+Example: FINL SEC ASSURN HLDGS LTD guess= company gold= confidence=0.774915
+Example: FLEETBOSTON FINL CORP guess= company gold= confidence=0.988173
+Example: Fannie Mae guess= movie gold= confidence=0.000424353
+Example: Fansteel Inc. guess= company gold= confidence=0.998943
+Example: Federal Realty Investment Trust. guess= company gold= confidence=0.999857
+Example: Federal Rlty Invt Tr guess= company gold= confidence=0.990578
+Example: Fedl Home Ln Mtg guess= movie gold= confidence=0.0331763
+Example: First Data Corporation. guess= company gold= confidence=0.999978
+Example: Fleetwood Enterprises Inc. guess= company gold= confidence=0.99999
+Example: Fletcher Challenge Energy Division. guess= company gold= confidence=0.942351
+Example: Fletcher challenge Limited (FFS.A) guess= company gold= confidence=0.993239
+Example: Flowers Industries Inc. guess= company gold= confidence=0.999967
+Example: Flowserve Corporation. guess= company gold= confidence=0.999944
+Example: Fort James Corporation guess= company gold= confidence=0.997109
+Example: Gabelli Equity Tr Inc guess= company gold= confidence=0.999981
+Example: General Chemical Group Inc. guess= company gold= confidence=0.999984
+Example: General Mtrs Cap Tr D guess= company gold= confidence=0.998199
+Example: Giant Industries Inc. guess= company gold= confidence=0.999939
+Example: Global Power Equipment Group Inc. guess= company gold= confidence=0.999986
+Example: Goodrich Petroleum Corporation guess= company gold= confidence=0.999206
+Example: Great Lakes Reit guess= movie gold= confidence=0.00153181
+Example: Great Northern Iron Ore Properties. guess= company gold= confidence=0.999923
+Example: Griffon Corporation guess= company gold= confidence=0.925568
+Example: Groupe Danone guess= person gold= confidence=0.00436952
+Example: Grubb & Ellis Co. guess= company gold= confidence=0.999007
+Example: Gucci Group N V guess= company gold= confidence=0.991904
+Example: Gundle Slt Environmental guess= drug gold= confidence=0.114086
+Example: HALO Industries Inc. guess= company gold= confidence=0.999962
+Example: Harris Corporation. guess= company gold= confidence=0.999416
+Example: Harsco Corporation. guess= company gold= confidence=0.999876
+Example: Head N.V. guess= movie gold= confidence=0.0804277
+Example: Health Net, Inc. guess= company gold= confidence=0.999537
+Example: Healthcare Rlty Tr guess= company gold= confidence=0.917792
+Example: Highwoods Properties Inc guess= company gold= confidence=0.99998
+Example: Home Depot Inc. guess= company gold= confidence=0.999855
+Example: Homestake Mining Co. guess= company gold= confidence=0.999435
+Example: Honeywell International, Inc. guess= company gold= confidence=0.999992
+Example: Household Cap Tr I guess= company gold= confidence=0.999371
+Example: IBP Inc. guess= company gold= confidence=0.99983
+Example: Indiana Energy Inc. guess= company gold= confidence=0.999899
+Example: Internacional de Cerámica S.A. guess= company gold= confidence=0.934088
+Example: J.P. Morgan Chase & Co. guess= company gold= confidence=0.999929
+Example: Jack in the Box Inc. guess= company gold= confidence=0.979008
+Example: John Hancock Patriot Global Dividend Fund guess= company gold= confidence=0.997038
+Example: Jostens Inc. guess= company gold= confidence=0.99471
+Example: KLM Royal Dutch Airlines. guess= company gold= confidence=0.660364
+Example: Kansas City Southern Industies Inc. guess= company gold= confidence=0.999989
+Example: Katy Inds Inc guess= company gold= confidence=0.999846
+Example: Kimberly Clark Corp guess= company gold= confidence=0.995437
+Example: Kinder Morgan Energy Partners L.P guess= company gold= confidence=0.99997
+Example: Krispy Kreme Doughnuts, Inc. guess= company gold= confidence=0.999985
+Example: LEXMARK INTL INC guess= company gold= confidence=0.997679
+Example: Lasmo Plc guess= company gold= confidence=0.950905
+Example: Leggett & Platt Inc. guess= company gold= confidence=0.998879
+Example: Leviathan Gas Pipeline Partners L.P guess= company gold= confidence=0.998287
+Example: Lexington Corporate Properties Trust guess= company gold= confidence=0.9999
+Example: Liberty Ppty Tr guess= company gold= confidence=0.984579
+Example: Lincoln National Capital III guess= company gold= confidence=0.987502
+Example: Ltc Pptys Inc guess= company gold= confidence=0.999899
+Example: Lyondell Chemical Co. guess= company gold= confidence=0.998846
+Example: Manpower Inc. guess= company gold= confidence=0.998921
+Example: Markel Corporation. guess= company gold= confidence=0.999863
+Example: Mascotech Inc. guess= company gold= confidence=0.98807
+Example: Maxtor Corp. guess= company gold= confidence=0.998815
+Example: May Department Stores Co. guess= company gold= confidence=0.999665
+Example: Mdu Resources Group Inc. guess= company gold= confidence=0.99996
+Example: Mead Corporation. guess= company gold= confidence=0.998923
+Example: Medical Assurance Inc. guess= company gold= confidence=0.999712
+Example: Merck & Co Inc. guess= company gold= confidence=0.999924
+Example: Mercury General Corporation. guess= company gold= confidence=0.99996
+Example: Meristar Hotels & Resorts, Inc. guess= company gold= confidence=0.999981
+Example: Metals Usa, Inc. guess= company gold= confidence=0.999871
+Example: Mettler Toledo International Inc. guess= company gold= confidence=0.999984
+Example: Mid Atlanta Medical Services Inc. guess= company gold= confidence=0.999972
+Example: Millipore Corporation. guess= company gold= confidence=0.999956
+Example: Mills Corporation. guess= company gold= confidence=0.999917
+Example: Minerals Technologies Inc. guess= company gold= confidence=0.999967
+Example: Minnesota Municipal Term Trust Inc. guess= company gold= confidence=0.999996
+Example: Mmi Products Inc. guess= company gold= confidence=0.999904
+Example: Monaco Coach Corpration guess= company gold= confidence=0.996635
+Example: Monongahela Pwr Co guess= company gold= confidence=0.9996
+Example: Montana Pwr Cap I guess= company gold= confidence=0.997073
+Example: Moore Corporation Ltd guess= company gold= confidence=0.999927
+Example: Motivepower Industries Inc. guess= company gold= confidence=0.999956
+Example: Mueller Inds Inc guess= company gold= confidence=0.999905
+Example: Mutual Risk Mangement Ltd. guess= company gold= confidence=0.996309
+Example: NBCI Auto Commn Exchange guess= drug gold= confidence=0.0148378
+Example: National Australia Bank Ltd. guess= company gold= confidence=0.994738
+Example: National Golf Properties Inc. guess= company gold= confidence=0.999979
+Example: Nations Balanced Target Maturity Fund, Inc. guess= company gold= confidence=0.999992
+Example: Newfield Exploration Co. guess= company gold= confidence=0.999905
+Example: Nfo Worldwide Inc. guess= company gold= confidence=0.999194
+Example: Nippon Telegraph and Telephone Corp. guess= company gold= confidence=0.999757
+Example: Noble Affiliates Inc. guess= company gold= confidence=0.999933
+Example: Northrop Grumman Corporation guess= company gold= confidence=0.997619
+Example: Northwest Natural Gas Company guess= company gold= confidence=0.991164
+Example: Novartis guess= drug gold= confidence=0.00425746
+Example: Nuveen Arizona Premium Income Municipal Fund guess= company gold= confidence=0.996374
+Example: Nuveen California Performance Municipal Fund guess= company gold= confidence=0.993073
+Example: Nuveen California Select Quality Municipal Fund guess= company gold= confidence=0.982637
+Example: Nuveen Insured New York Select Tax-Free Income Portfolio guess= drug gold= confidence=0.132539
+Example: Nuveen New Jersey Investment Quality Municipal Fund guess= company gold= confidence=0.997705
+Example: Nuveen New York Performance Plus Municipal Fund guess= company gold= confidence=0.992577
+Example: Nuveen New York Quality Income Municipal Fund guess= company gold= confidence=0.999749
+Example: Nuveen New York Select Quality Municipal Fund guess= company gold= confidence=0.987723
+Example: Omnicom Group Inc. guess= company gold= confidence=0.999815
+Example: Oneok Inc. guess= company gold= confidence=0.997027
+Example: Orbital Engine Corporation Ltd. guess= company gold= confidence=0.999907
+Example: Outback Steakhouse, Inc. guess= company gold= confidence=0.999925
+Example: Pacific Gulf Properties Inc. guess= company gold= confidence=0.999984
+Example: Pacificorp Cap Ii guess= company gold= confidence=0.990085
+Example: Packaging Corporation Of America guess= company gold= confidence=0.989295
+Example: Pakistan Investment Fund, Inc. guess= company gold= confidence=0.999991
+Example: Pan Pacific Retail Properties guess= company gold= confidence=0.928467
+Example: Partnerre Ltd guess= company gold= confidence=0.549986
+Example: PennEngineering guess= place gold= confidence=0.00186861
+Example: Pharmacia Corporation guess= company gold= confidence=0.992323
+Example: Pimco Commercial Mortgage Securities Trust, Inc. guess= company gold= confidence=0.999996
+Example: Pitney Bowes Inc guess= company gold= confidence=0.995852
+Example: Plc Cap Tr I guess= company gold= confidence=0.99958
+Example: Policy Management Systems Corporation. guess= company gold= confidence=0.999954
+Example: Progressive Return Fund, Inc. guess= company gold= confidence=0.999981
+Example: Prospect Street High Income Portfolio Inc. guess= company gold= confidence=0.999962
+Example: Pure Resources, Inc. guess= company gold= confidence=0.999898
+Example: Putnam Master Intermediate Income Trust guess= company gold= confidence=0.999796
+Example: Putnam Municipal Opportunities Trust guess= company gold= confidence=0.998954
+Example: Ralston Purina Co guess= company gold= confidence=0.992471
+Example: Rayonier Inc. guess= company gold= confidence=0.999273
+Example: Raytech Corporation. guess= company gold= confidence=0.999864
+Example: Rdo Equipment Co. guess= company gold= confidence=0.999544
+Example: Readers Digest Associates Inc. guess= company gold= confidence=0.999988
+Example: Readers Digest Association Inc. guess= company gold= confidence=0.999974
+Example: Rhodia guess= movie gold= confidence=0.0021301
+Example: Rightchoice Managed Care Inc. guess= company gold= confidence=0.999981
+Example: Rohm & Haas Co. guess= company gold= confidence=0.997802
+Example: Rollins Truck Leasing Corporation. guess= company gold= confidence=0.999983
+Example: Rouse Company guess= person gold= confidence=0.125183
+Example: Ruby Tuesday Inc. guess= company gold= confidence=0.999685
+Example: Ryland Group Inc. guess= company gold= confidence=0.999854
+Example: S&P Global 100 Index guess= drug gold= confidence=0.00218094
+Example: SAP AG guess= company gold= confidence=0.923004
+Example: Safeway Inc. guess= company gold= confidence=0.99747
+Example: Saks Inc. guess= company gold= confidence=0.982755
+Example: Salomon Smith Barney Holding Inc. guess= company gold= confidence=0.999899
+Example: San Paolo-Imi S P A guess= company gold= confidence=0.999541
+Example: Santander Overseas Bank, Inc. guess= company gold= confidence=0.999915
+Example: Scotts Co guess= company gold= confidence=0.98255
+Example: Scudder Multi-Market Income Trust guess= company gold= confidence=0.999528
+Example: Scudder Strategic Municipal Income Trust guess= company gold= confidence=0.998553
+Example: Seacor Smit Inc. guess= company gold= confidence=0.998904
+Example: Serono guess= movie gold= confidence=0.00133704
+Example: Shaw Communications Inc. guess= company gold= confidence=0.99998
+Example: Sierra Pac Pwr Cap I guess= company gold= confidence=0.996809
+Example: Sizeler Property Investors Inc. guess= company gold= confidence=0.999985
+Example: Smith Charles E Residential Realty Inc. guess= company gold= confidence=0.999977
+Example: Socieda Quimica Min De Chile guess= drug gold= confidence=0.0219475
+Example: South Jersey Industries Inc. guess= company gold= confidence=0.999986
+Example: Specialty Laboratories, Inc. guess= company gold= confidence=0.999985
+Example: Ssbh Cap I guess= company gold= confidence=0.921139
+Example: St. Paul Companies guess= company gold= confidence=0.464915
+Example: Standard Commercial Corporation. guess= company gold= confidence=0.999984
+Example: Standex International Corporation. guess= company gold= confidence=0.999689
+Example: Sulzer Medica guess= person gold= confidence=0.0191132
+Example: Sunbeam Corporation guess= company gold= confidence=0.99413
+Example: Swisscom Ag guess= movie gold= confidence=0.110316
+Example: Talbots Inc. guess= company gold= confidence=0.998506
+Example: Tefron Ltd. guess= company gold= confidence=0.841799
+Example: Telebras HOLDRs guess= drug gold= confidence=0.0299107
+Example: Telefónica del Perú SA guess= company gold= confidence=0.997216
+Example: Telemig Celular Participações S.A. guess= company gold= confidence=0.999925
+Example: Templeton Emerging Markets Appreciation Fund, Inc. guess= company gold= confidence=0.99998
+Example: Tennessee Valley Auth guess= movie gold= confidence=0.148634
+Example: Terra Industries Inc. guess= company gold= confidence=0.999859
+Example: Terra Nitrogen Co. LP guess= company gold= confidence=0.990983
+Example: Tesoro Petroleum Corporation. guess= company gold= confidence=0.999977
+Example: Texas Instruments Inc. guess= company gold= confidence=0.999978
+Example: Texas Utils Co guess= company gold= confidence=0.998264
+Example: The Blackrock 2001 Term Trust Inc. guess= company gold= confidence=0.999425
+Example: The Blackrock Florida Insured Municipal 2008 Term Trust guess= company gold= confidence=0.997738
+Example: The Blackrock Insured Municipal 2008 Term Trust Inc. guess= company gold= confidence=0.999989
+Example: The Gabelli Equity Trust Inc. guess= company gold= confidence=0.999981
+Example: The Germany Fund, Inc. guess= company gold= confidence=0.99969
+Example: The Great-wesr Life Assurance Company guess= company gold= confidence=0.903093
+Example: The Greater China Fund, Inc. guess= company gold= confidence=0.999689
+Example: The Latin American Discovery Fund, Inc. guess= company gold= confidence=0.999951
+Example: The Swiss Helvetia Fund, Inc. guess= company gold= confidence=0.999355
+Example: Theragenics Corporation. guess= company gold= confidence=0.999963
+Example: Thomas Industries Inc. guess= company gold= confidence=0.999961
+Example: Time Warner Capital I guess= company gold= confidence=0.947545
+Example: Transcontinental Realty Investors Inc. guess= company gold= confidence=0.999991
+Example: Transportadora de Gas del Sur guess= movie gold= confidence=0.00532101
+Example: Tremont Corporation guess= company gold= confidence=0.995636
+Example: Trinity Industries Inc. guess= company gold= confidence=0.999949
+Example: Triton Energy Ltd guess= company gold= confidence=0.986392
+Example: Twin Disc Inc. guess= company gold= confidence=0.999688
+Example: UAL Corporation. guess= company gold= confidence=0.999952
+Example: UNOCAL CORP guess= company gold= confidence=0.784575
+Example: US Airways Group Inc guess= company gold= confidence=0.999982
+Example: Un Banco Más de Todos guess= movie gold= confidence=0.0202829
+Example: UniSource Energy Corporation guess= company gold= confidence=0.999089
+Example: Unigraphics Solutions Inc. guess= company gold= confidence=0.999922
+Example: Unisys Corp guess= company gold= confidence=0.992399
+Example: United Parcel Service, Inc. guess= company gold= confidence=0.999989
+Example: United Park City Mines Co.. guess= company gold= confidence=0.999834
+Example: United Technologies Corporation. guess= company gold= confidence=0.999982
+Example: União de Bancos Brasileiros S.A (Unibanco) guess= company gold= confidence=0.973024
+Example: UnumProvident Corporation guess= company gold= confidence=0.990507
+Example: Urstadt Biddle Properties Inc. guess= company gold= confidence=0.999991
+Example: Usx Marathon Lg-Tm guess= drug gold= confidence=0.0014967
+Example: Van Kampen Bond Fund guess= company gold= confidence=0.968169
+Example: Van Kampen High Income Trust II guess= company gold= confidence=0.999738
+Example: Van Kampen Senior Income Trust guess= company gold= confidence=0.999855
+Example: Venator Group Inc. guess= company gold= confidence=0.999856
+Example: Verizon Communications guess= drug gold= confidence=0.207433
+Example: Viacom Inc. guess= company gold= confidence=0.999498
+Example: Viasystems Group Inc guess= company gold= confidence=0.999934
+Example: Vintage Petroleum Inc. guess= company gold= confidence=0.999901
+Example: Vishay Intertechnology Inc. guess= company gold= confidence=0.999969
+Example: Vlasic Foods International Inc. guess= company gold= confidence=0.999947
+Example: Volt Information Sciences Inc. guess= company gold= confidence=0.99994
+Example: Wackenhut Corporation. guess= company gold= confidence=0.999906
+Example: Washington Real Estate Investment guess= company gold= confidence=0.910202
+Example: Weddell & Reed Financial Inc guess= company gold= confidence=0.997015
+Example: Wellpoint Health Networks Inc. guess= company gold= confidence=0.999974
+Example: Wendys Fing I guess= company gold= confidence=0.548331
+Example: Westport Resources Corporation guess= company gold= confidence=0.999287
+Example: White Mount Ins Grp Ltd Berm guess= movie gold= confidence=0.425587
+Example: Whitehall Jewellers Inc guess= company gold= confidence=0.816593
+Example: Williams Companies Inc guess= company gold= confidence=0.999907
+Example: Winston Hotels, Inc. guess= company gold= confidence=0.999877
+Example: Wmc Ltd guess= company gold= confidence=0.488439
+Example: World Wrestling Federation Entertainment, Inc. guess= company gold= confidence=0.999993
+Example: Wpsr Cap Tr I guess= company gold= confidence=0.996739
+Example: Wynns International Inc. guess= company gold= confidence=0.999982
+Example: YPF guess= drug gold= confidence=0.00830354
+Example: iStar Financial Inc. guess= company gold= confidence=0.99979
+Example: lehman Brothers Holdings Capital. guess= company gold= confidence=0.996827

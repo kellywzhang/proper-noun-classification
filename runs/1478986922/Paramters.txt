@@ -1,7 +1,0 @@
-
-
-Time Step = 5
-Train Loss = 50.56647872924805
-Train Accuracy = 0.3125
-Validation Loss = 50.46886444091797
-Validation Accuracy = 0.3125

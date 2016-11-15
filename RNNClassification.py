@@ -40,7 +40,7 @@ class RNNClassifier(object):
                 forward_cell = rnn_cell.GRUCell(state_size=hidden_size, input_size=embedding_dim, scope="GRU-Forward")
                 backward_cell = rnn_cell.GRUCell(state_size=hidden_size, input_size=embedding_dim, scope="GRU-Backward")
 
-                hidden_states, last_state = bidirectional_rnn(forward_cell, backward_cell, \
+                hidden_states, last_state = rnn.bidirectional_rnn(forward_cell, backward_cell, \
                     input_embedding, self.seq_lens, batch_size, embedding_dim, concatenate=True)
             else:
                 # One directional RNN (start to end)
@@ -62,12 +62,13 @@ class RNNClassifier(object):
 
             # Softmax
             # Dimensions (batch x time)
-            prediction_probs = tf.nn.softmax(prediction_probs_unnormalized)
+            prediction_probs = tf.nn.softmax(prediction_probs_unnormalized, name="prediction_probs")
             likelihoods = tf.reduce_sum(tf.mul(prediction_probs, one_hot_y), 1)
             log_likelihoods = tf.log(likelihoods)
 
             # Negative log-likelihood loss
             self.loss = tf.mul(tf.reduce_sum(log_likelihoods), -1)
+            predictions = tf.argmax(prediction_probs, 1, name="predictions")
             correct_vector = tf.cast(tf.equal(tf.argmax(one_hot_y, 1), tf.argmax(prediction_probs, 1)), \
                 tf.float32, name="correct_vector")
             self.accuracy = tf.reduce_mean(correct_vector)

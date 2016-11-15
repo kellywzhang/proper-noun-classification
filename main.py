@@ -9,11 +9,11 @@ from RNNClassification import RNNClassifier
 
 # Code based on: https://github.com/dennybritz/cnn-text-classification-tf
 
-embedding_dim = 64
-batch_size = 32
+embedding_dim = 100 #64
+batch_size = 54
 hidden_size = 100
 num_classes = 5
-num_epochs = 5
+num_epochs = 50
 learning_rate = 0.001
 
 # Load Data
@@ -77,8 +77,6 @@ def dev_eval(dev_data, current_step, writer=None):
     time_str = datetime.datetime.now().isoformat()
     print("Dev:   {}: step {}, loss {:g}, acc {:g}".format(time_str, current_step, \
         loss_val/batch_count, accuracy_val/batch_count))
-    if writer:
-        writer.add_summary(summaries, current_step)
 
     return (loss_val, accuracy_val)
 
@@ -89,27 +87,21 @@ def dev_step(x_batch, y_batch, seq_lens, current_step, writer=None):
 
     x_batch_padded = data_utils.pad(x_batch, seq_lens)
 
-    """
-    print(type(x_batch))
-    print(type(y_batch))
-    print(type(seq_lens))
-    print(x_batch_padded)
-    print(y_batch)
-    print(seq_lens)
-    """
-
     feed_dict = {
         nn.input_x: x_batch_padded,
         nn.input_y: y_batch,
-        #[3, 1, 0, 0, 4, 3, 2, 3, 2, 3, 3, 4, 4, 0, 1, 1, 1, 0, 2, 0, 3, 2, 2, 3, 2, 0, 2, 2, 0, 3, 3, 3],
         nn.seq_lens: seq_lens
     }
     summaries, loss_val, accuracy_val = sess.run([dev_summary_op, nn.loss, nn.accuracy], feed_dict)
+    if writer:
+        writer.add_summary(summaries, current_step)
 
     return (loss_val, accuracy_val)
 
 # Starting Session
 # ================================================================================
+
+graph = tf.Graph()
 sess = tf.InteractiveSession()
 nn = RNNClassifier(
         num_classes=num_classes,
@@ -117,7 +109,7 @@ nn = RNNClassifier(
         hidden_size=hidden_size,
         embedding_dim=embedding_dim,
         batch_size=batch_size,
-        bidirectional=False
+        bidirectional=True
     )
 
 optimizer = tf.train.AdamOptimizer(learning_rate) # TODO: CHOOSE YOUR FAVORITE OPTIMZER
@@ -212,7 +204,7 @@ def run_for_epochs(batches):
         if current_step % 100 == 0:
             train_loss, train_accuracy = train_step(x_batch, y_batch, seq_lens_batch, \
                 current_step, print_bool=True)
-            dev_loss, dev_accuracy = dev_eval(dev_data, current_step)
+            dev_loss, dev_accuracy = dev_eval(dev_data, current_step, writer=dev_summary_writer)
 
         else:
             train_loss, train_accuracy = train_step(x_batch, y_batch, seq_lens_batch, \
@@ -229,10 +221,22 @@ train_loss, train_accuracy = run_for_epochs(batches)
 
 print("\nFinal Valildation Evaluation:")
 current_step = tf.train.global_step(sess, global_step)
-dev_loss, dev_accuracy = dev_step(x_dev, y_dev, seq_lens_dev, current_step, writer=dev_summary_writer)
+dev_loss, dev_accuracy = dev_eval(dev_data, current_step, writer=dev_summary_writer)
 #print("Maximum validation accuracy at step {}: {}".format(max_accuracy_step, max_accuracy))
 print("")
 
 tf_helpers.write_results(current_step, train_loss, train_accuracy, dev_loss, dev_accuracy, timestamp)
+
+"""
+for v in tf.all_variables():
+    print(v.name)
+
+input_x = graph.as_graph_element("input_x:0").outputs[0]
+input_y = graph.as_graph_element("input_y:0").outputs[0]
+seq_lens = graph.as_graph_element("seq_lens:0").outputs[0]
+
+predictions = graph.get_operation_by_name("output/predictions").outputs[0]
+num_correct = graph.get_operation_by_name("output/num_correct").outputs[0]
+"""
 
 sess.close()

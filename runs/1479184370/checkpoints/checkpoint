@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/kellyzhang/Documents/FUNFUNFUN/proper-noun-classification/runs/1479184370/checkpoints/model-6501"
+all_model_checkpoint_paths: "/Users/kellyzhang/Documents/FUNFUNFUN/proper-noun-classification/runs/1479184370/checkpoints/model-4501"
+all_model_checkpoint_paths: "/Users/kellyzhang/Documents/FUNFUNFUN/proper-noun-classification/runs/1479184370/checkpoints/model-5001"
+all_model_checkpoint_paths: "/Users/kellyzhang/Documents/FUNFUNFUN/proper-noun-classification/runs/1479184370/checkpoints/model-5501"
+all_model_checkpoint_paths: "/Users/kellyzhang/Documents/FUNFUNFUN/proper-noun-classification/runs/1479184370/checkpoints/model-6001"
+all_model_checkpoint_paths: "/Users/kellyzhang/Documents/FUNFUNFUN/proper-noun-classification/runs/1479184370/checkpoints/model-6501"
