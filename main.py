@@ -9,11 +9,11 @@ from RNNClassification import RNNClassifier
 
 # Code based on: https://github.com/dennybritz/cnn-text-classification-tf
 
-embedding_dim = 100 #64
+embedding_dim = 100
 batch_size = 54
 hidden_size = 100
 num_classes = 5
-num_epochs = 50
+num_epochs = 10
 learning_rate = 0.001
 
 # Load Data

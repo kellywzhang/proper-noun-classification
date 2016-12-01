@@ -23,6 +23,9 @@ def rnn(cell, inputs, seq_lens, batch_size, embedding_dim):
     # Find the maximum document length, set as total number of time steps
     time = tf.reduce_max(seq_lens)
 
+    batch_size = tf.shape(inputs)[0]
+    embedding_dim = tf.shape(inputs)[2]
+
     # Continue with loop if condition returns true
     def condition(i, inputs, state, outputs):
         return tf.less(i, time)
@@ -32,13 +35,15 @@ def rnn(cell, inputs, seq_lens, batch_size, embedding_dim):
         # FIGURE OUT HOW TO GET PROPER NUMBERS HERE: with tf.variable_scope("Cell-Time{}".format(1)):
         with tf.variable_scope("Cell-Time"):
             # Take one time step's worth of input and create mask (time_mask discussed in rnn_cell.py)
-            input_ = tf.slice(inputs, [0, i, 0], [batch_size, 1, embedding_dim])
+            input_ = tf.slice(inputs, [0, i, 0], [batch_size, 1, embedding_dim]) #################################################################
             time_mask = tf.slice(seq_len_mask, [0, i], [batch_size, 1])
             # Squeeze to get correct dimensions - dim 1 goes to 0
             input_ = tf.squeeze(input_)
 
             # RNN time step
             output, state = cell(input_, state, time_mask)
+
+            output = tf.expand_dims(output, 1) #################################################################
 
             # Concatenate output to tensor of all outputs (hidden states)
             # Dimensions: batch x time x hidden_state_size
@@ -53,19 +58,23 @@ def rnn(cell, inputs, seq_lens, batch_size, embedding_dim):
     # Will remove these zeros after the while loop ends
     # Did this because need to concatenate current time step's hidden state with all prev
         # timestep's hidden states; can't concatenate with "None" as one argument
-    outputs = tf.TensorShape([batch_size, None])
+    outputs = tf.TensorShape([None, None, cell._state_size])#################################################################
 
-    # Run RNN while loop
+    # Run RNN while loop#################################################################
     _, _, last_state, hidden_states = tf.while_loop(condition, body, \
-        loop_vars=[i, inputs, state, tf.zeros([batch_size, 1])], \
+        loop_vars=[i, inputs, state, tf.zeros([batch_size, 1, cell._state_size])], \
+        #loop_vars=[i, inputs, state, tf.zeros([batch_size, 1])], \
         # Shape_invariants arg allows one to specify dimensions of inputs and outputs of each iterations
         # By using "None" as a dimension, signifies that this dimension can change
         shape_invariants=[i.get_shape(), inputs.get_shape(), state.get_shape(), outputs])
 
     # get rid of zero output start state for concat purposes (see "body")
-    hidden_states = tf.slice(hidden_states, [0, 1], [batch_size, -1])
+    hidden_states = tf.slice(hidden_states, [0, 1, 0], [batch_size, -1, cell._state_size])
+    print(hidden_states)
     # reshape hidden_states to (batch x time x hidden_state_size)
-    hidden_states = tf.reshape(hidden_states, [batch_size, -1, cell._state_size])
+    #hidden_states = tf.reshape(hidden_states, [batch_size, -1, cell._state_size])
+    print(hidden_states)
+    print("\n")
 
     # Dimensions: outputs (batch x time x hidden_size); last_state (batch x hidden_size)
     return (hidden_states, last_state)

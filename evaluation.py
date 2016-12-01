@@ -5,7 +5,9 @@ import os
 import data_utils
 
 #1479175091
-checkpoint_dir = os.path.join(os.path.abspath(os.path.curdir), "runs", "1479176649", "checkpoints")
+#1479582035
+#1479176649
+checkpoint_dir = os.path.join(os.path.abspath(os.path.curdir), "runs", "1479582035", "checkpoints")
 
 # Shared Parameters
 # ==================================================
@@ -98,5 +100,5 @@ proper_nouns_strings = [" ".join(d[1:]) for d in data]
 
 f = open("output.txt", 'w', encoding = "ISO-8859-1")
 for i in range(len(proper_nouns_strings)):
-    f.write("Example: "+proper_nouns_strings[i]+" guess= "+str(labels[int(all_predictions[i])])+" gold= confidence="+str(probs[i])+"\n")
+    f.write("Example: "+proper_nouns_strings[i]+" guess="+str(labels[int(all_predictions[i])])+" gold= confidence="+str(probs[i])+"\n")
 f.close()
